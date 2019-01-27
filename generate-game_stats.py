@@ -1,11 +1,11 @@
 import pandas as pd
 
-years = ['2005', '2006', '2008', '2009', '2010', '2011', '2012', '2013']
+years = ['2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013']
 
 columns = ["Game Code", "Winning Team Code", "Losing Team Code", "Winning Team Points", "Losing Team Points", "Winning Team Seed", "Losing Team Seed", "Upset Factor"]
-games = pd.DataFrame(columns= columns)
 
 for year in years:
+	games = pd.DataFrame(columns= columns)
 	team_game_statistics = pd.read_csv('./Data/' + year + '/team-game-statistics.csv')
 	used_games = []
 	for index, row in team_game_statistics.iterrows():
@@ -28,7 +28,7 @@ for year in years:
 			else:
 				games.loc[edit_row_index, 'Losing Team Points'] = row['Points']
 				games.loc[edit_row_index, 'Losing Team Code'] = row['Team Code']
-	print(games)
+	games.to_csv('game-stats-' + year + '.csv')
 
 		
 
