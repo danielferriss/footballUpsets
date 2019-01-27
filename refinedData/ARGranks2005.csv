@@ -1,0 +1,1785 @@
+,    1,    8251,   20050801, ARG, ARGH                , USC                 ,cf2005    
+0,2.0,7840.0,20050801.0, ARG, ARGH                , Texas               ,cf2005    
+1,3.0,402.0,20050801.0, ARG, ARGH                , Auburn              ,cf2005    
+2,4.0,5886.0,20050801.0, ARG, ARGH                , Oklahoma            ,cf2005    
+3,5.0,4719.0,20050801.0, ARG, ARGH                , Miami FL            ,cf2005    
+4,6.0,2881.0,20050801.0, ARG, ARGH                , Georgia             ,cf2005    
+5,7.0,5850.0,20050801.0, ARG, ARGH                , Ohio St             ,cf2005    
+6,8.0,7801.0,20050801.0, ARG, ARGH                , Tennessee           ,cf2005    
+7,9.0,4741.0,20050801.0, ARG, ARGH                , Michigan            ,cf2005    
+8,10.0,4206.0,20050801.0, ARG, ARGH                , LSU                 ,cf2005    
+9,11.0,3540.0,20050801.0, ARG, ARGH                , Iowa                ,cf2005    
+10,12.0,771.0,20050801.0, ARG, ARGH                , Boise St            ,cf2005    
+11,13.0,2666.0,20050801.0, ARG, ARGH                , Florida St          ,cf2005    
+12,14.0,6393.0,20050801.0, ARG, ARGH                , Purdue              ,cf2005    
+13,15.0,8459.0,20050801.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+14,16.0,7848.0,20050801.0, ARG, ARGH                , Texas A&M           ,cf2005    
+15,17.0,1098.0,20050801.0, ARG, ARGH                , California          ,cf2005    
+16,18.0,8432.0,20050801.0, ARG, ARGH                , Virginia            ,cf2005    
+17,19.0,304.0,20050801.0, ARG, ARGH                , Arizona St          ,cf2005    
+18,20.0,8315.0,20050801.0, ARG, ARGH                , Utah                ,cf2005    
+19,21.0,4224.0,20050801.0, ARG, ARGH                , Louisville          ,cf2005    
+20,22.0,1715.0,20050801.0, ARG, ARGH                , Colorado            ,cf2005    
+21,23.0,2625.0,20050801.0, ARG, ARGH                , Florida             ,cf2005    
+22,24.0,7918.0,20050801.0, ARG, ARGH                , Texas Tech          ,cf2005    
+23,25.0,2911.0,20050801.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+24,26.0,1603.0,20050801.0, ARG, ARGH                , Clemson             ,cf2005    
+25,27.0,2776.0,20050801.0, ARG, ARGH                , Fresno St           ,cf2005    
+26,28.0,4858.0,20050801.0, ARG, ARGH                , Minnesota           ,cf2005    
+27,29.0,5912.0,20050801.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+28,30.0,5970.0,20050801.0, ARG, ARGH                , Oregon St           ,cf2005    
+29,31.0,5511.0,20050801.0, ARG, ARGH                , NC State            ,cf2005    
+30,32.0,316.0,20050801.0, ARG, ARGH                , Arkansas            ,cf2005    
+31,33.0,9031.0,20050801.0, ARG, ARGH                , Wisconsin           ,cf2005    
+32,34.0,8588.0,20050801.0, ARG, ARGH                , Washington St       ,cf2005    
+33,35.0,8141.0,20050801.0, ARG, ARGH                , UCLA                ,cf2005    
+34,36.0,5749.0,20050801.0, ARG, ARGH                , Notre Dame          ,cf2005    
+35,37.0,6236.0,20050801.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+36,38.0,4474.0,20050801.0, ARG, ARGH                , Maryland            ,cf2005    
+37,39.0,783.0,20050801.0, ARG, ARGH                , Boston College      ,cf2005    
+38,40.0,5371.0,20050801.0, ARG, ARGH                , New Mexico          ,cf2005    
+39,41.0,3717.0,20050801.0, ARG, ARGH                , Kansas              ,cf2005    
+40,42.0,4757.0,20050801.0, ARG, ARGH                , Michigan St         ,cf2005    
+41,43.0,821.0,20050801.0, ARG, ARGH                , Bowling Green       ,cf2005    
+42,44.0,5961.0,20050801.0, ARG, ARGH                , Oregon              ,cf2005    
+43,45.0,9162.0,20050801.0, ARG, ARGH                , Wyoming             ,cf2005    
+44,46.0,74.0,20050801.0, ARG, ARGH                , Alabama             ,cf2005    
+45,47.0,3731.0,20050801.0, ARG, ARGH                , Kansas St           ,cf2005    
+46,48.0,4725.0,20050801.0, ARG, ARGH                , Miami OH            ,cf2005    
+47,49.0,5492.0,20050801.0, ARG, ARGH                , North Carolina      ,cf2005    
+48,50.0,5704.0,20050801.0, ARG, ARGH                , Northwestern        ,cf2005    
+49,51.0,7582.0,20050801.0, ARG, ARGH                , Stanford            ,cf2005    
+50,52.0,3554.0,20050801.0, ARG, ARGH                , Iowa St             ,cf2005    
+51,53.0,7365.0,20050801.0, ARG, ARGH                , Southern Miss       ,cf2005    
+52,54.0,1753.0,20050801.0, ARG, ARGH                , Colorado St         ,cf2005    
+53,55.0,8508.0,20050801.0, ARG, ARGH                , Wake Forest         ,cf2005    
+54,56.0,6114.0,20050801.0, ARG, ARGH                , Penn St             ,cf2005    
+55,57.0,4948.0,20050801.0, ARG, ARGH                , Missouri            ,cf2005    
+56,58.0,7729.0,20050801.0, ARG, ARGH                , Syracuse            ,cf2005    
+57,59.0,7978.0,20050801.0, ARG, ARGH                , Toledo              ,cf2005    
+58,60.0,5279.0,20050801.0, ARG, ARGH                , Nebraska            ,cf2005    
+59,61.0,87.0,20050801.0, ARG, ARGH                , UAB                 ,cf2005    
+60,62.0,891.0,20050801.0, ARG, ARGH                , BYU                 ,cf2005    
+61,63.0,4920.0,20050801.0, ARG, ARGH                , Mississippi         ,cf2005    
+62,64.0,8716.0,20050801.0, ARG, ARGH                , West Virginia       ,cf2005    
+63,65.0,1872.0,20050801.0, ARG, ARGH                , Connecticut         ,cf2005    
+64,66.0,7242.0,20050801.0, ARG, ARGH                , South Carolina      ,cf2005    
+65,67.0,294.0,20050801.0, ARG, ARGH                , Arizona             ,cf2005    
+66,68.0,4218.0,20050801.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+67,69.0,5634.0,20050801.0, ARG, ARGH                , N Illinois          ,cf2005    
+68,70.0,7933.0,20050801.0, ARG, ARGH                , UTEP                ,cf2005    
+69,71.0,6696.0,20050801.0, ARG, ARGH                , Rutgers             ,cf2005    
+70,72.0,55.0,20050801.0, ARG, ARGH                , Air Force           ,cf2005    
+71,73.0,4636.0,20050801.0, ARG, ARGH                , Memphis             ,cf2005    
+72,74.0,7278.0,20050801.0, ARG, ARGH                , South Florida       ,cf2005    
+73,75.0,7002.0,20050801.0, ARG, ARGH                , San Diego St        ,cf2005    
+74,76.0,3347.0,20050801.0, ARG, ARGH                , Houston             ,cf2005    
+75,77.0,7878.0,20050801.0, ARG, ARGH                , TCU                 ,cf2005    
+76,78.0,8068.0,20050801.0, ARG, ARGH                , Troy                ,cf2005    
+77,79.0,8551.0,20050801.0, ARG, ARGH                , Washington          ,cf2005    
+78,80.0,8092.0,20050801.0, ARG, ARGH                , Tulane              ,cf2005    
+79,81.0,4785.0,20050801.0, ARG, ARGH                , MTSU                ,cf2005    
+80,82.0,4936.0,20050801.0, ARG, ARGH                , Mississippi St      ,cf2005    
+81,83.0,2265.0,20050801.0, ARG, ARGH                , Duke                ,cf2005    
+82,84.0,3197.0,20050801.0, ARG, ARGH                , Hawaii              ,cf2005    
+83,85.0,1529.0,20050801.0, ARG, ARGH                , Cincinnati          ,cf2005    
+84,86.0,5253.0,20050801.0, ARG, ARGH                , Navy                ,cf2005    
+85,87.0,7358.0,20050801.0, ARG, ARGH                , SMU                 ,cf2005    
+86,88.0,8367.0,20050801.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+87,89.0,5316.0,20050801.0, ARG, ARGH                , Nevada              ,cf2005    
+88,90.0,8099.0,20050801.0, ARG, ARGH                , Tulsa               ,cf2005    
+89,91.0,557.0,20050801.0, ARG, ARGH                , Baylor              ,cf2005    
+90,92.0,5584.0,20050801.0, ARG, ARGH                , North Texas         ,cf2005    
+91,93.0,3781.0,20050801.0, ARG, ARGH                , Kentucky            ,cf2005    
+92,94.0,66.0,20050801.0, ARG, ARGH                , Akron               ,cf2005    
+93,95.0,4436.0,20050801.0, ARG, ARGH                , Marshall            ,cf2005    
+94,96.0,3425.0,20050801.0, ARG, ARGH                , Illinois            ,cf2005    
+95,97.0,4200.0,20050801.0, ARG, ARGH                , ULM                 ,cf2005    
+96,98.0,3771.0,20050801.0, ARG, ARGH                , Kent                ,cf2005    
+97,99.0,5323.0,20050801.0, ARG, ARGH                , UNLV                ,cf2005    
+98,100.0,3484.0,20050801.0, ARG, ARGH                , Indiana             ,cf2005    
+99,101.0,4194.0,20050801.0, ARG, ARGH                , ULL                 ,cf2005    
+100,102.0,6535.0,20050801.0, ARG, ARGH                , Rice                ,cf2005    
+101,103.0,5387.0,20050801.0, ARG, ARGH                , New Mexico St       ,cf2005    
+102,104.0,2638.0,20050801.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+103,105.0,3415.0,20050801.0, ARG, ARGH                , Idaho               ,cf2005    
+104,106.0,333.0,20050801.0, ARG, ARGH                , Arkansas St         ,cf2005    
+105,107.0,1404.0,20050801.0, ARG, ARGH                , C Michigan          ,cf2005    
+106,108.0,501.0,20050801.0, ARG, ARGH                , Ball St             ,cf2005    
+107,109.0,7788.0,20050801.0, ARG, ARGH                , Temple              ,cf2005    
+108,110.0,356.0,20050801.0, ARG, ARGH                , Army                ,cf2005    
+109,111.0,5825.0,20050801.0, ARG, ARGH                , Ohio                ,cf2005    
+110,112.0,2353.0,20050801.0, ARG, ARGH                , E Michigan          ,cf2005    
+111,113.0,2292.0,20050801.0, ARG, ARGH                , East Carolina       ,cf2005    
+112,114.0,8767.0,20050801.0, ARG, ARGH                , W Michigan          ,cf2005    
+113,115.0,8325.0,20050801.0, ARG, ARGH                , Utah St             ,cf2005    
+114,116.0,7024.0,20050801.0, ARG, ARGH                , San Jose St         ,cf2005    
+115,117.0,1380.0,20050801.0, ARG, ARGH                , UCF                 ,cf2005    
+116,118.0,2652.0,20050801.0, ARG, ARGH                , Florida Intl        ,cf2005    
+117,119.0,979.0,20050801.0, ARG, ARGH                , Buffalo             ,cf2005    
+8754,1.0,8251.0,20050905.0, ARG, ARGH                , USC                 ,cf2005    
+8755,2.0,7840.0,20050905.0, ARG, ARGH                , Texas               ,cf2005    
+8756,3.0,2881.0,20050905.0, ARG, ARGH                , Georgia             ,cf2005    
+8757,4.0,5850.0,20050905.0, ARG, ARGH                , Ohio St             ,cf2005    
+8758,5.0,4206.0,20050905.0, ARG, ARGH                , LSU                 ,cf2005    
+8759,6.0,7801.0,20050905.0, ARG, ARGH                , Tennessee           ,cf2005    
+8760,7.0,2666.0,20050905.0, ARG, ARGH                , Florida St          ,cf2005    
+8761,8.0,4741.0,20050905.0, ARG, ARGH                , Michigan            ,cf2005    
+8762,9.0,402.0,20050905.0, ARG, ARGH                , Auburn              ,cf2005    
+8763,10.0,3540.0,20050905.0, ARG, ARGH                , Iowa                ,cf2005    
+8764,11.0,4719.0,20050905.0, ARG, ARGH                , Miami FL            ,cf2005    
+8765,12.0,8459.0,20050905.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+8766,13.0,6393.0,20050905.0, ARG, ARGH                , Purdue              ,cf2005    
+8767,14.0,5886.0,20050905.0, ARG, ARGH                , Oklahoma            ,cf2005    
+8768,15.0,771.0,20050905.0, ARG, ARGH                , Boise St            ,cf2005    
+8769,16.0,2911.0,20050905.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+8770,17.0,1098.0,20050905.0, ARG, ARGH                , California          ,cf2005    
+8771,18.0,8432.0,20050905.0, ARG, ARGH                , Virginia            ,cf2005    
+8772,19.0,7848.0,20050905.0, ARG, ARGH                , Texas A&M           ,cf2005    
+8773,20.0,2625.0,20050905.0, ARG, ARGH                , Florida             ,cf2005    
+8774,21.0,8315.0,20050905.0, ARG, ARGH                , Utah                ,cf2005    
+8775,22.0,1715.0,20050905.0, ARG, ARGH                , Colorado            ,cf2005    
+8776,23.0,304.0,20050905.0, ARG, ARGH                , Arizona St          ,cf2005    
+8777,24.0,4224.0,20050905.0, ARG, ARGH                , Louisville          ,cf2005    
+8778,25.0,7918.0,20050905.0, ARG, ARGH                , Texas Tech          ,cf2005    
+8779,26.0,1603.0,20050905.0, ARG, ARGH                , Clemson             ,cf2005    
+8780,27.0,4858.0,20050905.0, ARG, ARGH                , Minnesota           ,cf2005    
+8781,28.0,2776.0,20050905.0, ARG, ARGH                , Fresno St           ,cf2005    
+8782,29.0,9031.0,20050905.0, ARG, ARGH                , Wisconsin           ,cf2005    
+8783,30.0,5749.0,20050905.0, ARG, ARGH                , Notre Dame          ,cf2005    
+8784,31.0,8141.0,20050905.0, ARG, ARGH                , UCLA                ,cf2005    
+8785,32.0,783.0,20050905.0, ARG, ARGH                , Boston College      ,cf2005    
+8786,33.0,5970.0,20050905.0, ARG, ARGH                , Oregon St           ,cf2005    
+8787,34.0,316.0,20050905.0, ARG, ARGH                , Arkansas            ,cf2005    
+8788,35.0,8588.0,20050905.0, ARG, ARGH                , Washington St       ,cf2005    
+8789,36.0,5912.0,20050905.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+8790,37.0,5511.0,20050905.0, ARG, ARGH                , NC State            ,cf2005    
+8791,38.0,4474.0,20050905.0, ARG, ARGH                , Maryland            ,cf2005    
+8792,39.0,5961.0,20050905.0, ARG, ARGH                , Oregon              ,cf2005    
+8793,40.0,4757.0,20050905.0, ARG, ARGH                , Michigan St         ,cf2005    
+8794,41.0,74.0,20050905.0, ARG, ARGH                , Alabama             ,cf2005    
+8795,42.0,3717.0,20050905.0, ARG, ARGH                , Kansas              ,cf2005    
+8796,43.0,5371.0,20050905.0, ARG, ARGH                , New Mexico          ,cf2005    
+8797,44.0,6236.0,20050905.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+8798,45.0,821.0,20050905.0, ARG, ARGH                , Bowling Green       ,cf2005    
+8799,46.0,6114.0,20050905.0, ARG, ARGH                , Penn St             ,cf2005    
+8800,47.0,3731.0,20050905.0, ARG, ARGH                , Kansas St           ,cf2005    
+8801,48.0,5492.0,20050905.0, ARG, ARGH                , North Carolina      ,cf2005    
+8802,49.0,5704.0,20050905.0, ARG, ARGH                , Northwestern        ,cf2005    
+8803,50.0,9162.0,20050905.0, ARG, ARGH                , Wyoming             ,cf2005    
+8804,51.0,7582.0,20050905.0, ARG, ARGH                , Stanford            ,cf2005    
+8805,52.0,7365.0,20050905.0, ARG, ARGH                , Southern Miss       ,cf2005    
+8806,53.0,4948.0,20050905.0, ARG, ARGH                , Missouri            ,cf2005    
+8807,54.0,4725.0,20050905.0, ARG, ARGH                , Miami OH            ,cf2005    
+8808,55.0,8716.0,20050905.0, ARG, ARGH                , West Virginia       ,cf2005    
+8809,56.0,1753.0,20050905.0, ARG, ARGH                , Colorado St         ,cf2005    
+8810,57.0,3554.0,20050905.0, ARG, ARGH                , Iowa St             ,cf2005    
+8811,58.0,4920.0,20050905.0, ARG, ARGH                , Mississippi         ,cf2005    
+8812,59.0,7978.0,20050905.0, ARG, ARGH                , Toledo              ,cf2005    
+8813,60.0,5279.0,20050905.0, ARG, ARGH                , Nebraska            ,cf2005    
+8814,61.0,87.0,20050905.0, ARG, ARGH                , UAB                 ,cf2005    
+8815,62.0,7878.0,20050905.0, ARG, ARGH                , TCU                 ,cf2005    
+8816,63.0,1872.0,20050905.0, ARG, ARGH                , Connecticut         ,cf2005    
+8817,64.0,8508.0,20050905.0, ARG, ARGH                , Wake Forest         ,cf2005    
+8818,65.0,7729.0,20050905.0, ARG, ARGH                , Syracuse            ,cf2005    
+8819,66.0,7933.0,20050905.0, ARG, ARGH                , UTEP                ,cf2005    
+8820,67.0,55.0,20050905.0, ARG, ARGH                , Air Force           ,cf2005    
+8821,68.0,7242.0,20050905.0, ARG, ARGH                , South Carolina      ,cf2005    
+8822,69.0,294.0,20050905.0, ARG, ARGH                , Arizona             ,cf2005    
+8823,70.0,891.0,20050905.0, ARG, ARGH                , BYU                 ,cf2005    
+8824,71.0,5634.0,20050905.0, ARG, ARGH                , N Illinois          ,cf2005    
+8825,72.0,4218.0,20050905.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+8826,73.0,8068.0,20050905.0, ARG, ARGH                , Troy                ,cf2005    
+8827,74.0,7278.0,20050905.0, ARG, ARGH                , South Florida       ,cf2005    
+8828,75.0,6696.0,20050905.0, ARG, ARGH                , Rutgers             ,cf2005    
+8829,76.0,7002.0,20050905.0, ARG, ARGH                , San Diego St        ,cf2005    
+8830,77.0,4636.0,20050905.0, ARG, ARGH                , Memphis             ,cf2005    
+8831,78.0,4936.0,20050905.0, ARG, ARGH                , Mississippi St      ,cf2005    
+8832,79.0,3347.0,20050905.0, ARG, ARGH                , Houston             ,cf2005    
+8833,80.0,8092.0,20050905.0, ARG, ARGH                , Tulane              ,cf2005    
+8834,81.0,8551.0,20050905.0, ARG, ARGH                , Washington          ,cf2005    
+8835,82.0,3197.0,20050905.0, ARG, ARGH                , Hawaii              ,cf2005    
+8836,83.0,1529.0,20050905.0, ARG, ARGH                , Cincinnati          ,cf2005    
+8837,84.0,8367.0,20050905.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+8838,85.0,4785.0,20050905.0, ARG, ARGH                , MTSU                ,cf2005    
+8839,86.0,5253.0,20050905.0, ARG, ARGH                , Navy                ,cf2005    
+8840,87.0,557.0,20050905.0, ARG, ARGH                , Baylor              ,cf2005    
+8841,88.0,2265.0,20050905.0, ARG, ARGH                , Duke                ,cf2005    
+8842,89.0,3425.0,20050905.0, ARG, ARGH                , Illinois            ,cf2005    
+8843,90.0,4436.0,20050905.0, ARG, ARGH                , Marshall            ,cf2005    
+8844,91.0,3484.0,20050905.0, ARG, ARGH                , Indiana             ,cf2005    
+8845,92.0,5316.0,20050905.0, ARG, ARGH                , Nevada              ,cf2005    
+8846,93.0,3781.0,20050905.0, ARG, ARGH                , Kentucky            ,cf2005    
+8847,94.0,7358.0,20050905.0, ARG, ARGH                , SMU                 ,cf2005    
+8848,95.0,5584.0,20050905.0, ARG, ARGH                , North Texas         ,cf2005    
+8849,96.0,8099.0,20050905.0, ARG, ARGH                , Tulsa               ,cf2005    
+8850,97.0,66.0,20050905.0, ARG, ARGH                , Akron               ,cf2005    
+8851,98.0,5323.0,20050905.0, ARG, ARGH                , UNLV                ,cf2005    
+8852,99.0,4194.0,20050905.0, ARG, ARGH                , ULL                 ,cf2005    
+8853,100.0,3771.0,20050905.0, ARG, ARGH                , Kent                ,cf2005    
+8854,101.0,4200.0,20050905.0, ARG, ARGH                , ULM                 ,cf2005    
+8855,102.0,6535.0,20050905.0, ARG, ARGH                , Rice                ,cf2005    
+8856,103.0,2638.0,20050905.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+8857,104.0,3415.0,20050905.0, ARG, ARGH                , Idaho               ,cf2005    
+8858,105.0,5387.0,20050905.0, ARG, ARGH                , New Mexico St       ,cf2005    
+8859,106.0,501.0,20050905.0, ARG, ARGH                , Ball St             ,cf2005    
+8860,107.0,2292.0,20050905.0, ARG, ARGH                , East Carolina       ,cf2005    
+8861,108.0,333.0,20050905.0, ARG, ARGH                , Arkansas St         ,cf2005    
+8862,109.0,7788.0,20050905.0, ARG, ARGH                , Temple              ,cf2005    
+8863,110.0,7024.0,20050905.0, ARG, ARGH                , San Jose St         ,cf2005    
+8864,111.0,1404.0,20050905.0, ARG, ARGH                , C Michigan          ,cf2005    
+8865,112.0,8767.0,20050905.0, ARG, ARGH                , W Michigan          ,cf2005    
+8866,113.0,2353.0,20050905.0, ARG, ARGH                , E Michigan          ,cf2005    
+8867,114.0,5825.0,20050905.0, ARG, ARGH                , Ohio                ,cf2005    
+8868,115.0,356.0,20050905.0, ARG, ARGH                , Army                ,cf2005    
+8869,116.0,8325.0,20050905.0, ARG, ARGH                , Utah St             ,cf2005    
+8870,117.0,2652.0,20050905.0, ARG, ARGH                , Florida Intl        ,cf2005    
+8871,118.0,1380.0,20050905.0, ARG, ARGH                , UCF                 ,cf2005    
+8872,119.0,979.0,20050905.0, ARG, ARGH                , Buffalo             ,cf2005    
+14278,1.0,8251.0,20050910.0, ARG, ARGH                , USC                 ,cf2005    
+14279,2.0,7840.0,20050910.0, ARG, ARGH                , Texas               ,cf2005    
+14280,3.0,2881.0,20050910.0, ARG, ARGH                , Georgia             ,cf2005    
+14281,4.0,8459.0,20050910.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+14282,5.0,2666.0,20050910.0, ARG, ARGH                , Florida St          ,cf2005    
+14283,6.0,4206.0,20050910.0, ARG, ARGH                , LSU                 ,cf2005    
+14284,7.0,7801.0,20050910.0, ARG, ARGH                , Tennessee           ,cf2005    
+14285,8.0,402.0,20050910.0, ARG, ARGH                , Auburn              ,cf2005    
+14286,9.0,2911.0,20050910.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+14287,10.0,2625.0,20050910.0, ARG, ARGH                , Florida             ,cf2005    
+14288,11.0,4719.0,20050910.0, ARG, ARGH                , Miami FL            ,cf2005    
+14289,12.0,6393.0,20050910.0, ARG, ARGH                , Purdue              ,cf2005    
+14290,13.0,1603.0,20050910.0, ARG, ARGH                , Clemson             ,cf2005    
+14291,14.0,5749.0,20050910.0, ARG, ARGH                , Notre Dame          ,cf2005    
+14292,15.0,5850.0,20050910.0, ARG, ARGH                , Ohio St             ,cf2005    
+14293,16.0,1098.0,20050910.0, ARG, ARGH                , California          ,cf2005    
+14294,17.0,4858.0,20050910.0, ARG, ARGH                , Minnesota           ,cf2005    
+14295,18.0,4741.0,20050910.0, ARG, ARGH                , Michigan            ,cf2005    
+14296,19.0,1715.0,20050910.0, ARG, ARGH                , Colorado            ,cf2005    
+14297,20.0,3540.0,20050910.0, ARG, ARGH                , Iowa                ,cf2005    
+14298,21.0,7848.0,20050910.0, ARG, ARGH                , Texas A&M           ,cf2005    
+14299,22.0,8432.0,20050910.0, ARG, ARGH                , Virginia            ,cf2005    
+14300,23.0,5886.0,20050910.0, ARG, ARGH                , Oklahoma            ,cf2005    
+14301,24.0,9031.0,20050910.0, ARG, ARGH                , Wisconsin           ,cf2005    
+14302,25.0,8315.0,20050910.0, ARG, ARGH                , Utah                ,cf2005    
+14303,26.0,4224.0,20050910.0, ARG, ARGH                , Louisville          ,cf2005    
+14304,27.0,304.0,20050910.0, ARG, ARGH                , Arizona St          ,cf2005    
+14305,28.0,8141.0,20050910.0, ARG, ARGH                , UCLA                ,cf2005    
+14306,29.0,7918.0,20050910.0, ARG, ARGH                , Texas Tech          ,cf2005    
+14307,30.0,783.0,20050910.0, ARG, ARGH                , Boston College      ,cf2005    
+14308,31.0,5970.0,20050910.0, ARG, ARGH                , Oregon St           ,cf2005    
+14309,32.0,8588.0,20050910.0, ARG, ARGH                , Washington St       ,cf2005    
+14310,33.0,5912.0,20050910.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+14311,34.0,771.0,20050910.0, ARG, ARGH                , Boise St            ,cf2005    
+14312,35.0,2776.0,20050910.0, ARG, ARGH                , Fresno St           ,cf2005    
+14313,36.0,4757.0,20050910.0, ARG, ARGH                , Michigan St         ,cf2005    
+14314,37.0,74.0,20050910.0, ARG, ARGH                , Alabama             ,cf2005    
+14315,38.0,5511.0,20050910.0, ARG, ARGH                , NC State            ,cf2005    
+14316,39.0,5371.0,20050910.0, ARG, ARGH                , New Mexico          ,cf2005    
+14317,40.0,3554.0,20050910.0, ARG, ARGH                , Iowa St             ,cf2005    
+14318,41.0,5704.0,20050910.0, ARG, ARGH                , Northwestern        ,cf2005    
+14319,42.0,4474.0,20050910.0, ARG, ARGH                , Maryland            ,cf2005    
+14320,43.0,5961.0,20050910.0, ARG, ARGH                , Oregon              ,cf2005    
+14321,44.0,6114.0,20050910.0, ARG, ARGH                , Penn St             ,cf2005    
+14322,45.0,87.0,20050910.0, ARG, ARGH                , UAB                 ,cf2005    
+14323,46.0,3717.0,20050910.0, ARG, ARGH                , Kansas              ,cf2005    
+14324,47.0,9162.0,20050910.0, ARG, ARGH                , Wyoming             ,cf2005    
+14325,48.0,3731.0,20050910.0, ARG, ARGH                , Kansas St           ,cf2005    
+14326,49.0,8716.0,20050910.0, ARG, ARGH                , West Virginia       ,cf2005    
+14327,50.0,821.0,20050910.0, ARG, ARGH                , Bowling Green       ,cf2005    
+14328,51.0,5279.0,20050910.0, ARG, ARGH                , Nebraska            ,cf2005    
+14329,52.0,7582.0,20050910.0, ARG, ARGH                , Stanford            ,cf2005    
+14330,53.0,5492.0,20050910.0, ARG, ARGH                , North Carolina      ,cf2005    
+14331,54.0,316.0,20050910.0, ARG, ARGH                , Arkansas            ,cf2005    
+14332,55.0,7978.0,20050910.0, ARG, ARGH                , Toledo              ,cf2005    
+14333,56.0,4920.0,20050910.0, ARG, ARGH                , Mississippi         ,cf2005    
+14334,57.0,55.0,20050910.0, ARG, ARGH                , Air Force           ,cf2005    
+14335,58.0,7365.0,20050910.0, ARG, ARGH                , Southern Miss       ,cf2005    
+14336,59.0,7242.0,20050910.0, ARG, ARGH                , South Carolina      ,cf2005    
+14337,60.0,4948.0,20050910.0, ARG, ARGH                , Missouri            ,cf2005    
+14338,61.0,1872.0,20050910.0, ARG, ARGH                , Connecticut         ,cf2005    
+14339,62.0,7729.0,20050910.0, ARG, ARGH                , Syracuse            ,cf2005    
+14340,63.0,1753.0,20050910.0, ARG, ARGH                , Colorado St         ,cf2005    
+14341,64.0,7933.0,20050910.0, ARG, ARGH                , UTEP                ,cf2005    
+14342,65.0,6236.0,20050910.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+14343,66.0,8367.0,20050910.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+14344,67.0,891.0,20050910.0, ARG, ARGH                , BYU                 ,cf2005    
+14345,68.0,7878.0,20050910.0, ARG, ARGH                , TCU                 ,cf2005    
+14346,69.0,294.0,20050910.0, ARG, ARGH                , Arizona             ,cf2005    
+14347,70.0,7278.0,20050910.0, ARG, ARGH                , South Florida       ,cf2005    
+14348,71.0,4725.0,20050910.0, ARG, ARGH                , Miami OH            ,cf2005    
+14349,72.0,5634.0,20050910.0, ARG, ARGH                , N Illinois          ,cf2005    
+14350,73.0,4218.0,20050910.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+14351,74.0,557.0,20050910.0, ARG, ARGH                , Baylor              ,cf2005    
+14352,75.0,4936.0,20050910.0, ARG, ARGH                , Mississippi St      ,cf2005    
+14353,76.0,6696.0,20050910.0, ARG, ARGH                , Rutgers             ,cf2005    
+14354,77.0,4636.0,20050910.0, ARG, ARGH                , Memphis             ,cf2005    
+14355,78.0,8092.0,20050910.0, ARG, ARGH                , Tulane              ,cf2005    
+14356,79.0,8508.0,20050910.0, ARG, ARGH                , Wake Forest         ,cf2005    
+14357,80.0,8068.0,20050910.0, ARG, ARGH                , Troy                ,cf2005    
+14358,81.0,3347.0,20050910.0, ARG, ARGH                , Houston             ,cf2005    
+14359,82.0,3425.0,20050910.0, ARG, ARGH                , Illinois            ,cf2005    
+14360,83.0,1529.0,20050910.0, ARG, ARGH                , Cincinnati          ,cf2005    
+14361,84.0,7358.0,20050910.0, ARG, ARGH                , SMU                 ,cf2005    
+14362,85.0,3484.0,20050910.0, ARG, ARGH                , Indiana             ,cf2005    
+14363,86.0,7002.0,20050910.0, ARG, ARGH                , San Diego St        ,cf2005    
+14364,87.0,5584.0,20050910.0, ARG, ARGH                , North Texas         ,cf2005    
+14365,88.0,3197.0,20050910.0, ARG, ARGH                , Hawaii              ,cf2005    
+14366,89.0,5253.0,20050910.0, ARG, ARGH                , Navy                ,cf2005    
+14367,90.0,5323.0,20050910.0, ARG, ARGH                , UNLV                ,cf2005    
+14368,91.0,3781.0,20050910.0, ARG, ARGH                , Kentucky            ,cf2005    
+14369,92.0,4436.0,20050910.0, ARG, ARGH                , Marshall            ,cf2005    
+14370,93.0,66.0,20050910.0, ARG, ARGH                , Akron               ,cf2005    
+14371,94.0,8551.0,20050910.0, ARG, ARGH                , Washington          ,cf2005    
+14372,95.0,3771.0,20050910.0, ARG, ARGH                , Kent                ,cf2005    
+14373,96.0,5316.0,20050910.0, ARG, ARGH                , Nevada              ,cf2005    
+14374,97.0,333.0,20050910.0, ARG, ARGH                , Arkansas St         ,cf2005    
+14375,98.0,8099.0,20050910.0, ARG, ARGH                , Tulsa               ,cf2005    
+14376,99.0,2353.0,20050910.0, ARG, ARGH                , E Michigan          ,cf2005    
+14377,100.0,4785.0,20050910.0, ARG, ARGH                , MTSU                ,cf2005    
+14378,101.0,5825.0,20050910.0, ARG, ARGH                , Ohio                ,cf2005    
+14379,102.0,1404.0,20050910.0, ARG, ARGH                , C Michigan          ,cf2005    
+14380,103.0,2265.0,20050910.0, ARG, ARGH                , Duke                ,cf2005    
+14381,104.0,6535.0,20050910.0, ARG, ARGH                , Rice                ,cf2005    
+14382,105.0,3415.0,20050910.0, ARG, ARGH                , Idaho               ,cf2005    
+14383,106.0,4194.0,20050910.0, ARG, ARGH                , ULL                 ,cf2005    
+14384,107.0,2292.0,20050910.0, ARG, ARGH                , East Carolina       ,cf2005    
+14385,108.0,7788.0,20050910.0, ARG, ARGH                , Temple              ,cf2005    
+14386,109.0,2638.0,20050910.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+14387,110.0,501.0,20050910.0, ARG, ARGH                , Ball St             ,cf2005    
+14388,111.0,5387.0,20050910.0, ARG, ARGH                , New Mexico St       ,cf2005    
+14389,112.0,356.0,20050910.0, ARG, ARGH                , Army                ,cf2005    
+14390,113.0,7024.0,20050910.0, ARG, ARGH                , San Jose St         ,cf2005    
+14391,114.0,4200.0,20050910.0, ARG, ARGH                , ULM                 ,cf2005    
+14392,115.0,8767.0,20050910.0, ARG, ARGH                , W Michigan          ,cf2005    
+14393,116.0,8325.0,20050910.0, ARG, ARGH                , Utah St             ,cf2005    
+14394,117.0,1380.0,20050910.0, ARG, ARGH                , UCF                 ,cf2005    
+14395,118.0,2652.0,20050910.0, ARG, ARGH                , Florida Intl        ,cf2005    
+14396,119.0,979.0,20050910.0, ARG, ARGH                , Buffalo             ,cf2005    
+22673,1.0,8251.0,20050917.0, ARG, ARGH                , USC                 ,cf2005    
+22674,2.0,7840.0,20050917.0, ARG, ARGH                , Texas               ,cf2005    
+22675,3.0,2666.0,20050917.0, ARG, ARGH                , Florida St          ,cf2005    
+22676,4.0,2625.0,20050917.0, ARG, ARGH                , Florida             ,cf2005    
+22677,5.0,2881.0,20050917.0, ARG, ARGH                , Georgia             ,cf2005    
+22678,6.0,8459.0,20050917.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+22679,7.0,2911.0,20050917.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+22680,8.0,402.0,20050917.0, ARG, ARGH                , Auburn              ,cf2005    
+22681,9.0,4206.0,20050917.0, ARG, ARGH                , LSU                 ,cf2005    
+22682,10.0,9031.0,20050917.0, ARG, ARGH                , Wisconsin           ,cf2005    
+22683,11.0,4719.0,20050917.0, ARG, ARGH                , Miami FL            ,cf2005    
+22684,12.0,8141.0,20050917.0, ARG, ARGH                , UCLA                ,cf2005    
+22685,13.0,4858.0,20050917.0, ARG, ARGH                , Minnesota           ,cf2005    
+22686,14.0,5850.0,20050917.0, ARG, ARGH                , Ohio St             ,cf2005    
+22687,15.0,1098.0,20050917.0, ARG, ARGH                , California          ,cf2005    
+22688,16.0,6393.0,20050917.0, ARG, ARGH                , Purdue              ,cf2005    
+22689,17.0,4741.0,20050917.0, ARG, ARGH                , Michigan            ,cf2005    
+22690,18.0,4757.0,20050917.0, ARG, ARGH                , Michigan St         ,cf2005    
+22691,19.0,7848.0,20050917.0, ARG, ARGH                , Texas A&M           ,cf2005    
+22692,20.0,7801.0,20050917.0, ARG, ARGH                , Tennessee           ,cf2005    
+22693,21.0,304.0,20050917.0, ARG, ARGH                , Arizona St          ,cf2005    
+22694,22.0,4224.0,20050917.0, ARG, ARGH                , Louisville          ,cf2005    
+22695,23.0,1715.0,20050917.0, ARG, ARGH                , Colorado            ,cf2005    
+22696,24.0,8432.0,20050917.0, ARG, ARGH                , Virginia            ,cf2005    
+22697,25.0,1603.0,20050917.0, ARG, ARGH                , Clemson             ,cf2005    
+22698,26.0,5749.0,20050917.0, ARG, ARGH                , Notre Dame          ,cf2005    
+22699,27.0,74.0,20050917.0, ARG, ARGH                , Alabama             ,cf2005    
+22700,28.0,783.0,20050917.0, ARG, ARGH                , Boston College      ,cf2005    
+22701,29.0,8716.0,20050917.0, ARG, ARGH                , West Virginia       ,cf2005    
+22702,30.0,3540.0,20050917.0, ARG, ARGH                , Iowa                ,cf2005    
+22703,31.0,5912.0,20050917.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+22704,32.0,8588.0,20050917.0, ARG, ARGH                , Washington St       ,cf2005    
+22705,33.0,6114.0,20050917.0, ARG, ARGH                , Penn St             ,cf2005    
+22706,34.0,7918.0,20050917.0, ARG, ARGH                , Texas Tech          ,cf2005    
+22707,35.0,9162.0,20050917.0, ARG, ARGH                , Wyoming             ,cf2005    
+22708,36.0,3717.0,20050917.0, ARG, ARGH                , Kansas              ,cf2005    
+22709,37.0,5961.0,20050917.0, ARG, ARGH                , Oregon              ,cf2005    
+22710,38.0,8315.0,20050917.0, ARG, ARGH                , Utah                ,cf2005    
+22711,39.0,5371.0,20050917.0, ARG, ARGH                , New Mexico          ,cf2005    
+22712,40.0,5279.0,20050917.0, ARG, ARGH                , Nebraska            ,cf2005    
+22713,41.0,771.0,20050917.0, ARG, ARGH                , Boise St            ,cf2005    
+22714,42.0,5886.0,20050917.0, ARG, ARGH                , Oklahoma            ,cf2005    
+22715,43.0,5511.0,20050917.0, ARG, ARGH                , NC State            ,cf2005    
+22716,44.0,7978.0,20050917.0, ARG, ARGH                , Toledo              ,cf2005    
+22717,45.0,3554.0,20050917.0, ARG, ARGH                , Iowa St             ,cf2005    
+22718,46.0,2776.0,20050917.0, ARG, ARGH                , Fresno St           ,cf2005    
+22719,47.0,5970.0,20050917.0, ARG, ARGH                , Oregon St           ,cf2005    
+22720,48.0,1872.0,20050917.0, ARG, ARGH                , Connecticut         ,cf2005    
+22721,49.0,821.0,20050917.0, ARG, ARGH                , Bowling Green       ,cf2005    
+22722,50.0,8367.0,20050917.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+22723,51.0,3731.0,20050917.0, ARG, ARGH                , Kansas St           ,cf2005    
+22724,52.0,4948.0,20050917.0, ARG, ARGH                , Missouri            ,cf2005    
+22725,53.0,5704.0,20050917.0, ARG, ARGH                , Northwestern        ,cf2005    
+22726,54.0,87.0,20050917.0, ARG, ARGH                , UAB                 ,cf2005    
+22727,55.0,7878.0,20050917.0, ARG, ARGH                , TCU                 ,cf2005    
+22728,56.0,55.0,20050917.0, ARG, ARGH                , Air Force           ,cf2005    
+22729,57.0,557.0,20050917.0, ARG, ARGH                , Baylor              ,cf2005    
+22730,58.0,5492.0,20050917.0, ARG, ARGH                , North Carolina      ,cf2005    
+22731,59.0,7365.0,20050917.0, ARG, ARGH                , Southern Miss       ,cf2005    
+22732,60.0,7933.0,20050917.0, ARG, ARGH                , UTEP                ,cf2005    
+22733,61.0,4936.0,20050917.0, ARG, ARGH                , Mississippi St      ,cf2005    
+22734,62.0,4474.0,20050917.0, ARG, ARGH                , Maryland            ,cf2005    
+22735,63.0,4920.0,20050917.0, ARG, ARGH                , Mississippi         ,cf2005    
+22736,64.0,7278.0,20050917.0, ARG, ARGH                , South Florida       ,cf2005    
+22737,65.0,1753.0,20050917.0, ARG, ARGH                , Colorado St         ,cf2005    
+22738,66.0,891.0,20050917.0, ARG, ARGH                , BYU                 ,cf2005    
+22739,67.0,316.0,20050917.0, ARG, ARGH                , Arkansas            ,cf2005    
+22740,68.0,7729.0,20050917.0, ARG, ARGH                , Syracuse            ,cf2005    
+22741,69.0,6696.0,20050917.0, ARG, ARGH                , Rutgers             ,cf2005    
+22742,70.0,5634.0,20050917.0, ARG, ARGH                , N Illinois          ,cf2005    
+22743,71.0,4725.0,20050917.0, ARG, ARGH                , Miami OH            ,cf2005    
+22744,72.0,3484.0,20050917.0, ARG, ARGH                , Indiana             ,cf2005    
+22745,73.0,4636.0,20050917.0, ARG, ARGH                , Memphis             ,cf2005    
+22746,74.0,7582.0,20050917.0, ARG, ARGH                , Stanford            ,cf2005    
+22747,75.0,294.0,20050917.0, ARG, ARGH                , Arizona             ,cf2005    
+22748,76.0,8099.0,20050917.0, ARG, ARGH                , Tulsa               ,cf2005    
+22749,77.0,7242.0,20050917.0, ARG, ARGH                , South Carolina      ,cf2005    
+22750,78.0,4218.0,20050917.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+22751,79.0,3425.0,20050917.0, ARG, ARGH                , Illinois            ,cf2005    
+22752,80.0,8508.0,20050917.0, ARG, ARGH                , Wake Forest         ,cf2005    
+22753,81.0,6236.0,20050917.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+22754,82.0,1529.0,20050917.0, ARG, ARGH                , Cincinnati          ,cf2005    
+22755,83.0,8092.0,20050917.0, ARG, ARGH                , Tulane              ,cf2005    
+22756,84.0,3197.0,20050917.0, ARG, ARGH                , Hawaii              ,cf2005    
+22757,85.0,3347.0,20050917.0, ARG, ARGH                , Houston             ,cf2005    
+22758,86.0,7002.0,20050917.0, ARG, ARGH                , San Diego St        ,cf2005    
+22759,87.0,66.0,20050917.0, ARG, ARGH                , Akron               ,cf2005    
+22760,88.0,8551.0,20050917.0, ARG, ARGH                , Washington          ,cf2005    
+22761,89.0,7358.0,20050917.0, ARG, ARGH                , SMU                 ,cf2005    
+22762,90.0,333.0,20050917.0, ARG, ARGH                , Arkansas St         ,cf2005    
+22763,91.0,4436.0,20050917.0, ARG, ARGH                , Marshall            ,cf2005    
+22764,92.0,5316.0,20050917.0, ARG, ARGH                , Nevada              ,cf2005    
+22765,93.0,5253.0,20050917.0, ARG, ARGH                , Navy                ,cf2005    
+22766,94.0,6535.0,20050917.0, ARG, ARGH                , Rice                ,cf2005    
+22767,95.0,5323.0,20050917.0, ARG, ARGH                , UNLV                ,cf2005    
+22768,96.0,8068.0,20050917.0, ARG, ARGH                , Troy                ,cf2005    
+22769,97.0,2265.0,20050917.0, ARG, ARGH                , Duke                ,cf2005    
+22770,98.0,3781.0,20050917.0, ARG, ARGH                , Kentucky            ,cf2005    
+22771,99.0,1404.0,20050917.0, ARG, ARGH                , C Michigan          ,cf2005    
+22772,100.0,3771.0,20050917.0, ARG, ARGH                , Kent                ,cf2005    
+22773,101.0,5584.0,20050917.0, ARG, ARGH                , North Texas         ,cf2005    
+22774,102.0,5825.0,20050917.0, ARG, ARGH                , Ohio                ,cf2005    
+22775,103.0,2292.0,20050917.0, ARG, ARGH                , East Carolina       ,cf2005    
+22776,104.0,4194.0,20050917.0, ARG, ARGH                , ULL                 ,cf2005    
+22777,105.0,2353.0,20050917.0, ARG, ARGH                , E Michigan          ,cf2005    
+22778,106.0,8767.0,20050917.0, ARG, ARGH                , W Michigan          ,cf2005    
+22779,107.0,2638.0,20050917.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+22780,108.0,7024.0,20050917.0, ARG, ARGH                , San Jose St         ,cf2005    
+22781,109.0,501.0,20050917.0, ARG, ARGH                , Ball St             ,cf2005    
+22782,110.0,7788.0,20050917.0, ARG, ARGH                , Temple              ,cf2005    
+22783,111.0,5387.0,20050917.0, ARG, ARGH                , New Mexico St       ,cf2005    
+22784,112.0,4200.0,20050917.0, ARG, ARGH                , ULM                 ,cf2005    
+22785,113.0,8325.0,20050917.0, ARG, ARGH                , Utah St             ,cf2005    
+22786,114.0,4785.0,20050917.0, ARG, ARGH                , MTSU                ,cf2005    
+22787,115.0,356.0,20050917.0, ARG, ARGH                , Army                ,cf2005    
+22788,116.0,3415.0,20050917.0, ARG, ARGH                , Idaho               ,cf2005    
+22789,117.0,1380.0,20050917.0, ARG, ARGH                , UCF                 ,cf2005    
+22790,118.0,2652.0,20050917.0, ARG, ARGH                , Florida Intl        ,cf2005    
+22791,119.0,979.0,20050917.0, ARG, ARGH                , Buffalo             ,cf2005    
+34361,1.0,8251.0,20050927.0, ARG, ARGH                , USC                 ,cf2005    
+34362,2.0,8459.0,20050927.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+34363,3.0,7840.0,20050927.0, ARG, ARGH                , Texas               ,cf2005    
+34364,4.0,2625.0,20050927.0, ARG, ARGH                , Florida             ,cf2005    
+34365,5.0,2881.0,20050927.0, ARG, ARGH                , Georgia             ,cf2005    
+34366,6.0,2666.0,20050927.0, ARG, ARGH                , Florida St          ,cf2005    
+34367,7.0,4719.0,20050927.0, ARG, ARGH                , Miami FL            ,cf2005    
+34368,8.0,9031.0,20050927.0, ARG, ARGH                , Wisconsin           ,cf2005    
+34369,9.0,4858.0,20050927.0, ARG, ARGH                , Minnesota           ,cf2005    
+34370,10.0,5850.0,20050927.0, ARG, ARGH                , Ohio St             ,cf2005    
+34371,11.0,4757.0,20050927.0, ARG, ARGH                , Michigan St         ,cf2005    
+34372,12.0,7801.0,20050927.0, ARG, ARGH                , Tennessee           ,cf2005    
+34373,13.0,1098.0,20050927.0, ARG, ARGH                , California          ,cf2005    
+34374,14.0,8141.0,20050927.0, ARG, ARGH                , UCLA                ,cf2005    
+34375,15.0,4206.0,20050927.0, ARG, ARGH                , LSU                 ,cf2005    
+34376,16.0,304.0,20050927.0, ARG, ARGH                , Arizona St          ,cf2005    
+34377,17.0,74.0,20050927.0, ARG, ARGH                , Alabama             ,cf2005    
+34378,18.0,6114.0,20050927.0, ARG, ARGH                , Penn St             ,cf2005    
+34379,19.0,783.0,20050927.0, ARG, ARGH                , Boston College      ,cf2005    
+34380,20.0,402.0,20050927.0, ARG, ARGH                , Auburn              ,cf2005    
+34381,21.0,8432.0,20050927.0, ARG, ARGH                , Virginia            ,cf2005    
+34382,22.0,5749.0,20050927.0, ARG, ARGH                , Notre Dame          ,cf2005    
+34383,23.0,6393.0,20050927.0, ARG, ARGH                , Purdue              ,cf2005    
+34384,24.0,2911.0,20050927.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+34385,25.0,4741.0,20050927.0, ARG, ARGH                , Michigan            ,cf2005    
+34386,26.0,1715.0,20050927.0, ARG, ARGH                , Colorado            ,cf2005    
+34387,27.0,9162.0,20050927.0, ARG, ARGH                , Wyoming             ,cf2005    
+34388,28.0,8716.0,20050927.0, ARG, ARGH                , West Virginia       ,cf2005    
+34389,29.0,5912.0,20050927.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+34390,30.0,7848.0,20050927.0, ARG, ARGH                , Texas A&M           ,cf2005    
+34391,31.0,4224.0,20050927.0, ARG, ARGH                , Louisville          ,cf2005    
+34392,32.0,1603.0,20050927.0, ARG, ARGH                , Clemson             ,cf2005    
+34393,33.0,8588.0,20050927.0, ARG, ARGH                , Washington St       ,cf2005    
+34394,34.0,7918.0,20050927.0, ARG, ARGH                , Texas Tech          ,cf2005    
+34395,35.0,771.0,20050927.0, ARG, ARGH                , Boise St            ,cf2005    
+34396,36.0,8315.0,20050927.0, ARG, ARGH                , Utah                ,cf2005    
+34397,37.0,5886.0,20050927.0, ARG, ARGH                , Oklahoma            ,cf2005    
+34398,38.0,5279.0,20050927.0, ARG, ARGH                , Nebraska            ,cf2005    
+34399,39.0,7278.0,20050927.0, ARG, ARGH                , South Florida       ,cf2005    
+34400,40.0,3717.0,20050927.0, ARG, ARGH                , Kansas              ,cf2005    
+34401,41.0,3554.0,20050927.0, ARG, ARGH                , Iowa St             ,cf2005    
+34402,42.0,3731.0,20050927.0, ARG, ARGH                , Kansas St           ,cf2005    
+34403,43.0,3540.0,20050927.0, ARG, ARGH                , Iowa                ,cf2005    
+34404,44.0,5961.0,20050927.0, ARG, ARGH                , Oregon              ,cf2005    
+34405,45.0,8367.0,20050927.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+34406,46.0,7933.0,20050927.0, ARG, ARGH                , UTEP                ,cf2005    
+34407,47.0,2776.0,20050927.0, ARG, ARGH                , Fresno St           ,cf2005    
+34408,48.0,7978.0,20050927.0, ARG, ARGH                , Toledo              ,cf2005    
+34409,49.0,7878.0,20050927.0, ARG, ARGH                , TCU                 ,cf2005    
+34410,50.0,5492.0,20050927.0, ARG, ARGH                , North Carolina      ,cf2005    
+34411,51.0,5371.0,20050927.0, ARG, ARGH                , New Mexico          ,cf2005    
+34412,52.0,5511.0,20050927.0, ARG, ARGH                , NC State            ,cf2005    
+34413,53.0,4948.0,20050927.0, ARG, ARGH                , Missouri            ,cf2005    
+34414,54.0,1872.0,20050927.0, ARG, ARGH                , Connecticut         ,cf2005    
+34415,55.0,87.0,20050927.0, ARG, ARGH                , UAB                 ,cf2005    
+34416,56.0,821.0,20050927.0, ARG, ARGH                , Bowling Green       ,cf2005    
+34417,57.0,4474.0,20050927.0, ARG, ARGH                , Maryland            ,cf2005    
+34418,58.0,5704.0,20050927.0, ARG, ARGH                , Northwestern        ,cf2005    
+34419,59.0,7365.0,20050927.0, ARG, ARGH                , Southern Miss       ,cf2005    
+34420,60.0,5970.0,20050927.0, ARG, ARGH                , Oregon St           ,cf2005    
+34421,61.0,55.0,20050927.0, ARG, ARGH                , Air Force           ,cf2005    
+34422,62.0,1753.0,20050927.0, ARG, ARGH                , Colorado St         ,cf2005    
+34423,63.0,7242.0,20050927.0, ARG, ARGH                , South Carolina      ,cf2005    
+34424,64.0,557.0,20050927.0, ARG, ARGH                , Baylor              ,cf2005    
+34425,65.0,8099.0,20050927.0, ARG, ARGH                , Tulsa               ,cf2005    
+34426,66.0,4936.0,20050927.0, ARG, ARGH                , Mississippi St      ,cf2005    
+34427,67.0,7729.0,20050927.0, ARG, ARGH                , Syracuse            ,cf2005    
+34428,68.0,4725.0,20050927.0, ARG, ARGH                , Miami OH            ,cf2005    
+34429,69.0,6696.0,20050927.0, ARG, ARGH                , Rutgers             ,cf2005    
+34430,70.0,4920.0,20050927.0, ARG, ARGH                , Mississippi         ,cf2005    
+34431,71.0,3484.0,20050927.0, ARG, ARGH                , Indiana             ,cf2005    
+34432,72.0,316.0,20050927.0, ARG, ARGH                , Arkansas            ,cf2005    
+34433,73.0,6236.0,20050927.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+34434,74.0,7582.0,20050927.0, ARG, ARGH                , Stanford            ,cf2005    
+34435,75.0,891.0,20050927.0, ARG, ARGH                , BYU                 ,cf2005    
+34436,76.0,294.0,20050927.0, ARG, ARGH                , Arizona             ,cf2005    
+34437,77.0,66.0,20050927.0, ARG, ARGH                , Akron               ,cf2005    
+34438,78.0,8092.0,20050927.0, ARG, ARGH                , Tulane              ,cf2005    
+34439,79.0,5634.0,20050927.0, ARG, ARGH                , N Illinois          ,cf2005    
+34440,80.0,4218.0,20050927.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+34441,81.0,4636.0,20050927.0, ARG, ARGH                , Memphis             ,cf2005    
+34442,82.0,1529.0,20050927.0, ARG, ARGH                , Cincinnati          ,cf2005    
+34443,83.0,333.0,20050927.0, ARG, ARGH                , Arkansas St         ,cf2005    
+34444,84.0,7002.0,20050927.0, ARG, ARGH                , San Diego St        ,cf2005    
+34445,85.0,3347.0,20050927.0, ARG, ARGH                , Houston             ,cf2005    
+34446,86.0,3197.0,20050927.0, ARG, ARGH                , Hawaii              ,cf2005    
+34447,87.0,3425.0,20050927.0, ARG, ARGH                , Illinois            ,cf2005    
+34448,88.0,8508.0,20050927.0, ARG, ARGH                , Wake Forest         ,cf2005    
+34449,89.0,5825.0,20050927.0, ARG, ARGH                , Ohio                ,cf2005    
+34450,90.0,2353.0,20050927.0, ARG, ARGH                , E Michigan          ,cf2005    
+34451,91.0,5253.0,20050927.0, ARG, ARGH                , Navy                ,cf2005    
+34452,92.0,6535.0,20050927.0, ARG, ARGH                , Rice                ,cf2005    
+34453,93.0,8767.0,20050927.0, ARG, ARGH                , W Michigan          ,cf2005    
+34454,94.0,8551.0,20050927.0, ARG, ARGH                , Washington          ,cf2005    
+34455,95.0,3781.0,20050927.0, ARG, ARGH                , Kentucky            ,cf2005    
+34456,96.0,2292.0,20050927.0, ARG, ARGH                , East Carolina       ,cf2005    
+34457,97.0,2265.0,20050927.0, ARG, ARGH                , Duke                ,cf2005    
+34458,98.0,4436.0,20050927.0, ARG, ARGH                , Marshall            ,cf2005    
+34459,99.0,1380.0,20050927.0, ARG, ARGH                , UCF                 ,cf2005    
+34460,100.0,5316.0,20050927.0, ARG, ARGH                , Nevada              ,cf2005    
+34461,101.0,4194.0,20050927.0, ARG, ARGH                , ULL                 ,cf2005    
+34462,102.0,3771.0,20050927.0, ARG, ARGH                , Kent                ,cf2005    
+34463,103.0,8068.0,20050927.0, ARG, ARGH                , Troy                ,cf2005    
+34464,104.0,1404.0,20050927.0, ARG, ARGH                , C Michigan          ,cf2005    
+34465,105.0,8325.0,20050927.0, ARG, ARGH                , Utah St             ,cf2005    
+34466,106.0,7358.0,20050927.0, ARG, ARGH                , SMU                 ,cf2005    
+34467,107.0,4200.0,20050927.0, ARG, ARGH                , ULM                 ,cf2005    
+34468,108.0,5323.0,20050927.0, ARG, ARGH                , UNLV                ,cf2005    
+34469,109.0,5584.0,20050927.0, ARG, ARGH                , North Texas         ,cf2005    
+34470,110.0,4785.0,20050927.0, ARG, ARGH                , MTSU                ,cf2005    
+34471,111.0,7024.0,20050927.0, ARG, ARGH                , San Jose St         ,cf2005    
+34472,112.0,501.0,20050927.0, ARG, ARGH                , Ball St             ,cf2005    
+34473,113.0,5387.0,20050927.0, ARG, ARGH                , New Mexico St       ,cf2005    
+34474,114.0,2638.0,20050927.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+34475,115.0,356.0,20050927.0, ARG, ARGH                , Army                ,cf2005    
+34476,116.0,7788.0,20050927.0, ARG, ARGH                , Temple              ,cf2005    
+34477,117.0,2652.0,20050927.0, ARG, ARGH                , Florida Intl        ,cf2005    
+34478,118.0,3415.0,20050927.0, ARG, ARGH                , Idaho               ,cf2005    
+34479,119.0,979.0,20050927.0, ARG, ARGH                , Buffalo             ,cf2005    
+41872,1.0,8251.0,20051001.0, ARG, ARGH                , USC                 ,cf2005    
+41873,2.0,8459.0,20051001.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+41874,3.0,7840.0,20051001.0, ARG, ARGH                , Texas               ,cf2005    
+41875,4.0,2666.0,20051001.0, ARG, ARGH                , Florida St          ,cf2005    
+41876,5.0,4719.0,20051001.0, ARG, ARGH                , Miami FL            ,cf2005    
+41877,6.0,2881.0,20051001.0, ARG, ARGH                , Georgia             ,cf2005    
+41878,7.0,74.0,20051001.0, ARG, ARGH                , Alabama             ,cf2005    
+41879,8.0,9031.0,20051001.0, ARG, ARGH                , Wisconsin           ,cf2005    
+41880,9.0,6114.0,20051001.0, ARG, ARGH                , Penn St             ,cf2005    
+41881,10.0,2625.0,20051001.0, ARG, ARGH                , Florida             ,cf2005    
+41882,11.0,5850.0,20051001.0, ARG, ARGH                , Ohio St             ,cf2005    
+41883,12.0,1098.0,20051001.0, ARG, ARGH                , California          ,cf2005    
+41884,13.0,5749.0,20051001.0, ARG, ARGH                , Notre Dame          ,cf2005    
+41885,14.0,7801.0,20051001.0, ARG, ARGH                , Tennessee           ,cf2005    
+41886,15.0,4206.0,20051001.0, ARG, ARGH                , LSU                 ,cf2005    
+41887,16.0,8141.0,20051001.0, ARG, ARGH                , UCLA                ,cf2005    
+41888,17.0,402.0,20051001.0, ARG, ARGH                , Auburn              ,cf2005    
+41889,18.0,1715.0,20051001.0, ARG, ARGH                , Colorado            ,cf2005    
+41890,19.0,4741.0,20051001.0, ARG, ARGH                , Michigan            ,cf2005    
+41891,20.0,783.0,20051001.0, ARG, ARGH                , Boston College      ,cf2005    
+41892,21.0,4757.0,20051001.0, ARG, ARGH                , Michigan St         ,cf2005    
+41893,22.0,4858.0,20051001.0, ARG, ARGH                , Minnesota           ,cf2005    
+41894,23.0,2911.0,20051001.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+41895,24.0,304.0,20051001.0, ARG, ARGH                , Arizona St          ,cf2005    
+41896,25.0,7918.0,20051001.0, ARG, ARGH                , Texas Tech          ,cf2005    
+41897,26.0,5279.0,20051001.0, ARG, ARGH                , Nebraska            ,cf2005    
+41898,27.0,9162.0,20051001.0, ARG, ARGH                , Wyoming             ,cf2005    
+41899,28.0,4224.0,20051001.0, ARG, ARGH                , Louisville          ,cf2005    
+41900,29.0,5961.0,20051001.0, ARG, ARGH                , Oregon              ,cf2005    
+41901,30.0,7278.0,20051001.0, ARG, ARGH                , South Florida       ,cf2005    
+41902,31.0,8716.0,20051001.0, ARG, ARGH                , West Virginia       ,cf2005    
+41903,32.0,5886.0,20051001.0, ARG, ARGH                , Oklahoma            ,cf2005    
+41904,33.0,5492.0,20051001.0, ARG, ARGH                , North Carolina      ,cf2005    
+41905,34.0,771.0,20051001.0, ARG, ARGH                , Boise St            ,cf2005    
+41906,35.0,7848.0,20051001.0, ARG, ARGH                , Texas A&M           ,cf2005    
+41907,36.0,8432.0,20051001.0, ARG, ARGH                , Virginia            ,cf2005    
+41908,37.0,2776.0,20051001.0, ARG, ARGH                , Fresno St           ,cf2005    
+41909,38.0,3540.0,20051001.0, ARG, ARGH                , Iowa                ,cf2005    
+41910,39.0,6393.0,20051001.0, ARG, ARGH                , Purdue              ,cf2005    
+41911,40.0,7878.0,20051001.0, ARG, ARGH                , TCU                 ,cf2005    
+41912,41.0,1872.0,20051001.0, ARG, ARGH                , Connecticut         ,cf2005    
+41913,42.0,1603.0,20051001.0, ARG, ARGH                , Clemson             ,cf2005    
+41914,43.0,7365.0,20051001.0, ARG, ARGH                , Southern Miss       ,cf2005    
+41915,44.0,4474.0,20051001.0, ARG, ARGH                , Maryland            ,cf2005    
+41916,45.0,3554.0,20051001.0, ARG, ARGH                , Iowa St             ,cf2005    
+41917,46.0,8588.0,20051001.0, ARG, ARGH                , Washington St       ,cf2005    
+41918,47.0,87.0,20051001.0, ARG, ARGH                , UAB                 ,cf2005    
+41919,48.0,5511.0,20051001.0, ARG, ARGH                , NC State            ,cf2005    
+41920,49.0,821.0,20051001.0, ARG, ARGH                , Bowling Green       ,cf2005    
+41921,50.0,3731.0,20051001.0, ARG, ARGH                , Kansas St           ,cf2005    
+41922,51.0,1753.0,20051001.0, ARG, ARGH                , Colorado St         ,cf2005    
+41923,52.0,8315.0,20051001.0, ARG, ARGH                , Utah                ,cf2005    
+41924,53.0,3717.0,20051001.0, ARG, ARGH                , Kansas              ,cf2005    
+41925,54.0,7978.0,20051001.0, ARG, ARGH                , Toledo              ,cf2005    
+41926,55.0,5970.0,20051001.0, ARG, ARGH                , Oregon St           ,cf2005    
+41927,56.0,5704.0,20051001.0, ARG, ARGH                , Northwestern        ,cf2005    
+41928,57.0,8367.0,20051001.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+41929,58.0,7933.0,20051001.0, ARG, ARGH                , UTEP                ,cf2005    
+41930,59.0,4725.0,20051001.0, ARG, ARGH                , Miami OH            ,cf2005    
+41931,60.0,5912.0,20051001.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+41932,61.0,3484.0,20051001.0, ARG, ARGH                , Indiana             ,cf2005    
+41933,62.0,4948.0,20051001.0, ARG, ARGH                , Missouri            ,cf2005    
+41934,63.0,557.0,20051001.0, ARG, ARGH                , Baylor              ,cf2005    
+41935,64.0,5371.0,20051001.0, ARG, ARGH                , New Mexico          ,cf2005    
+41936,65.0,7242.0,20051001.0, ARG, ARGH                , South Carolina      ,cf2005    
+41937,66.0,316.0,20051001.0, ARG, ARGH                , Arkansas            ,cf2005    
+41938,67.0,6696.0,20051001.0, ARG, ARGH                , Rutgers             ,cf2005    
+41939,68.0,55.0,20051001.0, ARG, ARGH                , Air Force           ,cf2005    
+41940,69.0,4636.0,20051001.0, ARG, ARGH                , Memphis             ,cf2005    
+41941,70.0,3347.0,20051001.0, ARG, ARGH                , Houston             ,cf2005    
+41942,71.0,4920.0,20051001.0, ARG, ARGH                , Mississippi         ,cf2005    
+41943,72.0,7002.0,20051001.0, ARG, ARGH                , San Diego St        ,cf2005    
+41944,73.0,8099.0,20051001.0, ARG, ARGH                , Tulsa               ,cf2005    
+41945,74.0,8508.0,20051001.0, ARG, ARGH                , Wake Forest         ,cf2005    
+41946,75.0,7729.0,20051001.0, ARG, ARGH                , Syracuse            ,cf2005    
+41947,76.0,4936.0,20051001.0, ARG, ARGH                , Mississippi St      ,cf2005    
+41948,77.0,8092.0,20051001.0, ARG, ARGH                , Tulane              ,cf2005    
+41949,78.0,5634.0,20051001.0, ARG, ARGH                , N Illinois          ,cf2005    
+41950,79.0,6236.0,20051001.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+41951,80.0,1404.0,20051001.0, ARG, ARGH                , C Michigan          ,cf2005    
+41952,81.0,4218.0,20051001.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+41953,82.0,2353.0,20051001.0, ARG, ARGH                , E Michigan          ,cf2005    
+41954,83.0,3197.0,20051001.0, ARG, ARGH                , Hawaii              ,cf2005    
+41955,84.0,66.0,20051001.0, ARG, ARGH                , Akron               ,cf2005    
+41956,85.0,1529.0,20051001.0, ARG, ARGH                , Cincinnati          ,cf2005    
+41957,86.0,891.0,20051001.0, ARG, ARGH                , BYU                 ,cf2005    
+41958,87.0,7582.0,20051001.0, ARG, ARGH                , Stanford            ,cf2005    
+41959,88.0,294.0,20051001.0, ARG, ARGH                , Arizona             ,cf2005    
+41960,89.0,5253.0,20051001.0, ARG, ARGH                , Navy                ,cf2005    
+41961,90.0,1380.0,20051001.0, ARG, ARGH                , UCF                 ,cf2005    
+41962,91.0,3425.0,20051001.0, ARG, ARGH                , Illinois            ,cf2005    
+41963,92.0,5825.0,20051001.0, ARG, ARGH                , Ohio                ,cf2005    
+41964,93.0,333.0,20051001.0, ARG, ARGH                , Arkansas St         ,cf2005    
+41965,94.0,8551.0,20051001.0, ARG, ARGH                , Washington          ,cf2005    
+41966,95.0,4436.0,20051001.0, ARG, ARGH                , Marshall            ,cf2005    
+41967,96.0,5316.0,20051001.0, ARG, ARGH                , Nevada              ,cf2005    
+41968,97.0,8767.0,20051001.0, ARG, ARGH                , W Michigan          ,cf2005    
+41969,98.0,3781.0,20051001.0, ARG, ARGH                , Kentucky            ,cf2005    
+41970,99.0,4785.0,20051001.0, ARG, ARGH                , MTSU                ,cf2005    
+41971,100.0,6535.0,20051001.0, ARG, ARGH                , Rice                ,cf2005    
+41972,101.0,4200.0,20051001.0, ARG, ARGH                , ULM                 ,cf2005    
+41973,102.0,8068.0,20051001.0, ARG, ARGH                , Troy                ,cf2005    
+41974,103.0,2292.0,20051001.0, ARG, ARGH                , East Carolina       ,cf2005    
+41975,104.0,3771.0,20051001.0, ARG, ARGH                , Kent                ,cf2005    
+41976,105.0,5584.0,20051001.0, ARG, ARGH                , North Texas         ,cf2005    
+41977,106.0,4194.0,20051001.0, ARG, ARGH                , ULL                 ,cf2005    
+41978,107.0,2265.0,20051001.0, ARG, ARGH                , Duke                ,cf2005    
+41979,108.0,5323.0,20051001.0, ARG, ARGH                , UNLV                ,cf2005    
+41980,109.0,7358.0,20051001.0, ARG, ARGH                , SMU                 ,cf2005    
+41981,110.0,8325.0,20051001.0, ARG, ARGH                , Utah St             ,cf2005    
+41982,111.0,501.0,20051001.0, ARG, ARGH                , Ball St             ,cf2005    
+41983,112.0,7024.0,20051001.0, ARG, ARGH                , San Jose St         ,cf2005    
+41984,113.0,2652.0,20051001.0, ARG, ARGH                , Florida Intl        ,cf2005    
+41985,114.0,3415.0,20051001.0, ARG, ARGH                , Idaho               ,cf2005    
+41986,115.0,5387.0,20051001.0, ARG, ARGH                , New Mexico St       ,cf2005    
+41987,116.0,356.0,20051001.0, ARG, ARGH                , Army                ,cf2005    
+41988,117.0,2638.0,20051001.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+41989,118.0,7788.0,20051001.0, ARG, ARGH                , Temple              ,cf2005    
+41990,119.0,979.0,20051001.0, ARG, ARGH                , Buffalo             ,cf2005    
+55537,1.0,8459.0,20051008.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+55538,2.0,8251.0,20051008.0, ARG, ARGH                , USC                 ,cf2005    
+55539,3.0,7840.0,20051008.0, ARG, ARGH                , Texas               ,cf2005    
+55540,4.0,2881.0,20051008.0, ARG, ARGH                , Georgia             ,cf2005    
+55541,5.0,6114.0,20051008.0, ARG, ARGH                , Penn St             ,cf2005    
+55542,6.0,4719.0,20051008.0, ARG, ARGH                , Miami FL            ,cf2005    
+55543,7.0,2666.0,20051008.0, ARG, ARGH                , Florida St          ,cf2005    
+55544,8.0,74.0,20051008.0, ARG, ARGH                , Alabama             ,cf2005    
+55545,9.0,2625.0,20051008.0, ARG, ARGH                , Florida             ,cf2005    
+55546,10.0,4858.0,20051008.0, ARG, ARGH                , Minnesota           ,cf2005    
+55547,11.0,4206.0,20051008.0, ARG, ARGH                , LSU                 ,cf2005    
+55548,12.0,1715.0,20051008.0, ARG, ARGH                , Colorado            ,cf2005    
+55549,13.0,783.0,20051008.0, ARG, ARGH                , Boston College      ,cf2005    
+55550,14.0,7918.0,20051008.0, ARG, ARGH                , Texas Tech          ,cf2005    
+55551,15.0,8141.0,20051008.0, ARG, ARGH                , UCLA                ,cf2005    
+55552,16.0,402.0,20051008.0, ARG, ARGH                , Auburn              ,cf2005    
+55553,17.0,5749.0,20051008.0, ARG, ARGH                , Notre Dame          ,cf2005    
+55554,18.0,9031.0,20051008.0, ARG, ARGH                , Wisconsin           ,cf2005    
+55555,19.0,5850.0,20051008.0, ARG, ARGH                , Ohio St             ,cf2005    
+55556,20.0,5961.0,20051008.0, ARG, ARGH                , Oregon              ,cf2005    
+55557,21.0,4224.0,20051008.0, ARG, ARGH                , Louisville          ,cf2005    
+55558,22.0,1098.0,20051008.0, ARG, ARGH                , California          ,cf2005    
+55559,23.0,7801.0,20051008.0, ARG, ARGH                , Tennessee           ,cf2005    
+55560,24.0,4757.0,20051008.0, ARG, ARGH                , Michigan St         ,cf2005    
+55561,25.0,4741.0,20051008.0, ARG, ARGH                , Michigan            ,cf2005    
+55562,26.0,8716.0,20051008.0, ARG, ARGH                , West Virginia       ,cf2005    
+55563,27.0,7278.0,20051008.0, ARG, ARGH                , South Florida       ,cf2005    
+55564,28.0,7878.0,20051008.0, ARG, ARGH                , TCU                 ,cf2005    
+55565,29.0,2776.0,20051008.0, ARG, ARGH                , Fresno St           ,cf2005    
+55566,30.0,2911.0,20051008.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+55567,31.0,304.0,20051008.0, ARG, ARGH                , Arizona St          ,cf2005    
+55568,32.0,3540.0,20051008.0, ARG, ARGH                , Iowa                ,cf2005    
+55569,33.0,4474.0,20051008.0, ARG, ARGH                , Maryland            ,cf2005    
+55570,34.0,5279.0,20051008.0, ARG, ARGH                , Nebraska            ,cf2005    
+55571,35.0,5886.0,20051008.0, ARG, ARGH                , Oklahoma            ,cf2005    
+55572,36.0,1872.0,20051008.0, ARG, ARGH                , Connecticut         ,cf2005    
+55573,37.0,7848.0,20051008.0, ARG, ARGH                , Texas A&M           ,cf2005    
+55574,38.0,3731.0,20051008.0, ARG, ARGH                , Kansas St           ,cf2005    
+55575,39.0,5704.0,20051008.0, ARG, ARGH                , Northwestern        ,cf2005    
+55576,40.0,5511.0,20051008.0, ARG, ARGH                , NC State            ,cf2005    
+55577,41.0,9162.0,20051008.0, ARG, ARGH                , Wyoming             ,cf2005    
+55578,42.0,1603.0,20051008.0, ARG, ARGH                , Clemson             ,cf2005    
+55579,43.0,557.0,20051008.0, ARG, ARGH                , Baylor              ,cf2005    
+55580,44.0,1753.0,20051008.0, ARG, ARGH                , Colorado St         ,cf2005    
+55581,45.0,8432.0,20051008.0, ARG, ARGH                , Virginia            ,cf2005    
+55582,46.0,7978.0,20051008.0, ARG, ARGH                , Toledo              ,cf2005    
+55583,47.0,771.0,20051008.0, ARG, ARGH                , Boise St            ,cf2005    
+55584,48.0,821.0,20051008.0, ARG, ARGH                , Bowling Green       ,cf2005    
+55585,49.0,7242.0,20051008.0, ARG, ARGH                , South Carolina      ,cf2005    
+55586,50.0,6393.0,20051008.0, ARG, ARGH                , Purdue              ,cf2005    
+55587,51.0,3717.0,20051008.0, ARG, ARGH                , Kansas              ,cf2005    
+55588,52.0,4948.0,20051008.0, ARG, ARGH                , Missouri            ,cf2005    
+55589,53.0,3484.0,20051008.0, ARG, ARGH                , Indiana             ,cf2005    
+55590,54.0,3347.0,20051008.0, ARG, ARGH                , Houston             ,cf2005    
+55591,55.0,5492.0,20051008.0, ARG, ARGH                , North Carolina      ,cf2005    
+55592,56.0,7933.0,20051008.0, ARG, ARGH                , UTEP                ,cf2005    
+55593,57.0,5970.0,20051008.0, ARG, ARGH                , Oregon St           ,cf2005    
+55594,58.0,7365.0,20051008.0, ARG, ARGH                , Southern Miss       ,cf2005    
+55595,59.0,8099.0,20051008.0, ARG, ARGH                , Tulsa               ,cf2005    
+55596,60.0,3554.0,20051008.0, ARG, ARGH                , Iowa St             ,cf2005    
+55597,61.0,8588.0,20051008.0, ARG, ARGH                , Washington St       ,cf2005    
+55598,62.0,8315.0,20051008.0, ARG, ARGH                , Utah                ,cf2005    
+55599,63.0,8367.0,20051008.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+55600,64.0,316.0,20051008.0, ARG, ARGH                , Arkansas            ,cf2005    
+55601,65.0,87.0,20051008.0, ARG, ARGH                , UAB                 ,cf2005    
+55602,66.0,1380.0,20051008.0, ARG, ARGH                , UCF                 ,cf2005    
+55603,67.0,5634.0,20051008.0, ARG, ARGH                , N Illinois          ,cf2005    
+55604,68.0,4218.0,20051008.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+55605,69.0,4725.0,20051008.0, ARG, ARGH                , Miami OH            ,cf2005    
+55606,70.0,5371.0,20051008.0, ARG, ARGH                , New Mexico          ,cf2005    
+55607,71.0,8508.0,20051008.0, ARG, ARGH                , Wake Forest         ,cf2005    
+55608,72.0,5912.0,20051008.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+55609,73.0,7582.0,20051008.0, ARG, ARGH                , Stanford            ,cf2005    
+55610,74.0,6696.0,20051008.0, ARG, ARGH                , Rutgers             ,cf2005    
+55611,75.0,891.0,20051008.0, ARG, ARGH                , BYU                 ,cf2005    
+55612,76.0,4920.0,20051008.0, ARG, ARGH                , Mississippi         ,cf2005    
+55613,77.0,5253.0,20051008.0, ARG, ARGH                , Navy                ,cf2005    
+55614,78.0,6236.0,20051008.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+55615,79.0,1404.0,20051008.0, ARG, ARGH                , C Michigan          ,cf2005    
+55616,80.0,4936.0,20051008.0, ARG, ARGH                , Mississippi St      ,cf2005    
+55617,81.0,55.0,20051008.0, ARG, ARGH                , Air Force           ,cf2005    
+55618,82.0,4636.0,20051008.0, ARG, ARGH                , Memphis             ,cf2005    
+55619,83.0,66.0,20051008.0, ARG, ARGH                , Akron               ,cf2005    
+55620,84.0,7729.0,20051008.0, ARG, ARGH                , Syracuse            ,cf2005    
+55621,85.0,8092.0,20051008.0, ARG, ARGH                , Tulane              ,cf2005    
+55622,86.0,4436.0,20051008.0, ARG, ARGH                , Marshall            ,cf2005    
+55623,87.0,7002.0,20051008.0, ARG, ARGH                , San Diego St        ,cf2005    
+55624,88.0,5316.0,20051008.0, ARG, ARGH                , Nevada              ,cf2005    
+55625,89.0,294.0,20051008.0, ARG, ARGH                , Arizona             ,cf2005    
+55626,90.0,333.0,20051008.0, ARG, ARGH                , Arkansas St         ,cf2005    
+55627,91.0,5825.0,20051008.0, ARG, ARGH                , Ohio                ,cf2005    
+55628,92.0,2353.0,20051008.0, ARG, ARGH                , E Michigan          ,cf2005    
+55629,93.0,2292.0,20051008.0, ARG, ARGH                , East Carolina       ,cf2005    
+55630,94.0,1529.0,20051008.0, ARG, ARGH                , Cincinnati          ,cf2005    
+55631,95.0,7358.0,20051008.0, ARG, ARGH                , SMU                 ,cf2005    
+55632,96.0,3425.0,20051008.0, ARG, ARGH                , Illinois            ,cf2005    
+55633,97.0,8551.0,20051008.0, ARG, ARGH                , Washington          ,cf2005    
+55634,98.0,3197.0,20051008.0, ARG, ARGH                , Hawaii              ,cf2005    
+55635,99.0,3781.0,20051008.0, ARG, ARGH                , Kentucky            ,cf2005    
+55636,100.0,4785.0,20051008.0, ARG, ARGH                , MTSU                ,cf2005    
+55637,101.0,8068.0,20051008.0, ARG, ARGH                , Troy                ,cf2005    
+55638,102.0,501.0,20051008.0, ARG, ARGH                , Ball St             ,cf2005    
+55639,103.0,8767.0,20051008.0, ARG, ARGH                , W Michigan          ,cf2005    
+55640,104.0,4200.0,20051008.0, ARG, ARGH                , ULM                 ,cf2005    
+55641,105.0,5323.0,20051008.0, ARG, ARGH                , UNLV                ,cf2005    
+55642,106.0,6535.0,20051008.0, ARG, ARGH                , Rice                ,cf2005    
+55643,107.0,2265.0,20051008.0, ARG, ARGH                , Duke                ,cf2005    
+55644,108.0,3771.0,20051008.0, ARG, ARGH                , Kent                ,cf2005    
+55645,109.0,8325.0,20051008.0, ARG, ARGH                , Utah St             ,cf2005    
+55646,110.0,2638.0,20051008.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+55647,111.0,2652.0,20051008.0, ARG, ARGH                , Florida Intl        ,cf2005    
+55648,112.0,5584.0,20051008.0, ARG, ARGH                , North Texas         ,cf2005    
+55649,113.0,4194.0,20051008.0, ARG, ARGH                , ULL                 ,cf2005    
+55650,114.0,7024.0,20051008.0, ARG, ARGH                , San Jose St         ,cf2005    
+55651,115.0,356.0,20051008.0, ARG, ARGH                , Army                ,cf2005    
+55652,116.0,5387.0,20051008.0, ARG, ARGH                , New Mexico St       ,cf2005    
+55653,117.0,3415.0,20051008.0, ARG, ARGH                , Idaho               ,cf2005    
+55654,118.0,7788.0,20051008.0, ARG, ARGH                , Temple              ,cf2005    
+55655,119.0,979.0,20051008.0, ARG, ARGH                , Buffalo             ,cf2005    
+70632,1.0,7840.0,20051015.0, ARG, ARGH                , Texas               ,cf2005    
+70633,2.0,8251.0,20051015.0, ARG, ARGH                , USC                 ,cf2005    
+70634,3.0,8459.0,20051015.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+70635,4.0,2881.0,20051015.0, ARG, ARGH                , Georgia             ,cf2005    
+70636,5.0,74.0,20051015.0, ARG, ARGH                , Alabama             ,cf2005    
+70637,6.0,4719.0,20051015.0, ARG, ARGH                , Miami FL            ,cf2005    
+70638,7.0,6114.0,20051015.0, ARG, ARGH                , Penn St             ,cf2005    
+70639,8.0,4206.0,20051015.0, ARG, ARGH                , LSU                 ,cf2005    
+70640,9.0,9031.0,20051015.0, ARG, ARGH                , Wisconsin           ,cf2005    
+70641,10.0,5850.0,20051015.0, ARG, ARGH                , Ohio St             ,cf2005    
+70642,11.0,2666.0,20051015.0, ARG, ARGH                , Florida St          ,cf2005    
+70643,12.0,7918.0,20051015.0, ARG, ARGH                , Texas Tech          ,cf2005    
+70644,13.0,783.0,20051015.0, ARG, ARGH                , Boston College      ,cf2005    
+70645,14.0,402.0,20051015.0, ARG, ARGH                , Auburn              ,cf2005    
+70646,15.0,8141.0,20051015.0, ARG, ARGH                , UCLA                ,cf2005    
+70647,16.0,2625.0,20051015.0, ARG, ARGH                , Florida             ,cf2005    
+70648,17.0,5749.0,20051015.0, ARG, ARGH                , Notre Dame          ,cf2005    
+70649,18.0,4858.0,20051015.0, ARG, ARGH                , Minnesota           ,cf2005    
+70650,19.0,4741.0,20051015.0, ARG, ARGH                , Michigan            ,cf2005    
+70651,20.0,5961.0,20051015.0, ARG, ARGH                , Oregon              ,cf2005    
+70652,21.0,1715.0,20051015.0, ARG, ARGH                , Colorado            ,cf2005    
+70653,22.0,8716.0,20051015.0, ARG, ARGH                , West Virginia       ,cf2005    
+70654,23.0,4757.0,20051015.0, ARG, ARGH                , Michigan St         ,cf2005    
+70655,24.0,7801.0,20051015.0, ARG, ARGH                , Tennessee           ,cf2005    
+70656,25.0,5279.0,20051015.0, ARG, ARGH                , Nebraska            ,cf2005    
+70657,26.0,7878.0,20051015.0, ARG, ARGH                , TCU                 ,cf2005    
+70658,27.0,304.0,20051015.0, ARG, ARGH                , Arizona St          ,cf2005    
+70659,28.0,3540.0,20051015.0, ARG, ARGH                , Iowa                ,cf2005    
+70660,29.0,4224.0,20051015.0, ARG, ARGH                , Louisville          ,cf2005    
+70661,30.0,2911.0,20051015.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+70662,31.0,2776.0,20051015.0, ARG, ARGH                , Fresno St           ,cf2005    
+70663,32.0,1603.0,20051015.0, ARG, ARGH                , Clemson             ,cf2005    
+70664,33.0,5704.0,20051015.0, ARG, ARGH                , Northwestern        ,cf2005    
+70665,34.0,4474.0,20051015.0, ARG, ARGH                , Maryland            ,cf2005    
+70666,35.0,5886.0,20051015.0, ARG, ARGH                , Oklahoma            ,cf2005    
+70667,36.0,8432.0,20051015.0, ARG, ARGH                , Virginia            ,cf2005    
+70668,37.0,1098.0,20051015.0, ARG, ARGH                , California          ,cf2005    
+70669,38.0,7848.0,20051015.0, ARG, ARGH                , Texas A&M           ,cf2005    
+70670,39.0,7978.0,20051015.0, ARG, ARGH                , Toledo              ,cf2005    
+70671,40.0,7278.0,20051015.0, ARG, ARGH                , South Florida       ,cf2005    
+70672,41.0,7933.0,20051015.0, ARG, ARGH                , UTEP                ,cf2005    
+70673,42.0,5970.0,20051015.0, ARG, ARGH                , Oregon St           ,cf2005    
+70674,43.0,7365.0,20051015.0, ARG, ARGH                , Southern Miss       ,cf2005    
+70675,44.0,557.0,20051015.0, ARG, ARGH                , Baylor              ,cf2005    
+70676,45.0,821.0,20051015.0, ARG, ARGH                , Bowling Green       ,cf2005    
+70677,46.0,4948.0,20051015.0, ARG, ARGH                , Missouri            ,cf2005    
+70678,47.0,8099.0,20051015.0, ARG, ARGH                , Tulsa               ,cf2005    
+70679,48.0,771.0,20051015.0, ARG, ARGH                , Boise St            ,cf2005    
+70680,49.0,1872.0,20051015.0, ARG, ARGH                , Connecticut         ,cf2005    
+70681,50.0,9162.0,20051015.0, ARG, ARGH                , Wyoming             ,cf2005    
+70682,51.0,3484.0,20051015.0, ARG, ARGH                , Indiana             ,cf2005    
+70683,52.0,1753.0,20051015.0, ARG, ARGH                , Colorado St         ,cf2005    
+70684,53.0,5511.0,20051015.0, ARG, ARGH                , NC State            ,cf2005    
+70685,54.0,7242.0,20051015.0, ARG, ARGH                , South Carolina      ,cf2005    
+70686,55.0,3731.0,20051015.0, ARG, ARGH                , Kansas St           ,cf2005    
+70687,56.0,4725.0,20051015.0, ARG, ARGH                , Miami OH            ,cf2005    
+70688,57.0,6696.0,20051015.0, ARG, ARGH                , Rutgers             ,cf2005    
+70689,58.0,5371.0,20051015.0, ARG, ARGH                , New Mexico          ,cf2005    
+70690,59.0,5634.0,20051015.0, ARG, ARGH                , N Illinois          ,cf2005    
+70691,60.0,6236.0,20051015.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+70692,61.0,5492.0,20051015.0, ARG, ARGH                , North Carolina      ,cf2005    
+70693,62.0,3554.0,20051015.0, ARG, ARGH                , Iowa St             ,cf2005    
+70694,63.0,8588.0,20051015.0, ARG, ARGH                , Washington St       ,cf2005    
+70695,64.0,8367.0,20051015.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+70696,65.0,891.0,20051015.0, ARG, ARGH                , BYU                 ,cf2005    
+70697,66.0,6393.0,20051015.0, ARG, ARGH                , Purdue              ,cf2005    
+70698,67.0,3717.0,20051015.0, ARG, ARGH                , Kansas              ,cf2005    
+70699,68.0,1404.0,20051015.0, ARG, ARGH                , C Michigan          ,cf2005    
+70700,69.0,8508.0,20051015.0, ARG, ARGH                , Wake Forest         ,cf2005    
+70701,70.0,4636.0,20051015.0, ARG, ARGH                , Memphis             ,cf2005    
+70702,71.0,3347.0,20051015.0, ARG, ARGH                , Houston             ,cf2005    
+70703,72.0,7582.0,20051015.0, ARG, ARGH                , Stanford            ,cf2005    
+70704,73.0,316.0,20051015.0, ARG, ARGH                , Arkansas            ,cf2005    
+70705,74.0,5253.0,20051015.0, ARG, ARGH                , Navy                ,cf2005    
+70706,75.0,7002.0,20051015.0, ARG, ARGH                , San Diego St        ,cf2005    
+70707,76.0,4920.0,20051015.0, ARG, ARGH                , Mississippi         ,cf2005    
+70708,77.0,55.0,20051015.0, ARG, ARGH                , Air Force           ,cf2005    
+70709,78.0,1380.0,20051015.0, ARG, ARGH                , UCF                 ,cf2005    
+70710,79.0,8315.0,20051015.0, ARG, ARGH                , Utah                ,cf2005    
+70711,80.0,1529.0,20051015.0, ARG, ARGH                , Cincinnati          ,cf2005    
+70712,81.0,4936.0,20051015.0, ARG, ARGH                , Mississippi St      ,cf2005    
+70713,82.0,87.0,20051015.0, ARG, ARGH                , UAB                 ,cf2005    
+70714,83.0,5316.0,20051015.0, ARG, ARGH                , Nevada              ,cf2005    
+70715,84.0,4218.0,20051015.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+70716,85.0,2292.0,20051015.0, ARG, ARGH                , East Carolina       ,cf2005    
+70717,86.0,4436.0,20051015.0, ARG, ARGH                , Marshall            ,cf2005    
+70718,87.0,5912.0,20051015.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+70719,88.0,66.0,20051015.0, ARG, ARGH                , Akron               ,cf2005    
+70720,89.0,4785.0,20051015.0, ARG, ARGH                , MTSU                ,cf2005    
+70721,90.0,333.0,20051015.0, ARG, ARGH                , Arkansas St         ,cf2005    
+70722,91.0,2353.0,20051015.0, ARG, ARGH                , E Michigan          ,cf2005    
+70723,92.0,3425.0,20051015.0, ARG, ARGH                , Illinois            ,cf2005    
+70724,93.0,3197.0,20051015.0, ARG, ARGH                , Hawaii              ,cf2005    
+70725,94.0,5825.0,20051015.0, ARG, ARGH                , Ohio                ,cf2005    
+70726,95.0,8551.0,20051015.0, ARG, ARGH                , Washington          ,cf2005    
+70727,96.0,7729.0,20051015.0, ARG, ARGH                , Syracuse            ,cf2005    
+70728,97.0,8092.0,20051015.0, ARG, ARGH                , Tulane              ,cf2005    
+70729,98.0,294.0,20051015.0, ARG, ARGH                , Arizona             ,cf2005    
+70730,99.0,8767.0,20051015.0, ARG, ARGH                , W Michigan          ,cf2005    
+70731,100.0,3781.0,20051015.0, ARG, ARGH                , Kentucky            ,cf2005    
+70732,101.0,4200.0,20051015.0, ARG, ARGH                , ULM                 ,cf2005    
+70733,102.0,7358.0,20051015.0, ARG, ARGH                , SMU                 ,cf2005    
+70734,103.0,501.0,20051015.0, ARG, ARGH                , Ball St             ,cf2005    
+70735,104.0,3771.0,20051015.0, ARG, ARGH                , Kent                ,cf2005    
+70736,105.0,5323.0,20051015.0, ARG, ARGH                , UNLV                ,cf2005    
+70737,106.0,2265.0,20051015.0, ARG, ARGH                , Duke                ,cf2005    
+70738,107.0,6535.0,20051015.0, ARG, ARGH                , Rice                ,cf2005    
+70739,108.0,8068.0,20051015.0, ARG, ARGH                , Troy                ,cf2005    
+70740,109.0,8325.0,20051015.0, ARG, ARGH                , Utah St             ,cf2005    
+70741,110.0,5584.0,20051015.0, ARG, ARGH                , North Texas         ,cf2005    
+70742,111.0,4194.0,20051015.0, ARG, ARGH                , ULL                 ,cf2005    
+70743,112.0,7024.0,20051015.0, ARG, ARGH                , San Jose St         ,cf2005    
+70744,113.0,2638.0,20051015.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+70745,114.0,2652.0,20051015.0, ARG, ARGH                , Florida Intl        ,cf2005    
+70746,115.0,356.0,20051015.0, ARG, ARGH                , Army                ,cf2005    
+70747,116.0,3415.0,20051015.0, ARG, ARGH                , Idaho               ,cf2005    
+70748,117.0,5387.0,20051015.0, ARG, ARGH                , New Mexico St       ,cf2005    
+70749,118.0,7788.0,20051015.0, ARG, ARGH                , Temple              ,cf2005    
+70750,119.0,979.0,20051015.0, ARG, ARGH                , Buffalo             ,cf2005    
+86409,1.0,7840.0,20051022.0, ARG, ARGH                , Texas               ,cf2005    
+86410,2.0,8459.0,20051022.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+86411,3.0,8251.0,20051022.0, ARG, ARGH                , USC                 ,cf2005    
+86412,4.0,74.0,20051022.0, ARG, ARGH                , Alabama             ,cf2005    
+86413,5.0,6114.0,20051022.0, ARG, ARGH                , Penn St             ,cf2005    
+86414,6.0,2881.0,20051022.0, ARG, ARGH                , Georgia             ,cf2005    
+86415,7.0,4719.0,20051022.0, ARG, ARGH                , Miami FL            ,cf2005    
+86416,8.0,4206.0,20051022.0, ARG, ARGH                , LSU                 ,cf2005    
+86417,9.0,5850.0,20051022.0, ARG, ARGH                , Ohio St             ,cf2005    
+86418,10.0,9031.0,20051022.0, ARG, ARGH                , Wisconsin           ,cf2005    
+86419,11.0,2666.0,20051022.0, ARG, ARGH                , Florida St          ,cf2005    
+86420,12.0,8141.0,20051022.0, ARG, ARGH                , UCLA                ,cf2005    
+86421,13.0,783.0,20051022.0, ARG, ARGH                , Boston College      ,cf2005    
+86422,14.0,4741.0,20051022.0, ARG, ARGH                , Michigan            ,cf2005    
+86423,15.0,5749.0,20051022.0, ARG, ARGH                , Notre Dame          ,cf2005    
+86424,16.0,2625.0,20051022.0, ARG, ARGH                , Florida             ,cf2005    
+86425,17.0,1715.0,20051022.0, ARG, ARGH                , Colorado            ,cf2005    
+86426,18.0,4858.0,20051022.0, ARG, ARGH                , Minnesota           ,cf2005    
+86427,19.0,5961.0,20051022.0, ARG, ARGH                , Oregon              ,cf2005    
+86428,20.0,402.0,20051022.0, ARG, ARGH                , Auburn              ,cf2005    
+86429,21.0,7878.0,20051022.0, ARG, ARGH                , TCU                 ,cf2005    
+86430,22.0,7918.0,20051022.0, ARG, ARGH                , Texas Tech          ,cf2005    
+86431,23.0,5704.0,20051022.0, ARG, ARGH                , Northwestern        ,cf2005    
+86432,24.0,8716.0,20051022.0, ARG, ARGH                , West Virginia       ,cf2005    
+86433,25.0,4224.0,20051022.0, ARG, ARGH                , Louisville          ,cf2005    
+86434,26.0,7801.0,20051022.0, ARG, ARGH                , Tennessee           ,cf2005    
+86435,27.0,2776.0,20051022.0, ARG, ARGH                , Fresno St           ,cf2005    
+86436,28.0,5886.0,20051022.0, ARG, ARGH                , Oklahoma            ,cf2005    
+86437,29.0,1603.0,20051022.0, ARG, ARGH                , Clemson             ,cf2005    
+86438,30.0,2911.0,20051022.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+86439,31.0,3540.0,20051022.0, ARG, ARGH                , Iowa                ,cf2005    
+86440,32.0,7933.0,20051022.0, ARG, ARGH                , UTEP                ,cf2005    
+86441,33.0,4757.0,20051022.0, ARG, ARGH                , Michigan St         ,cf2005    
+86442,34.0,7848.0,20051022.0, ARG, ARGH                , Texas A&M           ,cf2005    
+86443,35.0,1098.0,20051022.0, ARG, ARGH                , California          ,cf2005    
+86444,36.0,5279.0,20051022.0, ARG, ARGH                , Nebraska            ,cf2005    
+86445,37.0,304.0,20051022.0, ARG, ARGH                , Arizona St          ,cf2005    
+86446,38.0,4474.0,20051022.0, ARG, ARGH                , Maryland            ,cf2005    
+86447,39.0,4948.0,20051022.0, ARG, ARGH                , Missouri            ,cf2005    
+86448,40.0,7278.0,20051022.0, ARG, ARGH                , South Florida       ,cf2005    
+86449,41.0,7978.0,20051022.0, ARG, ARGH                , Toledo              ,cf2005    
+86450,42.0,8432.0,20051022.0, ARG, ARGH                , Virginia            ,cf2005    
+86451,43.0,7365.0,20051022.0, ARG, ARGH                , Southern Miss       ,cf2005    
+86452,44.0,5371.0,20051022.0, ARG, ARGH                , New Mexico          ,cf2005    
+86453,45.0,8099.0,20051022.0, ARG, ARGH                , Tulsa               ,cf2005    
+86454,46.0,1753.0,20051022.0, ARG, ARGH                , Colorado St         ,cf2005    
+86455,47.0,7242.0,20051022.0, ARG, ARGH                , South Carolina      ,cf2005    
+86456,48.0,6696.0,20051022.0, ARG, ARGH                , Rutgers             ,cf2005    
+86457,49.0,557.0,20051022.0, ARG, ARGH                , Baylor              ,cf2005    
+86458,50.0,3554.0,20051022.0, ARG, ARGH                , Iowa St             ,cf2005    
+86459,51.0,771.0,20051022.0, ARG, ARGH                , Boise St            ,cf2005    
+86460,52.0,5634.0,20051022.0, ARG, ARGH                , N Illinois          ,cf2005    
+86461,53.0,5970.0,20051022.0, ARG, ARGH                , Oregon St           ,cf2005    
+86462,54.0,7582.0,20051022.0, ARG, ARGH                , Stanford            ,cf2005    
+86463,55.0,4725.0,20051022.0, ARG, ARGH                , Miami OH            ,cf2005    
+86464,56.0,3347.0,20051022.0, ARG, ARGH                , Houston             ,cf2005    
+86465,57.0,5492.0,20051022.0, ARG, ARGH                , North Carolina      ,cf2005    
+86466,58.0,9162.0,20051022.0, ARG, ARGH                , Wyoming             ,cf2005    
+86467,59.0,6236.0,20051022.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+86468,60.0,4636.0,20051022.0, ARG, ARGH                , Memphis             ,cf2005    
+86469,61.0,1872.0,20051022.0, ARG, ARGH                , Connecticut         ,cf2005    
+86470,62.0,3484.0,20051022.0, ARG, ARGH                , Indiana             ,cf2005    
+86471,63.0,5253.0,20051022.0, ARG, ARGH                , Navy                ,cf2005    
+86472,64.0,6393.0,20051022.0, ARG, ARGH                , Purdue              ,cf2005    
+86473,65.0,8588.0,20051022.0, ARG, ARGH                , Washington St       ,cf2005    
+86474,66.0,8508.0,20051022.0, ARG, ARGH                , Wake Forest         ,cf2005    
+86475,67.0,5511.0,20051022.0, ARG, ARGH                , NC State            ,cf2005    
+86476,68.0,891.0,20051022.0, ARG, ARGH                , BYU                 ,cf2005    
+86477,69.0,1404.0,20051022.0, ARG, ARGH                , C Michigan          ,cf2005    
+86478,70.0,3731.0,20051022.0, ARG, ARGH                , Kansas St           ,cf2005    
+86479,71.0,8367.0,20051022.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+86480,72.0,1380.0,20051022.0, ARG, ARGH                , UCF                 ,cf2005    
+86481,73.0,316.0,20051022.0, ARG, ARGH                , Arkansas            ,cf2005    
+86482,74.0,821.0,20051022.0, ARG, ARGH                , Bowling Green       ,cf2005    
+86483,75.0,4920.0,20051022.0, ARG, ARGH                , Mississippi         ,cf2005    
+86484,76.0,8315.0,20051022.0, ARG, ARGH                , Utah                ,cf2005    
+86485,77.0,3717.0,20051022.0, ARG, ARGH                , Kansas              ,cf2005    
+86486,78.0,4218.0,20051022.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+86487,79.0,5316.0,20051022.0, ARG, ARGH                , Nevada              ,cf2005    
+86488,80.0,55.0,20051022.0, ARG, ARGH                , Air Force           ,cf2005    
+86489,81.0,7002.0,20051022.0, ARG, ARGH                , San Diego St        ,cf2005    
+86490,82.0,2292.0,20051022.0, ARG, ARGH                , East Carolina       ,cf2005    
+86491,83.0,1529.0,20051022.0, ARG, ARGH                , Cincinnati          ,cf2005    
+86492,84.0,87.0,20051022.0, ARG, ARGH                , UAB                 ,cf2005    
+86493,85.0,8767.0,20051022.0, ARG, ARGH                , W Michigan          ,cf2005    
+86494,86.0,4936.0,20051022.0, ARG, ARGH                , Mississippi St      ,cf2005    
+86495,87.0,333.0,20051022.0, ARG, ARGH                , Arkansas St         ,cf2005    
+86496,88.0,5825.0,20051022.0, ARG, ARGH                , Ohio                ,cf2005    
+86497,89.0,4436.0,20051022.0, ARG, ARGH                , Marshall            ,cf2005    
+86498,90.0,3197.0,20051022.0, ARG, ARGH                , Hawaii              ,cf2005    
+86499,91.0,5912.0,20051022.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+86500,92.0,2353.0,20051022.0, ARG, ARGH                , E Michigan          ,cf2005    
+86501,93.0,8551.0,20051022.0, ARG, ARGH                , Washington          ,cf2005    
+86502,94.0,3425.0,20051022.0, ARG, ARGH                , Illinois            ,cf2005    
+86503,95.0,294.0,20051022.0, ARG, ARGH                , Arizona             ,cf2005    
+86504,96.0,8092.0,20051022.0, ARG, ARGH                , Tulane              ,cf2005    
+86505,97.0,66.0,20051022.0, ARG, ARGH                , Akron               ,cf2005    
+86506,98.0,4785.0,20051022.0, ARG, ARGH                , MTSU                ,cf2005    
+86507,99.0,4200.0,20051022.0, ARG, ARGH                , ULM                 ,cf2005    
+86508,100.0,7729.0,20051022.0, ARG, ARGH                , Syracuse            ,cf2005    
+86509,101.0,3781.0,20051022.0, ARG, ARGH                , Kentucky            ,cf2005    
+86510,102.0,7358.0,20051022.0, ARG, ARGH                , SMU                 ,cf2005    
+86511,103.0,8068.0,20051022.0, ARG, ARGH                , Troy                ,cf2005    
+86512,104.0,2265.0,20051022.0, ARG, ARGH                , Duke                ,cf2005    
+86513,105.0,356.0,20051022.0, ARG, ARGH                , Army                ,cf2005    
+86514,106.0,501.0,20051022.0, ARG, ARGH                , Ball St             ,cf2005    
+86515,107.0,4194.0,20051022.0, ARG, ARGH                , ULL                 ,cf2005    
+86516,108.0,5323.0,20051022.0, ARG, ARGH                , UNLV                ,cf2005    
+86517,109.0,3771.0,20051022.0, ARG, ARGH                , Kent                ,cf2005    
+86518,110.0,8325.0,20051022.0, ARG, ARGH                , Utah St             ,cf2005    
+86519,111.0,6535.0,20051022.0, ARG, ARGH                , Rice                ,cf2005    
+86520,112.0,5584.0,20051022.0, ARG, ARGH                , North Texas         ,cf2005    
+86521,113.0,7024.0,20051022.0, ARG, ARGH                , San Jose St         ,cf2005    
+86522,114.0,2638.0,20051022.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+86523,115.0,5387.0,20051022.0, ARG, ARGH                , New Mexico St       ,cf2005    
+86524,116.0,2652.0,20051022.0, ARG, ARGH                , Florida Intl        ,cf2005    
+86525,117.0,3415.0,20051022.0, ARG, ARGH                , Idaho               ,cf2005    
+86526,118.0,7788.0,20051022.0, ARG, ARGH                , Temple              ,cf2005    
+86527,119.0,979.0,20051022.0, ARG, ARGH                , Buffalo             ,cf2005    
+102962,1.0,8459.0,20051029.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+102963,2.0,7840.0,20051029.0, ARG, ARGH                , Texas               ,cf2005    
+102964,3.0,8251.0,20051029.0, ARG, ARGH                , USC                 ,cf2005    
+102965,4.0,74.0,20051029.0, ARG, ARGH                , Alabama             ,cf2005    
+102966,5.0,6114.0,20051029.0, ARG, ARGH                , Penn St             ,cf2005    
+102967,6.0,4719.0,20051029.0, ARG, ARGH                , Miami FL            ,cf2005    
+102968,7.0,5850.0,20051029.0, ARG, ARGH                , Ohio St             ,cf2005    
+102969,8.0,2881.0,20051029.0, ARG, ARGH                , Georgia             ,cf2005    
+102970,9.0,4206.0,20051029.0, ARG, ARGH                , LSU                 ,cf2005    
+102971,10.0,9031.0,20051029.0, ARG, ARGH                , Wisconsin           ,cf2005    
+102972,11.0,2666.0,20051029.0, ARG, ARGH                , Florida St          ,cf2005    
+102973,12.0,4741.0,20051029.0, ARG, ARGH                , Michigan            ,cf2005    
+102974,13.0,8141.0,20051029.0, ARG, ARGH                , UCLA                ,cf2005    
+102975,14.0,2625.0,20051029.0, ARG, ARGH                , Florida             ,cf2005    
+102976,15.0,7918.0,20051029.0, ARG, ARGH                , Texas Tech          ,cf2005    
+102977,16.0,5749.0,20051029.0, ARG, ARGH                , Notre Dame          ,cf2005    
+102978,17.0,402.0,20051029.0, ARG, ARGH                , Auburn              ,cf2005    
+102979,18.0,1715.0,20051029.0, ARG, ARGH                , Colorado            ,cf2005    
+102980,19.0,783.0,20051029.0, ARG, ARGH                , Boston College      ,cf2005    
+102981,20.0,5961.0,20051029.0, ARG, ARGH                , Oregon              ,cf2005    
+102982,21.0,7878.0,20051029.0, ARG, ARGH                , TCU                 ,cf2005    
+102983,22.0,4858.0,20051029.0, ARG, ARGH                , Minnesota           ,cf2005    
+102984,23.0,8716.0,20051029.0, ARG, ARGH                , West Virginia       ,cf2005    
+102985,24.0,2776.0,20051029.0, ARG, ARGH                , Fresno St           ,cf2005    
+102986,25.0,5886.0,20051029.0, ARG, ARGH                , Oklahoma            ,cf2005    
+102987,26.0,4224.0,20051029.0, ARG, ARGH                , Louisville          ,cf2005    
+102988,27.0,5704.0,20051029.0, ARG, ARGH                , Northwestern        ,cf2005    
+102989,28.0,2911.0,20051029.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+102990,29.0,4757.0,20051029.0, ARG, ARGH                , Michigan St         ,cf2005    
+102991,30.0,3540.0,20051029.0, ARG, ARGH                , Iowa                ,cf2005    
+102992,31.0,1603.0,20051029.0, ARG, ARGH                , Clemson             ,cf2005    
+102993,32.0,1098.0,20051029.0, ARG, ARGH                , California          ,cf2005    
+102994,33.0,7933.0,20051029.0, ARG, ARGH                , UTEP                ,cf2005    
+102995,34.0,7801.0,20051029.0, ARG, ARGH                , Tennessee           ,cf2005    
+102996,35.0,304.0,20051029.0, ARG, ARGH                , Arizona St          ,cf2005    
+102997,36.0,7278.0,20051029.0, ARG, ARGH                , South Florida       ,cf2005    
+102998,37.0,4474.0,20051029.0, ARG, ARGH                , Maryland            ,cf2005    
+102999,38.0,3554.0,20051029.0, ARG, ARGH                , Iowa St             ,cf2005    
+103000,39.0,5279.0,20051029.0, ARG, ARGH                , Nebraska            ,cf2005    
+103001,40.0,7242.0,20051029.0, ARG, ARGH                , South Carolina      ,cf2005    
+103002,41.0,8432.0,20051029.0, ARG, ARGH                , Virginia            ,cf2005    
+103003,42.0,1753.0,20051029.0, ARG, ARGH                , Colorado St         ,cf2005    
+103004,43.0,7978.0,20051029.0, ARG, ARGH                , Toledo              ,cf2005    
+103005,44.0,6696.0,20051029.0, ARG, ARGH                , Rutgers             ,cf2005    
+103006,45.0,4948.0,20051029.0, ARG, ARGH                , Missouri            ,cf2005    
+103007,46.0,7848.0,20051029.0, ARG, ARGH                , Texas A&M           ,cf2005    
+103008,47.0,7365.0,20051029.0, ARG, ARGH                , Southern Miss       ,cf2005    
+103009,48.0,771.0,20051029.0, ARG, ARGH                , Boise St            ,cf2005    
+103010,49.0,8099.0,20051029.0, ARG, ARGH                , Tulsa               ,cf2005    
+103011,50.0,4725.0,20051029.0, ARG, ARGH                , Miami OH            ,cf2005    
+103012,51.0,5511.0,20051029.0, ARG, ARGH                , NC State            ,cf2005    
+103013,52.0,8508.0,20051029.0, ARG, ARGH                , Wake Forest         ,cf2005    
+103014,53.0,5492.0,20051029.0, ARG, ARGH                , North Carolina      ,cf2005    
+103015,54.0,6236.0,20051029.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+103016,55.0,1872.0,20051029.0, ARG, ARGH                , Connecticut         ,cf2005    
+103017,56.0,1404.0,20051029.0, ARG, ARGH                , C Michigan          ,cf2005    
+103018,57.0,5371.0,20051029.0, ARG, ARGH                , New Mexico          ,cf2005    
+103019,58.0,7582.0,20051029.0, ARG, ARGH                , Stanford            ,cf2005    
+103020,59.0,9162.0,20051029.0, ARG, ARGH                , Wyoming             ,cf2005    
+103021,60.0,891.0,20051029.0, ARG, ARGH                , BYU                 ,cf2005    
+103022,61.0,3347.0,20051029.0, ARG, ARGH                , Houston             ,cf2005    
+103023,62.0,1380.0,20051029.0, ARG, ARGH                , UCF                 ,cf2005    
+103024,63.0,557.0,20051029.0, ARG, ARGH                , Baylor              ,cf2005    
+103025,64.0,4636.0,20051029.0, ARG, ARGH                , Memphis             ,cf2005    
+103026,65.0,6393.0,20051029.0, ARG, ARGH                , Purdue              ,cf2005    
+103027,66.0,3717.0,20051029.0, ARG, ARGH                , Kansas              ,cf2005    
+103028,67.0,3484.0,20051029.0, ARG, ARGH                , Indiana             ,cf2005    
+103029,68.0,5970.0,20051029.0, ARG, ARGH                , Oregon St           ,cf2005    
+103030,69.0,3731.0,20051029.0, ARG, ARGH                , Kansas St           ,cf2005    
+103031,70.0,5634.0,20051029.0, ARG, ARGH                , N Illinois          ,cf2005    
+103032,71.0,8588.0,20051029.0, ARG, ARGH                , Washington St       ,cf2005    
+103033,72.0,8367.0,20051029.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+103034,73.0,316.0,20051029.0, ARG, ARGH                , Arkansas            ,cf2005    
+103035,74.0,5253.0,20051029.0, ARG, ARGH                , Navy                ,cf2005    
+103036,75.0,8315.0,20051029.0, ARG, ARGH                , Utah                ,cf2005    
+103037,76.0,4218.0,20051029.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+103038,77.0,821.0,20051029.0, ARG, ARGH                , Bowling Green       ,cf2005    
+103039,78.0,1529.0,20051029.0, ARG, ARGH                , Cincinnati          ,cf2005    
+103040,79.0,4920.0,20051029.0, ARG, ARGH                , Mississippi         ,cf2005    
+103041,80.0,7002.0,20051029.0, ARG, ARGH                , San Diego St        ,cf2005    
+103042,81.0,8767.0,20051029.0, ARG, ARGH                , W Michigan          ,cf2005    
+103043,82.0,4436.0,20051029.0, ARG, ARGH                , Marshall            ,cf2005    
+103044,83.0,5825.0,20051029.0, ARG, ARGH                , Ohio                ,cf2005    
+103045,84.0,55.0,20051029.0, ARG, ARGH                , Air Force           ,cf2005    
+103046,85.0,5316.0,20051029.0, ARG, ARGH                , Nevada              ,cf2005    
+103047,86.0,294.0,20051029.0, ARG, ARGH                , Arizona             ,cf2005    
+103048,87.0,87.0,20051029.0, ARG, ARGH                , UAB                 ,cf2005    
+103049,88.0,333.0,20051029.0, ARG, ARGH                , Arkansas St         ,cf2005    
+103050,89.0,2292.0,20051029.0, ARG, ARGH                , East Carolina       ,cf2005    
+103051,90.0,5912.0,20051029.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+103052,91.0,66.0,20051029.0, ARG, ARGH                , Akron               ,cf2005    
+103053,92.0,3197.0,20051029.0, ARG, ARGH                , Hawaii              ,cf2005    
+103054,93.0,2353.0,20051029.0, ARG, ARGH                , E Michigan          ,cf2005    
+103055,94.0,3425.0,20051029.0, ARG, ARGH                , Illinois            ,cf2005    
+103056,95.0,4936.0,20051029.0, ARG, ARGH                , Mississippi St      ,cf2005    
+103057,96.0,3781.0,20051029.0, ARG, ARGH                , Kentucky            ,cf2005    
+103058,97.0,8551.0,20051029.0, ARG, ARGH                , Washington          ,cf2005    
+103059,98.0,501.0,20051029.0, ARG, ARGH                , Ball St             ,cf2005    
+103060,99.0,4785.0,20051029.0, ARG, ARGH                , MTSU                ,cf2005    
+103061,100.0,4200.0,20051029.0, ARG, ARGH                , ULM                 ,cf2005    
+103062,101.0,8092.0,20051029.0, ARG, ARGH                , Tulane              ,cf2005    
+103063,102.0,7358.0,20051029.0, ARG, ARGH                , SMU                 ,cf2005    
+103064,103.0,7729.0,20051029.0, ARG, ARGH                , Syracuse            ,cf2005    
+103065,104.0,4194.0,20051029.0, ARG, ARGH                , ULL                 ,cf2005    
+103066,105.0,356.0,20051029.0, ARG, ARGH                , Army                ,cf2005    
+103067,106.0,8325.0,20051029.0, ARG, ARGH                , Utah St             ,cf2005    
+103068,107.0,5323.0,20051029.0, ARG, ARGH                , UNLV                ,cf2005    
+103069,108.0,8068.0,20051029.0, ARG, ARGH                , Troy                ,cf2005    
+103070,109.0,2265.0,20051029.0, ARG, ARGH                , Duke                ,cf2005    
+103071,110.0,3771.0,20051029.0, ARG, ARGH                , Kent                ,cf2005    
+103072,111.0,6535.0,20051029.0, ARG, ARGH                , Rice                ,cf2005    
+103073,112.0,5584.0,20051029.0, ARG, ARGH                , North Texas         ,cf2005    
+103074,113.0,3415.0,20051029.0, ARG, ARGH                , Idaho               ,cf2005    
+103075,114.0,7024.0,20051029.0, ARG, ARGH                , San Jose St         ,cf2005    
+103076,115.0,2638.0,20051029.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+103077,116.0,2652.0,20051029.0, ARG, ARGH                , Florida Intl        ,cf2005    
+103078,117.0,5387.0,20051029.0, ARG, ARGH                , New Mexico St       ,cf2005    
+103079,118.0,7788.0,20051029.0, ARG, ARGH                , Temple              ,cf2005    
+103080,119.0,979.0,20051029.0, ARG, ARGH                , Buffalo             ,cf2005    
+119514,1.0,7840.0,20051105.0, ARG, ARGH                , Texas               ,cf2005    
+119515,2.0,8251.0,20051105.0, ARG, ARGH                , USC                 ,cf2005    
+119516,3.0,8459.0,20051105.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+119517,4.0,6114.0,20051105.0, ARG, ARGH                , Penn St             ,cf2005    
+119518,5.0,4719.0,20051105.0, ARG, ARGH                , Miami FL            ,cf2005    
+119519,6.0,74.0,20051105.0, ARG, ARGH                , Alabama             ,cf2005    
+119520,7.0,5850.0,20051105.0, ARG, ARGH                , Ohio St             ,cf2005    
+119521,8.0,2881.0,20051105.0, ARG, ARGH                , Georgia             ,cf2005    
+119522,9.0,4206.0,20051105.0, ARG, ARGH                , LSU                 ,cf2005    
+119523,10.0,4741.0,20051105.0, ARG, ARGH                , Michigan            ,cf2005    
+119524,11.0,7918.0,20051105.0, ARG, ARGH                , Texas Tech          ,cf2005    
+119525,12.0,9031.0,20051105.0, ARG, ARGH                , Wisconsin           ,cf2005    
+119526,13.0,1715.0,20051105.0, ARG, ARGH                , Colorado            ,cf2005    
+119527,14.0,5749.0,20051105.0, ARG, ARGH                , Notre Dame          ,cf2005    
+119528,15.0,7878.0,20051105.0, ARG, ARGH                , TCU                 ,cf2005    
+119529,16.0,5961.0,20051105.0, ARG, ARGH                , Oregon              ,cf2005    
+119530,17.0,402.0,20051105.0, ARG, ARGH                , Auburn              ,cf2005    
+119531,18.0,2625.0,20051105.0, ARG, ARGH                , Florida             ,cf2005    
+119532,19.0,2666.0,20051105.0, ARG, ARGH                , Florida St          ,cf2005    
+119533,20.0,8716.0,20051105.0, ARG, ARGH                , West Virginia       ,cf2005    
+119534,21.0,4858.0,20051105.0, ARG, ARGH                , Minnesota           ,cf2005    
+119535,22.0,783.0,20051105.0, ARG, ARGH                , Boston College      ,cf2005    
+119536,23.0,4224.0,20051105.0, ARG, ARGH                , Louisville          ,cf2005    
+119537,24.0,2911.0,20051105.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+119538,25.0,5704.0,20051105.0, ARG, ARGH                , Northwestern        ,cf2005    
+119539,26.0,8141.0,20051105.0, ARG, ARGH                , UCLA                ,cf2005    
+119540,27.0,2776.0,20051105.0, ARG, ARGH                , Fresno St           ,cf2005    
+119541,28.0,7278.0,20051105.0, ARG, ARGH                , South Florida       ,cf2005    
+119542,29.0,5886.0,20051105.0, ARG, ARGH                , Oklahoma            ,cf2005    
+119543,30.0,1603.0,20051105.0, ARG, ARGH                , Clemson             ,cf2005    
+119544,31.0,3540.0,20051105.0, ARG, ARGH                , Iowa                ,cf2005    
+119545,32.0,4757.0,20051105.0, ARG, ARGH                , Michigan St         ,cf2005    
+119546,33.0,304.0,20051105.0, ARG, ARGH                , Arizona St          ,cf2005    
+119547,34.0,8432.0,20051105.0, ARG, ARGH                , Virginia            ,cf2005    
+119548,35.0,7933.0,20051105.0, ARG, ARGH                , UTEP                ,cf2005    
+119549,36.0,7242.0,20051105.0, ARG, ARGH                , South Carolina      ,cf2005    
+119550,37.0,3554.0,20051105.0, ARG, ARGH                , Iowa St             ,cf2005    
+119551,38.0,4474.0,20051105.0, ARG, ARGH                , Maryland            ,cf2005    
+119552,39.0,1098.0,20051105.0, ARG, ARGH                , California          ,cf2005    
+119553,40.0,7978.0,20051105.0, ARG, ARGH                , Toledo              ,cf2005    
+119554,41.0,5492.0,20051105.0, ARG, ARGH                , North Carolina      ,cf2005    
+119555,42.0,5511.0,20051105.0, ARG, ARGH                , NC State            ,cf2005    
+119556,43.0,7801.0,20051105.0, ARG, ARGH                , Tennessee           ,cf2005    
+119557,44.0,771.0,20051105.0, ARG, ARGH                , Boise St            ,cf2005    
+119558,45.0,7365.0,20051105.0, ARG, ARGH                , Southern Miss       ,cf2005    
+119559,46.0,1753.0,20051105.0, ARG, ARGH                , Colorado St         ,cf2005    
+119560,47.0,4725.0,20051105.0, ARG, ARGH                , Miami OH            ,cf2005    
+119561,48.0,6393.0,20051105.0, ARG, ARGH                , Purdue              ,cf2005    
+119562,49.0,4948.0,20051105.0, ARG, ARGH                , Missouri            ,cf2005    
+119563,50.0,3717.0,20051105.0, ARG, ARGH                , Kansas              ,cf2005    
+119564,51.0,6696.0,20051105.0, ARG, ARGH                , Rutgers             ,cf2005    
+119565,52.0,5279.0,20051105.0, ARG, ARGH                , Nebraska            ,cf2005    
+119566,53.0,7848.0,20051105.0, ARG, ARGH                , Texas A&M           ,cf2005    
+119567,54.0,891.0,20051105.0, ARG, ARGH                , BYU                 ,cf2005    
+119568,55.0,1380.0,20051105.0, ARG, ARGH                , UCF                 ,cf2005    
+119569,56.0,8099.0,20051105.0, ARG, ARGH                , Tulsa               ,cf2005    
+119570,57.0,7582.0,20051105.0, ARG, ARGH                , Stanford            ,cf2005    
+119571,58.0,5634.0,20051105.0, ARG, ARGH                , N Illinois          ,cf2005    
+119572,59.0,8508.0,20051105.0, ARG, ARGH                , Wake Forest         ,cf2005    
+119573,60.0,5970.0,20051105.0, ARG, ARGH                , Oregon St           ,cf2005    
+119574,61.0,5371.0,20051105.0, ARG, ARGH                , New Mexico          ,cf2005    
+119575,62.0,1872.0,20051105.0, ARG, ARGH                , Connecticut         ,cf2005    
+119576,63.0,8315.0,20051105.0, ARG, ARGH                , Utah                ,cf2005    
+119577,64.0,1404.0,20051105.0, ARG, ARGH                , C Michigan          ,cf2005    
+119578,65.0,6236.0,20051105.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+119579,66.0,3347.0,20051105.0, ARG, ARGH                , Houston             ,cf2005    
+119580,67.0,8367.0,20051105.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+119581,68.0,294.0,20051105.0, ARG, ARGH                , Arizona             ,cf2005    
+119582,69.0,5253.0,20051105.0, ARG, ARGH                , Navy                ,cf2005    
+119583,70.0,3484.0,20051105.0, ARG, ARGH                , Indiana             ,cf2005    
+119584,71.0,3731.0,20051105.0, ARG, ARGH                , Kansas St           ,cf2005    
+119585,72.0,8588.0,20051105.0, ARG, ARGH                , Washington St       ,cf2005    
+119586,73.0,9162.0,20051105.0, ARG, ARGH                , Wyoming             ,cf2005    
+119587,74.0,557.0,20051105.0, ARG, ARGH                , Baylor              ,cf2005    
+119588,75.0,4636.0,20051105.0, ARG, ARGH                , Memphis             ,cf2005    
+119589,76.0,4218.0,20051105.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+119590,77.0,821.0,20051105.0, ARG, ARGH                , Bowling Green       ,cf2005    
+119591,78.0,316.0,20051105.0, ARG, ARGH                , Arkansas            ,cf2005    
+119592,79.0,8767.0,20051105.0, ARG, ARGH                , W Michigan          ,cf2005    
+119593,80.0,1529.0,20051105.0, ARG, ARGH                , Cincinnati          ,cf2005    
+119594,81.0,87.0,20051105.0, ARG, ARGH                , UAB                 ,cf2005    
+119595,82.0,4920.0,20051105.0, ARG, ARGH                , Mississippi         ,cf2005    
+119596,83.0,5316.0,20051105.0, ARG, ARGH                , Nevada              ,cf2005    
+119597,84.0,7002.0,20051105.0, ARG, ARGH                , San Diego St        ,cf2005    
+119598,85.0,4436.0,20051105.0, ARG, ARGH                , Marshall            ,cf2005    
+119599,86.0,4785.0,20051105.0, ARG, ARGH                , MTSU                ,cf2005    
+119600,87.0,5825.0,20051105.0, ARG, ARGH                , Ohio                ,cf2005    
+119601,88.0,2292.0,20051105.0, ARG, ARGH                , East Carolina       ,cf2005    
+119602,89.0,66.0,20051105.0, ARG, ARGH                , Akron               ,cf2005    
+119603,90.0,5912.0,20051105.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+119604,91.0,55.0,20051105.0, ARG, ARGH                , Air Force           ,cf2005    
+119605,92.0,2353.0,20051105.0, ARG, ARGH                , E Michigan          ,cf2005    
+119606,93.0,501.0,20051105.0, ARG, ARGH                , Ball St             ,cf2005    
+119607,94.0,3425.0,20051105.0, ARG, ARGH                , Illinois            ,cf2005    
+119608,95.0,3197.0,20051105.0, ARG, ARGH                , Hawaii              ,cf2005    
+119609,96.0,333.0,20051105.0, ARG, ARGH                , Arkansas St         ,cf2005    
+119610,97.0,3781.0,20051105.0, ARG, ARGH                , Kentucky            ,cf2005    
+119611,98.0,4936.0,20051105.0, ARG, ARGH                , Mississippi St      ,cf2005    
+119612,99.0,356.0,20051105.0, ARG, ARGH                , Army                ,cf2005    
+119613,100.0,7358.0,20051105.0, ARG, ARGH                , SMU                 ,cf2005    
+119614,101.0,8551.0,20051105.0, ARG, ARGH                , Washington          ,cf2005    
+119615,102.0,4194.0,20051105.0, ARG, ARGH                , ULL                 ,cf2005    
+119616,103.0,7729.0,20051105.0, ARG, ARGH                , Syracuse            ,cf2005    
+119617,104.0,8092.0,20051105.0, ARG, ARGH                , Tulane              ,cf2005    
+119618,105.0,8068.0,20051105.0, ARG, ARGH                , Troy                ,cf2005    
+119619,106.0,4200.0,20051105.0, ARG, ARGH                , ULM                 ,cf2005    
+119620,107.0,8325.0,20051105.0, ARG, ARGH                , Utah St             ,cf2005    
+119621,108.0,2265.0,20051105.0, ARG, ARGH                , Duke                ,cf2005    
+119622,109.0,5323.0,20051105.0, ARG, ARGH                , UNLV                ,cf2005    
+119623,110.0,2652.0,20051105.0, ARG, ARGH                , Florida Intl        ,cf2005    
+119624,111.0,3771.0,20051105.0, ARG, ARGH                , Kent                ,cf2005    
+119625,112.0,3415.0,20051105.0, ARG, ARGH                , Idaho               ,cf2005    
+119626,113.0,5584.0,20051105.0, ARG, ARGH                , North Texas         ,cf2005    
+119627,114.0,7024.0,20051105.0, ARG, ARGH                , San Jose St         ,cf2005    
+119628,115.0,6535.0,20051105.0, ARG, ARGH                , Rice                ,cf2005    
+119629,116.0,2638.0,20051105.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+119630,117.0,5387.0,20051105.0, ARG, ARGH                , New Mexico St       ,cf2005    
+119631,118.0,7788.0,20051105.0, ARG, ARGH                , Temple              ,cf2005    
+119632,119.0,979.0,20051105.0, ARG, ARGH                , Buffalo             ,cf2005    
+140854,1.0,7840.0,20051113.0, ARG, ARGH                , Texas               ,cf2005    
+140855,2.0,8251.0,20051113.0, ARG, ARGH                , USC                 ,cf2005    
+140856,3.0,4719.0,20051113.0, ARG, ARGH                , Miami FL            ,cf2005    
+140857,4.0,8459.0,20051113.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+140858,5.0,6114.0,20051113.0, ARG, ARGH                , Penn St             ,cf2005    
+140859,6.0,5850.0,20051113.0, ARG, ARGH                , Ohio St             ,cf2005    
+140860,7.0,74.0,20051113.0, ARG, ARGH                , Alabama             ,cf2005    
+140861,8.0,4206.0,20051113.0, ARG, ARGH                , LSU                 ,cf2005    
+140862,9.0,4741.0,20051113.0, ARG, ARGH                , Michigan            ,cf2005    
+140863,10.0,5749.0,20051113.0, ARG, ARGH                , Notre Dame          ,cf2005    
+140864,11.0,402.0,20051113.0, ARG, ARGH                , Auburn              ,cf2005    
+140865,12.0,7878.0,20051113.0, ARG, ARGH                , TCU                 ,cf2005    
+140866,13.0,8716.0,20051113.0, ARG, ARGH                , West Virginia       ,cf2005    
+140867,14.0,5961.0,20051113.0, ARG, ARGH                , Oregon              ,cf2005    
+140868,15.0,2881.0,20051113.0, ARG, ARGH                , Georgia             ,cf2005    
+140869,16.0,4858.0,20051113.0, ARG, ARGH                , Minnesota           ,cf2005    
+140870,17.0,783.0,20051113.0, ARG, ARGH                , Boston College      ,cf2005    
+140871,18.0,4224.0,20051113.0, ARG, ARGH                , Louisville          ,cf2005    
+140872,19.0,9031.0,20051113.0, ARG, ARGH                , Wisconsin           ,cf2005    
+140873,20.0,1715.0,20051113.0, ARG, ARGH                , Colorado            ,cf2005    
+140874,21.0,2776.0,20051113.0, ARG, ARGH                , Fresno St           ,cf2005    
+140875,22.0,8141.0,20051113.0, ARG, ARGH                , UCLA                ,cf2005    
+140876,23.0,7918.0,20051113.0, ARG, ARGH                , Texas Tech          ,cf2005    
+140877,24.0,2625.0,20051113.0, ARG, ARGH                , Florida             ,cf2005    
+140878,25.0,2666.0,20051113.0, ARG, ARGH                , Florida St          ,cf2005    
+140879,26.0,7278.0,20051113.0, ARG, ARGH                , South Florida       ,cf2005    
+140880,27.0,3540.0,20051113.0, ARG, ARGH                , Iowa                ,cf2005    
+140881,28.0,1603.0,20051113.0, ARG, ARGH                , Clemson             ,cf2005    
+140882,29.0,5704.0,20051113.0, ARG, ARGH                , Northwestern        ,cf2005    
+140883,30.0,5886.0,20051113.0, ARG, ARGH                , Oklahoma            ,cf2005    
+140884,31.0,2911.0,20051113.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+140885,32.0,3554.0,20051113.0, ARG, ARGH                , Iowa St             ,cf2005    
+140886,33.0,8432.0,20051113.0, ARG, ARGH                , Virginia            ,cf2005    
+140887,34.0,7242.0,20051113.0, ARG, ARGH                , South Carolina      ,cf2005    
+140888,35.0,7933.0,20051113.0, ARG, ARGH                , UTEP                ,cf2005    
+140889,36.0,4474.0,20051113.0, ARG, ARGH                , Maryland            ,cf2005    
+140890,37.0,304.0,20051113.0, ARG, ARGH                , Arizona St          ,cf2005    
+140891,38.0,4757.0,20051113.0, ARG, ARGH                , Michigan St         ,cf2005    
+140892,39.0,7978.0,20051113.0, ARG, ARGH                , Toledo              ,cf2005    
+140893,40.0,1098.0,20051113.0, ARG, ARGH                , California          ,cf2005    
+140894,41.0,7801.0,20051113.0, ARG, ARGH                , Tennessee           ,cf2005    
+140895,42.0,4948.0,20051113.0, ARG, ARGH                , Missouri            ,cf2005    
+140896,43.0,5492.0,20051113.0, ARG, ARGH                , North Carolina      ,cf2005    
+140897,44.0,891.0,20051113.0, ARG, ARGH                , BYU                 ,cf2005    
+140898,45.0,6393.0,20051113.0, ARG, ARGH                , Purdue              ,cf2005    
+140899,46.0,5511.0,20051113.0, ARG, ARGH                , NC State            ,cf2005    
+140900,47.0,8099.0,20051113.0, ARG, ARGH                , Tulsa               ,cf2005    
+140901,48.0,7365.0,20051113.0, ARG, ARGH                , Southern Miss       ,cf2005    
+140902,49.0,1380.0,20051113.0, ARG, ARGH                , UCF                 ,cf2005    
+140903,50.0,5279.0,20051113.0, ARG, ARGH                , Nebraska            ,cf2005    
+140904,51.0,771.0,20051113.0, ARG, ARGH                , Boise St            ,cf2005    
+140905,52.0,4725.0,20051113.0, ARG, ARGH                , Miami OH            ,cf2005    
+140906,53.0,7582.0,20051113.0, ARG, ARGH                , Stanford            ,cf2005    
+140907,54.0,5371.0,20051113.0, ARG, ARGH                , New Mexico          ,cf2005    
+140908,55.0,6236.0,20051113.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+140909,56.0,7848.0,20051113.0, ARG, ARGH                , Texas A&M           ,cf2005    
+140910,57.0,1753.0,20051113.0, ARG, ARGH                , Colorado St         ,cf2005    
+140911,58.0,3347.0,20051113.0, ARG, ARGH                , Houston             ,cf2005    
+140912,59.0,5634.0,20051113.0, ARG, ARGH                , N Illinois          ,cf2005    
+140913,60.0,3717.0,20051113.0, ARG, ARGH                , Kansas              ,cf2005    
+140914,61.0,6696.0,20051113.0, ARG, ARGH                , Rutgers             ,cf2005    
+140915,62.0,8508.0,20051113.0, ARG, ARGH                , Wake Forest         ,cf2005    
+140916,63.0,5970.0,20051113.0, ARG, ARGH                , Oregon St           ,cf2005    
+140917,64.0,1404.0,20051113.0, ARG, ARGH                , C Michigan          ,cf2005    
+140918,65.0,5253.0,20051113.0, ARG, ARGH                , Navy                ,cf2005    
+140919,66.0,316.0,20051113.0, ARG, ARGH                , Arkansas            ,cf2005    
+140920,67.0,3484.0,20051113.0, ARG, ARGH                , Indiana             ,cf2005    
+140921,68.0,8315.0,20051113.0, ARG, ARGH                , Utah                ,cf2005    
+140922,69.0,1872.0,20051113.0, ARG, ARGH                , Connecticut         ,cf2005    
+140923,70.0,8767.0,20051113.0, ARG, ARGH                , W Michigan          ,cf2005    
+140924,71.0,8588.0,20051113.0, ARG, ARGH                , Washington St       ,cf2005    
+140925,72.0,7002.0,20051113.0, ARG, ARGH                , San Diego St        ,cf2005    
+140926,73.0,4636.0,20051113.0, ARG, ARGH                , Memphis             ,cf2005    
+140927,74.0,557.0,20051113.0, ARG, ARGH                , Baylor              ,cf2005    
+140928,75.0,821.0,20051113.0, ARG, ARGH                , Bowling Green       ,cf2005    
+140929,76.0,3731.0,20051113.0, ARG, ARGH                , Kansas St           ,cf2005    
+140930,77.0,8367.0,20051113.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+140931,78.0,4218.0,20051113.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+140932,79.0,294.0,20051113.0, ARG, ARGH                , Arizona             ,cf2005    
+140933,80.0,9162.0,20051113.0, ARG, ARGH                , Wyoming             ,cf2005    
+140934,81.0,5316.0,20051113.0, ARG, ARGH                , Nevada              ,cf2005    
+140935,82.0,5912.0,20051113.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+140936,83.0,87.0,20051113.0, ARG, ARGH                , UAB                 ,cf2005    
+140937,84.0,1529.0,20051113.0, ARG, ARGH                , Cincinnati          ,cf2005    
+140938,85.0,501.0,20051113.0, ARG, ARGH                , Ball St             ,cf2005    
+140939,86.0,4436.0,20051113.0, ARG, ARGH                , Marshall            ,cf2005    
+140940,87.0,5825.0,20051113.0, ARG, ARGH                , Ohio                ,cf2005    
+140941,88.0,3781.0,20051113.0, ARG, ARGH                , Kentucky            ,cf2005    
+140942,89.0,4920.0,20051113.0, ARG, ARGH                , Mississippi         ,cf2005    
+140943,90.0,8551.0,20051113.0, ARG, ARGH                , Washington          ,cf2005    
+140944,91.0,3197.0,20051113.0, ARG, ARGH                , Hawaii              ,cf2005    
+140945,92.0,55.0,20051113.0, ARG, ARGH                , Air Force           ,cf2005    
+140946,93.0,66.0,20051113.0, ARG, ARGH                , Akron               ,cf2005    
+140947,94.0,2292.0,20051113.0, ARG, ARGH                , East Carolina       ,cf2005    
+140948,95.0,333.0,20051113.0, ARG, ARGH                , Arkansas St         ,cf2005    
+140949,96.0,4785.0,20051113.0, ARG, ARGH                , MTSU                ,cf2005    
+140950,97.0,356.0,20051113.0, ARG, ARGH                , Army                ,cf2005    
+140951,98.0,2353.0,20051113.0, ARG, ARGH                , E Michigan          ,cf2005    
+140952,99.0,4936.0,20051113.0, ARG, ARGH                , Mississippi St      ,cf2005    
+140953,100.0,3425.0,20051113.0, ARG, ARGH                , Illinois            ,cf2005    
+140954,101.0,4194.0,20051113.0, ARG, ARGH                , ULL                 ,cf2005    
+140955,102.0,7358.0,20051113.0, ARG, ARGH                , SMU                 ,cf2005    
+140956,103.0,4200.0,20051113.0, ARG, ARGH                , ULM                 ,cf2005    
+140957,104.0,8092.0,20051113.0, ARG, ARGH                , Tulane              ,cf2005    
+140958,105.0,7729.0,20051113.0, ARG, ARGH                , Syracuse            ,cf2005    
+140959,106.0,8068.0,20051113.0, ARG, ARGH                , Troy                ,cf2005    
+140960,107.0,2265.0,20051113.0, ARG, ARGH                , Duke                ,cf2005    
+140961,108.0,6535.0,20051113.0, ARG, ARGH                , Rice                ,cf2005    
+140962,109.0,8325.0,20051113.0, ARG, ARGH                , Utah St             ,cf2005    
+140963,110.0,5323.0,20051113.0, ARG, ARGH                , UNLV                ,cf2005    
+140964,111.0,3415.0,20051113.0, ARG, ARGH                , Idaho               ,cf2005    
+140965,112.0,2638.0,20051113.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+140966,113.0,7024.0,20051113.0, ARG, ARGH                , San Jose St         ,cf2005    
+140967,114.0,2652.0,20051113.0, ARG, ARGH                , Florida Intl        ,cf2005    
+140968,115.0,5584.0,20051113.0, ARG, ARGH                , North Texas         ,cf2005    
+140969,116.0,3771.0,20051113.0, ARG, ARGH                , Kent                ,cf2005    
+140970,117.0,5387.0,20051113.0, ARG, ARGH                , New Mexico St       ,cf2005    
+140971,118.0,7788.0,20051113.0, ARG, ARGH                , Temple              ,cf2005    
+140972,119.0,979.0,20051113.0, ARG, ARGH                , Buffalo             ,cf2005    
+153507,1.0,7840.0,20051119.0, ARG, ARGH                , Texas               ,cf2005    
+153508,2.0,8251.0,20051119.0, ARG, ARGH                , USC                 ,cf2005    
+153509,3.0,8459.0,20051119.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+153510,4.0,6114.0,20051119.0, ARG, ARGH                , Penn St             ,cf2005    
+153511,5.0,5850.0,20051119.0, ARG, ARGH                , Ohio St             ,cf2005    
+153512,6.0,4719.0,20051119.0, ARG, ARGH                , Miami FL            ,cf2005    
+153513,7.0,4206.0,20051119.0, ARG, ARGH                , LSU                 ,cf2005    
+153514,8.0,402.0,20051119.0, ARG, ARGH                , Auburn              ,cf2005    
+153515,9.0,74.0,20051119.0, ARG, ARGH                , Alabama             ,cf2005    
+153516,10.0,4741.0,20051119.0, ARG, ARGH                , Michigan            ,cf2005    
+153517,11.0,5961.0,20051119.0, ARG, ARGH                , Oregon              ,cf2005    
+153518,12.0,5749.0,20051119.0, ARG, ARGH                , Notre Dame          ,cf2005    
+153519,13.0,783.0,20051119.0, ARG, ARGH                , Boston College      ,cf2005    
+153520,14.0,7878.0,20051119.0, ARG, ARGH                , TCU                 ,cf2005    
+153521,15.0,8716.0,20051119.0, ARG, ARGH                , West Virginia       ,cf2005    
+153522,16.0,2881.0,20051119.0, ARG, ARGH                , Georgia             ,cf2005    
+153523,17.0,9031.0,20051119.0, ARG, ARGH                , Wisconsin           ,cf2005    
+153524,18.0,4224.0,20051119.0, ARG, ARGH                , Louisville          ,cf2005    
+153525,19.0,7918.0,20051119.0, ARG, ARGH                , Texas Tech          ,cf2005    
+153526,20.0,3540.0,20051119.0, ARG, ARGH                , Iowa                ,cf2005    
+153527,21.0,4858.0,20051119.0, ARG, ARGH                , Minnesota           ,cf2005    
+153528,22.0,1715.0,20051119.0, ARG, ARGH                , Colorado            ,cf2005    
+153529,23.0,2911.0,20051119.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+153530,24.0,8141.0,20051119.0, ARG, ARGH                , UCLA                ,cf2005    
+153531,25.0,1603.0,20051119.0, ARG, ARGH                , Clemson             ,cf2005    
+153532,26.0,2666.0,20051119.0, ARG, ARGH                , Florida St          ,cf2005    
+153533,27.0,7278.0,20051119.0, ARG, ARGH                , South Florida       ,cf2005    
+153534,28.0,2625.0,20051119.0, ARG, ARGH                , Florida             ,cf2005    
+153535,29.0,5704.0,20051119.0, ARG, ARGH                , Northwestern        ,cf2005    
+153536,30.0,2776.0,20051119.0, ARG, ARGH                , Fresno St           ,cf2005    
+153537,31.0,3554.0,20051119.0, ARG, ARGH                , Iowa St             ,cf2005    
+153538,32.0,5886.0,20051119.0, ARG, ARGH                , Oklahoma            ,cf2005    
+153539,33.0,7242.0,20051119.0, ARG, ARGH                , South Carolina      ,cf2005    
+153540,34.0,1098.0,20051119.0, ARG, ARGH                , California          ,cf2005    
+153541,35.0,8432.0,20051119.0, ARG, ARGH                , Virginia            ,cf2005    
+153542,36.0,4474.0,20051119.0, ARG, ARGH                , Maryland            ,cf2005    
+153543,37.0,304.0,20051119.0, ARG, ARGH                , Arizona St          ,cf2005    
+153544,38.0,4757.0,20051119.0, ARG, ARGH                , Michigan St         ,cf2005    
+153545,39.0,6393.0,20051119.0, ARG, ARGH                , Purdue              ,cf2005    
+153546,40.0,5511.0,20051119.0, ARG, ARGH                , NC State            ,cf2005    
+153547,41.0,5492.0,20051119.0, ARG, ARGH                , North Carolina      ,cf2005    
+153548,42.0,7933.0,20051119.0, ARG, ARGH                , UTEP                ,cf2005    
+153549,43.0,8099.0,20051119.0, ARG, ARGH                , Tulsa               ,cf2005    
+153550,44.0,7978.0,20051119.0, ARG, ARGH                , Toledo              ,cf2005    
+153551,45.0,5634.0,20051119.0, ARG, ARGH                , N Illinois          ,cf2005    
+153552,46.0,5279.0,20051119.0, ARG, ARGH                , Nebraska            ,cf2005    
+153553,47.0,1380.0,20051119.0, ARG, ARGH                , UCF                 ,cf2005    
+153554,48.0,771.0,20051119.0, ARG, ARGH                , Boise St            ,cf2005    
+153555,49.0,7848.0,20051119.0, ARG, ARGH                , Texas A&M           ,cf2005    
+153556,50.0,4948.0,20051119.0, ARG, ARGH                , Missouri            ,cf2005    
+153557,51.0,7801.0,20051119.0, ARG, ARGH                , Tennessee           ,cf2005    
+153558,52.0,891.0,20051119.0, ARG, ARGH                , BYU                 ,cf2005    
+153559,53.0,6236.0,20051119.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+153560,54.0,7365.0,20051119.0, ARG, ARGH                , Southern Miss       ,cf2005    
+153561,55.0,1753.0,20051119.0, ARG, ARGH                , Colorado St         ,cf2005    
+153562,56.0,8508.0,20051119.0, ARG, ARGH                , Wake Forest         ,cf2005    
+153563,57.0,7582.0,20051119.0, ARG, ARGH                , Stanford            ,cf2005    
+153564,58.0,4725.0,20051119.0, ARG, ARGH                , Miami OH            ,cf2005    
+153565,59.0,1404.0,20051119.0, ARG, ARGH                , C Michigan          ,cf2005    
+153566,60.0,3717.0,20051119.0, ARG, ARGH                , Kansas              ,cf2005    
+153567,61.0,8315.0,20051119.0, ARG, ARGH                , Utah                ,cf2005    
+153568,62.0,6696.0,20051119.0, ARG, ARGH                , Rutgers             ,cf2005    
+153569,63.0,316.0,20051119.0, ARG, ARGH                , Arkansas            ,cf2005    
+153570,64.0,821.0,20051119.0, ARG, ARGH                , Bowling Green       ,cf2005    
+153571,65.0,7002.0,20051119.0, ARG, ARGH                , San Diego St        ,cf2005    
+153572,66.0,5253.0,20051119.0, ARG, ARGH                , Navy                ,cf2005    
+153573,67.0,5371.0,20051119.0, ARG, ARGH                , New Mexico          ,cf2005    
+153574,68.0,8588.0,20051119.0, ARG, ARGH                , Washington St       ,cf2005    
+153575,69.0,1872.0,20051119.0, ARG, ARGH                , Connecticut         ,cf2005    
+153576,70.0,557.0,20051119.0, ARG, ARGH                , Baylor              ,cf2005    
+153577,71.0,3731.0,20051119.0, ARG, ARGH                , Kansas St           ,cf2005    
+153578,72.0,8367.0,20051119.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+153579,73.0,4636.0,20051119.0, ARG, ARGH                , Memphis             ,cf2005    
+153580,74.0,5970.0,20051119.0, ARG, ARGH                , Oregon St           ,cf2005    
+153581,75.0,8767.0,20051119.0, ARG, ARGH                , W Michigan          ,cf2005    
+153582,76.0,3347.0,20051119.0, ARG, ARGH                , Houston             ,cf2005    
+153583,77.0,3484.0,20051119.0, ARG, ARGH                , Indiana             ,cf2005    
+153584,78.0,87.0,20051119.0, ARG, ARGH                , UAB                 ,cf2005    
+153585,79.0,294.0,20051119.0, ARG, ARGH                , Arizona             ,cf2005    
+153586,80.0,4218.0,20051119.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+153587,81.0,5316.0,20051119.0, ARG, ARGH                , Nevada              ,cf2005    
+153588,82.0,55.0,20051119.0, ARG, ARGH                , Air Force           ,cf2005    
+153589,83.0,9162.0,20051119.0, ARG, ARGH                , Wyoming             ,cf2005    
+153590,84.0,66.0,20051119.0, ARG, ARGH                , Akron               ,cf2005    
+153591,85.0,1529.0,20051119.0, ARG, ARGH                , Cincinnati          ,cf2005    
+153592,86.0,5912.0,20051119.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+153593,87.0,356.0,20051119.0, ARG, ARGH                , Army                ,cf2005    
+153594,88.0,2292.0,20051119.0, ARG, ARGH                , East Carolina       ,cf2005    
+153595,89.0,501.0,20051119.0, ARG, ARGH                , Ball St             ,cf2005    
+153596,90.0,3781.0,20051119.0, ARG, ARGH                , Kentucky            ,cf2005    
+153597,91.0,4436.0,20051119.0, ARG, ARGH                , Marshall            ,cf2005    
+153598,92.0,3197.0,20051119.0, ARG, ARGH                , Hawaii              ,cf2005    
+153599,93.0,7358.0,20051119.0, ARG, ARGH                , SMU                 ,cf2005    
+153600,94.0,8551.0,20051119.0, ARG, ARGH                , Washington          ,cf2005    
+153601,95.0,2353.0,20051119.0, ARG, ARGH                , E Michigan          ,cf2005    
+153602,96.0,5825.0,20051119.0, ARG, ARGH                , Ohio                ,cf2005    
+153603,97.0,4920.0,20051119.0, ARG, ARGH                , Mississippi         ,cf2005    
+153604,98.0,4785.0,20051119.0, ARG, ARGH                , MTSU                ,cf2005    
+153605,99.0,3425.0,20051119.0, ARG, ARGH                , Illinois            ,cf2005    
+153606,100.0,333.0,20051119.0, ARG, ARGH                , Arkansas St         ,cf2005    
+153607,101.0,4194.0,20051119.0, ARG, ARGH                , ULL                 ,cf2005    
+153608,102.0,4200.0,20051119.0, ARG, ARGH                , ULM                 ,cf2005    
+153609,103.0,4936.0,20051119.0, ARG, ARGH                , Mississippi St      ,cf2005    
+153610,104.0,7729.0,20051119.0, ARG, ARGH                , Syracuse            ,cf2005    
+153611,105.0,8068.0,20051119.0, ARG, ARGH                , Troy                ,cf2005    
+153612,106.0,2265.0,20051119.0, ARG, ARGH                , Duke                ,cf2005    
+153613,107.0,8092.0,20051119.0, ARG, ARGH                , Tulane              ,cf2005    
+153614,108.0,6535.0,20051119.0, ARG, ARGH                , Rice                ,cf2005    
+153615,109.0,5323.0,20051119.0, ARG, ARGH                , UNLV                ,cf2005    
+153616,110.0,7024.0,20051119.0, ARG, ARGH                , San Jose St         ,cf2005    
+153617,111.0,8325.0,20051119.0, ARG, ARGH                , Utah St             ,cf2005    
+153618,112.0,2652.0,20051119.0, ARG, ARGH                , Florida Intl        ,cf2005    
+153619,113.0,3415.0,20051119.0, ARG, ARGH                , Idaho               ,cf2005    
+153620,114.0,2638.0,20051119.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+153621,115.0,3771.0,20051119.0, ARG, ARGH                , Kent                ,cf2005    
+153622,116.0,5584.0,20051119.0, ARG, ARGH                , North Texas         ,cf2005    
+153623,117.0,7788.0,20051119.0, ARG, ARGH                , Temple              ,cf2005    
+153624,118.0,5387.0,20051119.0, ARG, ARGH                , New Mexico St       ,cf2005    
+153625,119.0,979.0,20051119.0, ARG, ARGH                , Buffalo             ,cf2005    
+170198,1.0,7840.0,20051126.0, ARG, ARGH                , Texas               ,cf2005    
+170199,2.0,8459.0,20051126.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+170200,3.0,8251.0,20051126.0, ARG, ARGH                , USC                 ,cf2005    
+170201,4.0,6114.0,20051126.0, ARG, ARGH                , Penn St             ,cf2005    
+170202,5.0,5850.0,20051126.0, ARG, ARGH                , Ohio St             ,cf2005    
+170203,6.0,4719.0,20051126.0, ARG, ARGH                , Miami FL            ,cf2005    
+170204,7.0,4206.0,20051126.0, ARG, ARGH                , LSU                 ,cf2005    
+170205,8.0,402.0,20051126.0, ARG, ARGH                , Auburn              ,cf2005    
+170206,9.0,2881.0,20051126.0, ARG, ARGH                , Georgia             ,cf2005    
+170207,10.0,74.0,20051126.0, ARG, ARGH                , Alabama             ,cf2005    
+170208,11.0,8716.0,20051126.0, ARG, ARGH                , West Virginia       ,cf2005    
+170209,12.0,5749.0,20051126.0, ARG, ARGH                , Notre Dame          ,cf2005    
+170210,13.0,4741.0,20051126.0, ARG, ARGH                , Michigan            ,cf2005    
+170211,14.0,7878.0,20051126.0, ARG, ARGH                , TCU                 ,cf2005    
+170212,15.0,5961.0,20051126.0, ARG, ARGH                , Oregon              ,cf2005    
+170213,16.0,783.0,20051126.0, ARG, ARGH                , Boston College      ,cf2005    
+170214,17.0,7918.0,20051126.0, ARG, ARGH                , Texas Tech          ,cf2005    
+170215,18.0,2625.0,20051126.0, ARG, ARGH                , Florida             ,cf2005    
+170216,19.0,9031.0,20051126.0, ARG, ARGH                , Wisconsin           ,cf2005    
+170217,20.0,4224.0,20051126.0, ARG, ARGH                , Louisville          ,cf2005    
+170218,21.0,3540.0,20051126.0, ARG, ARGH                , Iowa                ,cf2005    
+170219,22.0,4858.0,20051126.0, ARG, ARGH                , Minnesota           ,cf2005    
+170220,23.0,8141.0,20051126.0, ARG, ARGH                , UCLA                ,cf2005    
+170221,24.0,1603.0,20051126.0, ARG, ARGH                , Clemson             ,cf2005    
+170222,25.0,2911.0,20051126.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+170223,26.0,5704.0,20051126.0, ARG, ARGH                , Northwestern        ,cf2005    
+170224,27.0,5886.0,20051126.0, ARG, ARGH                , Oklahoma            ,cf2005    
+170225,28.0,1715.0,20051126.0, ARG, ARGH                , Colorado            ,cf2005    
+170226,29.0,2666.0,20051126.0, ARG, ARGH                , Florida St          ,cf2005    
+170227,30.0,7278.0,20051126.0, ARG, ARGH                , South Florida       ,cf2005    
+170228,31.0,2776.0,20051126.0, ARG, ARGH                , Fresno St           ,cf2005    
+170229,32.0,3554.0,20051126.0, ARG, ARGH                , Iowa St             ,cf2005    
+170230,33.0,7242.0,20051126.0, ARG, ARGH                , South Carolina      ,cf2005    
+170231,34.0,1098.0,20051126.0, ARG, ARGH                , California          ,cf2005    
+170232,35.0,304.0,20051126.0, ARG, ARGH                , Arizona St          ,cf2005    
+170233,36.0,4757.0,20051126.0, ARG, ARGH                , Michigan St         ,cf2005    
+170234,37.0,5279.0,20051126.0, ARG, ARGH                , Nebraska            ,cf2005    
+170235,38.0,8432.0,20051126.0, ARG, ARGH                , Virginia            ,cf2005    
+170236,39.0,6393.0,20051126.0, ARG, ARGH                , Purdue              ,cf2005    
+170237,40.0,5511.0,20051126.0, ARG, ARGH                , NC State            ,cf2005    
+170238,41.0,4474.0,20051126.0, ARG, ARGH                , Maryland            ,cf2005    
+170239,42.0,5634.0,20051126.0, ARG, ARGH                , N Illinois          ,cf2005    
+170240,43.0,771.0,20051126.0, ARG, ARGH                , Boise St            ,cf2005    
+170241,44.0,7801.0,20051126.0, ARG, ARGH                , Tennessee           ,cf2005    
+170242,45.0,8099.0,20051126.0, ARG, ARGH                , Tulsa               ,cf2005    
+170243,46.0,7978.0,20051126.0, ARG, ARGH                , Toledo              ,cf2005    
+170244,47.0,1380.0,20051126.0, ARG, ARGH                , UCF                 ,cf2005    
+170245,48.0,5492.0,20051126.0, ARG, ARGH                , North Carolina      ,cf2005    
+170246,49.0,7848.0,20051126.0, ARG, ARGH                , Texas A&M           ,cf2005    
+170247,50.0,4948.0,20051126.0, ARG, ARGH                , Missouri            ,cf2005    
+170248,51.0,891.0,20051126.0, ARG, ARGH                , BYU                 ,cf2005    
+170249,52.0,4725.0,20051126.0, ARG, ARGH                , Miami OH            ,cf2005    
+170250,53.0,7365.0,20051126.0, ARG, ARGH                , Southern Miss       ,cf2005    
+170251,54.0,3717.0,20051126.0, ARG, ARGH                , Kansas              ,cf2005    
+170252,55.0,6696.0,20051126.0, ARG, ARGH                , Rutgers             ,cf2005    
+170253,56.0,7933.0,20051126.0, ARG, ARGH                , UTEP                ,cf2005    
+170254,57.0,1872.0,20051126.0, ARG, ARGH                , Connecticut         ,cf2005    
+170255,58.0,6236.0,20051126.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+170256,59.0,316.0,20051126.0, ARG, ARGH                , Arkansas            ,cf2005    
+170257,60.0,8508.0,20051126.0, ARG, ARGH                , Wake Forest         ,cf2005    
+170258,61.0,1753.0,20051126.0, ARG, ARGH                , Colorado St         ,cf2005    
+170259,62.0,1404.0,20051126.0, ARG, ARGH                , C Michigan          ,cf2005    
+170260,63.0,7582.0,20051126.0, ARG, ARGH                , Stanford            ,cf2005    
+170261,64.0,8315.0,20051126.0, ARG, ARGH                , Utah                ,cf2005    
+170262,65.0,4636.0,20051126.0, ARG, ARGH                , Memphis             ,cf2005    
+170263,66.0,7002.0,20051126.0, ARG, ARGH                , San Diego St        ,cf2005    
+170264,67.0,557.0,20051126.0, ARG, ARGH                , Baylor              ,cf2005    
+170265,68.0,8367.0,20051126.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+170266,69.0,3347.0,20051126.0, ARG, ARGH                , Houston             ,cf2005    
+170267,70.0,3731.0,20051126.0, ARG, ARGH                , Kansas St           ,cf2005    
+170268,71.0,8588.0,20051126.0, ARG, ARGH                , Washington St       ,cf2005    
+170269,72.0,5253.0,20051126.0, ARG, ARGH                , Navy                ,cf2005    
+170270,73.0,5371.0,20051126.0, ARG, ARGH                , New Mexico          ,cf2005    
+170271,74.0,821.0,20051126.0, ARG, ARGH                , Bowling Green       ,cf2005    
+170272,75.0,5970.0,20051126.0, ARG, ARGH                , Oregon St           ,cf2005    
+170273,76.0,5316.0,20051126.0, ARG, ARGH                , Nevada              ,cf2005    
+170274,77.0,3484.0,20051126.0, ARG, ARGH                , Indiana             ,cf2005    
+170275,78.0,8767.0,20051126.0, ARG, ARGH                , W Michigan          ,cf2005    
+170276,79.0,294.0,20051126.0, ARG, ARGH                , Arizona             ,cf2005    
+170277,80.0,87.0,20051126.0, ARG, ARGH                , UAB                 ,cf2005    
+170278,81.0,66.0,20051126.0, ARG, ARGH                , Akron               ,cf2005    
+170279,82.0,2292.0,20051126.0, ARG, ARGH                , East Carolina       ,cf2005    
+170280,83.0,4218.0,20051126.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+170281,84.0,55.0,20051126.0, ARG, ARGH                , Air Force           ,cf2005    
+170282,85.0,9162.0,20051126.0, ARG, ARGH                , Wyoming             ,cf2005    
+170283,86.0,7358.0,20051126.0, ARG, ARGH                , SMU                 ,cf2005    
+170284,87.0,356.0,20051126.0, ARG, ARGH                , Army                ,cf2005    
+170285,88.0,501.0,20051126.0, ARG, ARGH                , Ball St             ,cf2005    
+170286,89.0,5912.0,20051126.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+170287,90.0,1529.0,20051126.0, ARG, ARGH                , Cincinnati          ,cf2005    
+170288,91.0,3197.0,20051126.0, ARG, ARGH                , Hawaii              ,cf2005    
+170289,92.0,3781.0,20051126.0, ARG, ARGH                , Kentucky            ,cf2005    
+170290,93.0,2353.0,20051126.0, ARG, ARGH                , E Michigan          ,cf2005    
+170291,94.0,4785.0,20051126.0, ARG, ARGH                , MTSU                ,cf2005    
+170292,95.0,8551.0,20051126.0, ARG, ARGH                , Washington          ,cf2005    
+170293,96.0,4194.0,20051126.0, ARG, ARGH                , ULL                 ,cf2005    
+170294,97.0,4436.0,20051126.0, ARG, ARGH                , Marshall            ,cf2005    
+170295,98.0,4936.0,20051126.0, ARG, ARGH                , Mississippi St      ,cf2005    
+170296,99.0,333.0,20051126.0, ARG, ARGH                , Arkansas St         ,cf2005    
+170297,100.0,4920.0,20051126.0, ARG, ARGH                , Mississippi         ,cf2005    
+170298,101.0,5825.0,20051126.0, ARG, ARGH                , Ohio                ,cf2005    
+170299,102.0,3425.0,20051126.0, ARG, ARGH                , Illinois            ,cf2005    
+170300,103.0,4200.0,20051126.0, ARG, ARGH                , ULM                 ,cf2005    
+170301,104.0,7729.0,20051126.0, ARG, ARGH                , Syracuse            ,cf2005    
+170302,105.0,2652.0,20051126.0, ARG, ARGH                , Florida Intl        ,cf2005    
+170303,106.0,2265.0,20051126.0, ARG, ARGH                , Duke                ,cf2005    
+170304,107.0,8325.0,20051126.0, ARG, ARGH                , Utah St             ,cf2005    
+170305,108.0,8092.0,20051126.0, ARG, ARGH                , Tulane              ,cf2005    
+170306,109.0,7024.0,20051126.0, ARG, ARGH                , San Jose St         ,cf2005    
+170307,110.0,8068.0,20051126.0, ARG, ARGH                , Troy                ,cf2005    
+170308,111.0,6535.0,20051126.0, ARG, ARGH                , Rice                ,cf2005    
+170309,112.0,5323.0,20051126.0, ARG, ARGH                , UNLV                ,cf2005    
+170310,113.0,3415.0,20051126.0, ARG, ARGH                , Idaho               ,cf2005    
+170311,114.0,2638.0,20051126.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+170312,115.0,3771.0,20051126.0, ARG, ARGH                , Kent                ,cf2005    
+170313,116.0,5584.0,20051126.0, ARG, ARGH                , North Texas         ,cf2005    
+170314,117.0,979.0,20051126.0, ARG, ARGH                , Buffalo             ,cf2005    
+170315,118.0,7788.0,20051126.0, ARG, ARGH                , Temple              ,cf2005    
+170316,119.0,5387.0,20051126.0, ARG, ARGH                , New Mexico St       ,cf2005    
+187068,1.0,7840.0,20051203.0, ARG, ARGH                , Texas               ,cf2005    
+187069,2.0,8459.0,20051203.0, ARG, ARGH                , Virginia Tech       ,cf2005    
+187070,3.0,8251.0,20051203.0, ARG, ARGH                , USC                 ,cf2005    
+187071,4.0,6114.0,20051203.0, ARG, ARGH                , Penn St             ,cf2005    
+187072,5.0,5850.0,20051203.0, ARG, ARGH                , Ohio St             ,cf2005    
+187073,6.0,4719.0,20051203.0, ARG, ARGH                , Miami FL            ,cf2005    
+187074,7.0,4206.0,20051203.0, ARG, ARGH                , LSU                 ,cf2005    
+187075,8.0,402.0,20051203.0, ARG, ARGH                , Auburn              ,cf2005    
+187076,9.0,2881.0,20051203.0, ARG, ARGH                , Georgia             ,cf2005    
+187077,10.0,74.0,20051203.0, ARG, ARGH                , Alabama             ,cf2005    
+187078,11.0,8716.0,20051203.0, ARG, ARGH                , West Virginia       ,cf2005    
+187079,12.0,5749.0,20051203.0, ARG, ARGH                , Notre Dame          ,cf2005    
+187080,13.0,4741.0,20051203.0, ARG, ARGH                , Michigan            ,cf2005    
+187081,14.0,7878.0,20051203.0, ARG, ARGH                , TCU                 ,cf2005    
+187082,15.0,5961.0,20051203.0, ARG, ARGH                , Oregon              ,cf2005    
+187083,16.0,783.0,20051203.0, ARG, ARGH                , Boston College      ,cf2005    
+187084,17.0,7918.0,20051203.0, ARG, ARGH                , Texas Tech          ,cf2005    
+187085,18.0,2625.0,20051203.0, ARG, ARGH                , Florida             ,cf2005    
+187086,19.0,9031.0,20051203.0, ARG, ARGH                , Wisconsin           ,cf2005    
+187087,20.0,4224.0,20051203.0, ARG, ARGH                , Louisville          ,cf2005    
+187088,21.0,3540.0,20051203.0, ARG, ARGH                , Iowa                ,cf2005    
+187089,22.0,4858.0,20051203.0, ARG, ARGH                , Minnesota           ,cf2005    
+187090,23.0,8141.0,20051203.0, ARG, ARGH                , UCLA                ,cf2005    
+187091,24.0,1603.0,20051203.0, ARG, ARGH                , Clemson             ,cf2005    
+187092,25.0,2911.0,20051203.0, ARG, ARGH                , Georgia Tech        ,cf2005    
+187093,26.0,5704.0,20051203.0, ARG, ARGH                , Northwestern        ,cf2005    
+187094,27.0,5886.0,20051203.0, ARG, ARGH                , Oklahoma            ,cf2005    
+187095,28.0,1715.0,20051203.0, ARG, ARGH                , Colorado            ,cf2005    
+187096,29.0,2666.0,20051203.0, ARG, ARGH                , Florida St          ,cf2005    
+187097,30.0,7278.0,20051203.0, ARG, ARGH                , South Florida       ,cf2005    
+187098,31.0,2776.0,20051203.0, ARG, ARGH                , Fresno St           ,cf2005    
+187099,32.0,3554.0,20051203.0, ARG, ARGH                , Iowa St             ,cf2005    
+187100,33.0,7242.0,20051203.0, ARG, ARGH                , South Carolina      ,cf2005    
+187101,34.0,1098.0,20051203.0, ARG, ARGH                , California          ,cf2005    
+187102,35.0,304.0,20051203.0, ARG, ARGH                , Arizona St          ,cf2005    
+187103,36.0,4757.0,20051203.0, ARG, ARGH                , Michigan St         ,cf2005    
+187104,37.0,5279.0,20051203.0, ARG, ARGH                , Nebraska            ,cf2005    
+187105,38.0,8432.0,20051203.0, ARG, ARGH                , Virginia            ,cf2005    
+187106,39.0,6393.0,20051203.0, ARG, ARGH                , Purdue              ,cf2005    
+187107,40.0,5511.0,20051203.0, ARG, ARGH                , NC State            ,cf2005    
+187108,41.0,4474.0,20051203.0, ARG, ARGH                , Maryland            ,cf2005    
+187109,42.0,5634.0,20051203.0, ARG, ARGH                , N Illinois          ,cf2005    
+187110,43.0,771.0,20051203.0, ARG, ARGH                , Boise St            ,cf2005    
+187111,44.0,7801.0,20051203.0, ARG, ARGH                , Tennessee           ,cf2005    
+187112,45.0,8099.0,20051203.0, ARG, ARGH                , Tulsa               ,cf2005    
+187113,46.0,7978.0,20051203.0, ARG, ARGH                , Toledo              ,cf2005    
+187114,47.0,1380.0,20051203.0, ARG, ARGH                , UCF                 ,cf2005    
+187115,48.0,5492.0,20051203.0, ARG, ARGH                , North Carolina      ,cf2005    
+187116,49.0,7848.0,20051203.0, ARG, ARGH                , Texas A&M           ,cf2005    
+187117,50.0,4948.0,20051203.0, ARG, ARGH                , Missouri            ,cf2005    
+187118,51.0,891.0,20051203.0, ARG, ARGH                , BYU                 ,cf2005    
+187119,52.0,4725.0,20051203.0, ARG, ARGH                , Miami OH            ,cf2005    
+187120,53.0,7365.0,20051203.0, ARG, ARGH                , Southern Miss       ,cf2005    
+187121,54.0,3717.0,20051203.0, ARG, ARGH                , Kansas              ,cf2005    
+187122,55.0,6696.0,20051203.0, ARG, ARGH                , Rutgers             ,cf2005    
+187123,56.0,7933.0,20051203.0, ARG, ARGH                , UTEP                ,cf2005    
+187124,57.0,1872.0,20051203.0, ARG, ARGH                , Connecticut         ,cf2005    
+187125,58.0,6236.0,20051203.0, ARG, ARGH                , Pittsburgh          ,cf2005    
+187126,59.0,316.0,20051203.0, ARG, ARGH                , Arkansas            ,cf2005    
+187127,60.0,8508.0,20051203.0, ARG, ARGH                , Wake Forest         ,cf2005    
+187128,61.0,1753.0,20051203.0, ARG, ARGH                , Colorado St         ,cf2005    
+187129,62.0,1404.0,20051203.0, ARG, ARGH                , C Michigan          ,cf2005    
+187130,63.0,7582.0,20051203.0, ARG, ARGH                , Stanford            ,cf2005    
+187131,64.0,8315.0,20051203.0, ARG, ARGH                , Utah                ,cf2005    
+187132,65.0,4636.0,20051203.0, ARG, ARGH                , Memphis             ,cf2005    
+187133,66.0,7002.0,20051203.0, ARG, ARGH                , San Diego St        ,cf2005    
+187134,67.0,557.0,20051203.0, ARG, ARGH                , Baylor              ,cf2005    
+187135,68.0,8367.0,20051203.0, ARG, ARGH                , Vanderbilt          ,cf2005    
+187136,69.0,3347.0,20051203.0, ARG, ARGH                , Houston             ,cf2005    
+187137,70.0,3731.0,20051203.0, ARG, ARGH                , Kansas St           ,cf2005    
+187138,71.0,8588.0,20051203.0, ARG, ARGH                , Washington St       ,cf2005    
+187139,72.0,5253.0,20051203.0, ARG, ARGH                , Navy                ,cf2005    
+187140,73.0,5371.0,20051203.0, ARG, ARGH                , New Mexico          ,cf2005    
+187141,74.0,821.0,20051203.0, ARG, ARGH                , Bowling Green       ,cf2005    
+187142,75.0,5970.0,20051203.0, ARG, ARGH                , Oregon St           ,cf2005    
+187143,76.0,5316.0,20051203.0, ARG, ARGH                , Nevada              ,cf2005    
+187144,77.0,3484.0,20051203.0, ARG, ARGH                , Indiana             ,cf2005    
+187145,78.0,8767.0,20051203.0, ARG, ARGH                , W Michigan          ,cf2005    
+187146,79.0,294.0,20051203.0, ARG, ARGH                , Arizona             ,cf2005    
+187147,80.0,87.0,20051203.0, ARG, ARGH                , UAB                 ,cf2005    
+187148,81.0,66.0,20051203.0, ARG, ARGH                , Akron               ,cf2005    
+187149,82.0,2292.0,20051203.0, ARG, ARGH                , East Carolina       ,cf2005    
+187150,83.0,4218.0,20051203.0, ARG, ARGH                , Louisiana Tech      ,cf2005    
+187151,84.0,55.0,20051203.0, ARG, ARGH                , Air Force           ,cf2005    
+187152,85.0,9162.0,20051203.0, ARG, ARGH                , Wyoming             ,cf2005    
+187153,86.0,7358.0,20051203.0, ARG, ARGH                , SMU                 ,cf2005    
+187154,87.0,356.0,20051203.0, ARG, ARGH                , Army                ,cf2005    
+187155,88.0,501.0,20051203.0, ARG, ARGH                , Ball St             ,cf2005    
+187156,89.0,5912.0,20051203.0, ARG, ARGH                , Oklahoma St         ,cf2005    
+187157,90.0,1529.0,20051203.0, ARG, ARGH                , Cincinnati          ,cf2005    
+187158,91.0,3197.0,20051203.0, ARG, ARGH                , Hawaii              ,cf2005    
+187159,92.0,3781.0,20051203.0, ARG, ARGH                , Kentucky            ,cf2005    
+187160,93.0,2353.0,20051203.0, ARG, ARGH                , E Michigan          ,cf2005    
+187161,94.0,4785.0,20051203.0, ARG, ARGH                , MTSU                ,cf2005    
+187162,95.0,8551.0,20051203.0, ARG, ARGH                , Washington          ,cf2005    
+187163,96.0,4194.0,20051203.0, ARG, ARGH                , ULL                 ,cf2005    
+187164,97.0,4436.0,20051203.0, ARG, ARGH                , Marshall            ,cf2005    
+187165,98.0,4936.0,20051203.0, ARG, ARGH                , Mississippi St      ,cf2005    
+187166,99.0,333.0,20051203.0, ARG, ARGH                , Arkansas St         ,cf2005    
+187167,100.0,4920.0,20051203.0, ARG, ARGH                , Mississippi         ,cf2005    
+187168,101.0,5825.0,20051203.0, ARG, ARGH                , Ohio                ,cf2005    
+187169,102.0,3425.0,20051203.0, ARG, ARGH                , Illinois            ,cf2005    
+187170,103.0,4200.0,20051203.0, ARG, ARGH                , ULM                 ,cf2005    
+187171,104.0,7729.0,20051203.0, ARG, ARGH                , Syracuse            ,cf2005    
+187172,105.0,2652.0,20051203.0, ARG, ARGH                , Florida Intl        ,cf2005    
+187173,106.0,2265.0,20051203.0, ARG, ARGH                , Duke                ,cf2005    
+187174,107.0,8325.0,20051203.0, ARG, ARGH                , Utah St             ,cf2005    
+187175,108.0,8092.0,20051203.0, ARG, ARGH                , Tulane              ,cf2005    
+187176,109.0,7024.0,20051203.0, ARG, ARGH                , San Jose St         ,cf2005    
+187177,110.0,8068.0,20051203.0, ARG, ARGH                , Troy                ,cf2005    
+187178,111.0,6535.0,20051203.0, ARG, ARGH                , Rice                ,cf2005    
+187179,112.0,5323.0,20051203.0, ARG, ARGH                , UNLV                ,cf2005    
+187180,113.0,3415.0,20051203.0, ARG, ARGH                , Idaho               ,cf2005    
+187181,114.0,2638.0,20051203.0, ARG, ARGH                , FL Atlantic         ,cf2005    
+187182,115.0,3771.0,20051203.0, ARG, ARGH                , Kent                ,cf2005    
+187183,116.0,5584.0,20051203.0, ARG, ARGH                , North Texas         ,cf2005    
+187184,117.0,979.0,20051203.0, ARG, ARGH                , Buffalo             ,cf2005    
+187185,118.0,7788.0,20051203.0, ARG, ARGH                , Temple              ,cf2005    
+187186,119.0,5387.0,20051203.0, ARG, ARGH                , New Mexico St       ,cf2005    
