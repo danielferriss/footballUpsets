@@ -1,0 +1,715 @@
+Year,Code,Team,Ranking Group Abbreviation,Ranking Group,Date,Rank
+cf2005    ,    8251, USC                 , ARG, ARGH                ,   20050801,    1
+cf2005    ,    7840, Texas               , ARG, ARGH                ,   20050801,    2
+cf2005    ,     402, Auburn              , ARG, ARGH                ,   20050801,    3
+cf2005    ,    5886, Oklahoma            , ARG, ARGH                ,   20050801,    4
+cf2005    ,    4719, Miami FL            , ARG, ARGH                ,   20050801,    5
+cf2005    ,    2881, Georgia             , ARG, ARGH                ,   20050801,    6
+cf2005    ,    5850, Ohio St             , ARG, ARGH                ,   20050801,    7
+cf2005    ,    7801, Tennessee           , ARG, ARGH                ,   20050801,    8
+cf2005    ,    4741, Michigan            , ARG, ARGH                ,   20050801,    9
+cf2005    ,    4206, LSU                 , ARG, ARGH                ,   20050801,   10
+cf2005    ,    3540, Iowa                , ARG, ARGH                ,   20050801,   11
+cf2005    ,     771, Boise St            , ARG, ARGH                ,   20050801,   12
+cf2005    ,    2666, Florida St          , ARG, ARGH                ,   20050801,   13
+cf2005    ,    6393, Purdue              , ARG, ARGH                ,   20050801,   14
+cf2005    ,    8459, Virginia Tech       , ARG, ARGH                ,   20050801,   15
+cf2005    ,    7848, Texas A&M           , ARG, ARGH                ,   20050801,   16
+cf2005    ,    1098, California          , ARG, ARGH                ,   20050801,   17
+cf2005    ,    8432, Virginia            , ARG, ARGH                ,   20050801,   18
+cf2005    ,     304, Arizona St          , ARG, ARGH                ,   20050801,   19
+cf2005    ,    8315, Utah                , ARG, ARGH                ,   20050801,   20
+cf2005    ,    4224, Louisville          , ARG, ARGH                ,   20050801,   21
+cf2005    ,    1715, Colorado            , ARG, ARGH                ,   20050801,   22
+cf2005    ,    2625, Florida             , ARG, ARGH                ,   20050801,   23
+cf2005    ,    7918, Texas Tech          , ARG, ARGH                ,   20050801,   24
+cf2005    ,    2911, Georgia Tech        , ARG, ARGH                ,   20050801,   25
+cf2005    ,    1603, Clemson             , ARG, ARGH                ,   20050801,   26
+cf2005    ,    2776, Fresno St           , ARG, ARGH                ,   20050801,   27
+cf2005    ,    4858, Minnesota           , ARG, ARGH                ,   20050801,   28
+cf2005    ,    5912, Oklahoma St         , ARG, ARGH                ,   20050801,   29
+cf2005    ,    5970, Oregon St           , ARG, ARGH                ,   20050801,   30
+cf2005    ,    5511, NC State            , ARG, ARGH                ,   20050801,   31
+cf2005    ,     316, Arkansas            , ARG, ARGH                ,   20050801,   32
+cf2005    ,    9031, Wisconsin           , ARG, ARGH                ,   20050801,   33
+cf2005    ,    8588, Washington St       , ARG, ARGH                ,   20050801,   34
+cf2005    ,    8141, UCLA                , ARG, ARGH                ,   20050801,   35
+cf2005    ,    5749, Notre Dame          , ARG, ARGH                ,   20050801,   36
+cf2005    ,    6236, Pittsburgh          , ARG, ARGH                ,   20050801,   37
+cf2005    ,    4474, Maryland            , ARG, ARGH                ,   20050801,   38
+cf2005    ,     783, Boston College      , ARG, ARGH                ,   20050801,   39
+cf2005    ,    5371, New Mexico          , ARG, ARGH                ,   20050801,   40
+cf2005    ,    3717, Kansas              , ARG, ARGH                ,   20050801,   41
+cf2005    ,    4757, Michigan St         , ARG, ARGH                ,   20050801,   42
+cf2005    ,     821, Bowling Green       , ARG, ARGH                ,   20050801,   43
+cf2005    ,    5961, Oregon              , ARG, ARGH                ,   20050801,   44
+cf2005    ,    9162, Wyoming             , ARG, ARGH                ,   20050801,   45
+cf2005    ,      74, Alabama             , ARG, ARGH                ,   20050801,   46
+cf2005    ,    3731, Kansas St           , ARG, ARGH                ,   20050801,   47
+cf2005    ,    4725, Miami OH            , ARG, ARGH                ,   20050801,   48
+cf2005    ,    5492, North Carolina      , ARG, ARGH                ,   20050801,   49
+cf2005    ,    5704, Northwestern        , ARG, ARGH                ,   20050801,   50
+cf2005    ,    7582, Stanford            , ARG, ARGH                ,   20050801,   51
+cf2005    ,    3554, Iowa St             , ARG, ARGH                ,   20050801,   52
+cf2005    ,    7365, Southern Miss       , ARG, ARGH                ,   20050801,   53
+cf2005    ,    1753, Colorado St         , ARG, ARGH                ,   20050801,   54
+cf2005    ,    8508, Wake Forest         , ARG, ARGH                ,   20050801,   55
+cf2005    ,    6114, Penn St             , ARG, ARGH                ,   20050801,   56
+cf2005    ,    4948, Missouri            , ARG, ARGH                ,   20050801,   57
+cf2005    ,    7729, Syracuse            , ARG, ARGH                ,   20050801,   58
+cf2005    ,    7978, Toledo              , ARG, ARGH                ,   20050801,   59
+cf2005    ,    5279, Nebraska            , ARG, ARGH                ,   20050801,   60
+cf2005    ,      87, UAB                 , ARG, ARGH                ,   20050801,   61
+cf2005    ,     891, BYU                 , ARG, ARGH                ,   20050801,   62
+cf2005    ,    4920, Mississippi         , ARG, ARGH                ,   20050801,   63
+cf2005    ,    8716, West Virginia       , ARG, ARGH                ,   20050801,   64
+cf2005    ,    1872, Connecticut         , ARG, ARGH                ,   20050801,   65
+cf2005    ,    7242, South Carolina      , ARG, ARGH                ,   20050801,   66
+cf2005    ,     294, Arizona             , ARG, ARGH                ,   20050801,   67
+cf2005    ,    4218, Louisiana Tech      , ARG, ARGH                ,   20050801,   68
+cf2005    ,    5634, N Illinois          , ARG, ARGH                ,   20050801,   69
+cf2005    ,    7933, UTEP                , ARG, ARGH                ,   20050801,   70
+cf2005    ,    6696, Rutgers             , ARG, ARGH                ,   20050801,   71
+cf2005    ,      55, Air Force           , ARG, ARGH                ,   20050801,   72
+cf2005    ,    4636, Memphis             , ARG, ARGH                ,   20050801,   73
+cf2005    ,    7278, South Florida       , ARG, ARGH                ,   20050801,   74
+cf2005    ,    7002, San Diego St        , ARG, ARGH                ,   20050801,   75
+cf2005    ,    3347, Houston             , ARG, ARGH                ,   20050801,   76
+cf2005    ,    7878, TCU                 , ARG, ARGH                ,   20050801,   77
+cf2005    ,    8068, Troy                , ARG, ARGH                ,   20050801,   78
+cf2005    ,    8551, Washington          , ARG, ARGH                ,   20050801,   79
+cf2005    ,    8092, Tulane              , ARG, ARGH                ,   20050801,   80
+cf2005    ,    4785, MTSU                , ARG, ARGH                ,   20050801,   81
+cf2005    ,    4936, Mississippi St      , ARG, ARGH                ,   20050801,   82
+cf2005    ,    2265, Duke                , ARG, ARGH                ,   20050801,   83
+cf2005    ,    3197, Hawaii              , ARG, ARGH                ,   20050801,   84
+cf2005    ,    1529, Cincinnati          , ARG, ARGH                ,   20050801,   85
+cf2005    ,    5253, Navy                , ARG, ARGH                ,   20050801,   86
+cf2005    ,    7358, SMU                 , ARG, ARGH                ,   20050801,   87
+cf2005    ,    8367, Vanderbilt          , ARG, ARGH                ,   20050801,   88
+cf2005    ,    5316, Nevada              , ARG, ARGH                ,   20050801,   89
+cf2005    ,    8099, Tulsa               , ARG, ARGH                ,   20050801,   90
+cf2005    ,     557, Baylor              , ARG, ARGH                ,   20050801,   91
+cf2005    ,    5584, North Texas         , ARG, ARGH                ,   20050801,   92
+cf2005    ,    3781, Kentucky            , ARG, ARGH                ,   20050801,   93
+cf2005    ,      66, Akron               , ARG, ARGH                ,   20050801,   94
+cf2005    ,    4436, Marshall            , ARG, ARGH                ,   20050801,   95
+cf2005    ,    3425, Illinois            , ARG, ARGH                ,   20050801,   96
+cf2005    ,    4200, ULM                 , ARG, ARGH                ,   20050801,   97
+cf2005    ,    3771, Kent                , ARG, ARGH                ,   20050801,   98
+cf2005    ,    5323, UNLV                , ARG, ARGH                ,   20050801,   99
+cf2005    ,    3484, Indiana             , ARG, ARGH                ,   20050801,  100
+cf2005    ,    4194, ULL                 , ARG, ARGH                ,   20050801,  101
+cf2005    ,    6535, Rice                , ARG, ARGH                ,   20050801,  102
+cf2005    ,    5387, New Mexico St       , ARG, ARGH                ,   20050801,  103
+cf2005    ,    2638, FL Atlantic         , ARG, ARGH                ,   20050801,  104
+cf2005    ,    3415, Idaho               , ARG, ARGH                ,   20050801,  105
+cf2005    ,     333, Arkansas St         , ARG, ARGH                ,   20050801,  106
+cf2005    ,    1404, C Michigan          , ARG, ARGH                ,   20050801,  107
+cf2005    ,     501, Ball St             , ARG, ARGH                ,   20050801,  108
+cf2005    ,    7788, Temple              , ARG, ARGH                ,   20050801,  109
+cf2005    ,     356, Army                , ARG, ARGH                ,   20050801,  110
+cf2005    ,    5825, Ohio                , ARG, ARGH                ,   20050801,  111
+cf2005    ,    2353, E Michigan          , ARG, ARGH                ,   20050801,  112
+cf2005    ,    2292, East Carolina       , ARG, ARGH                ,   20050801,  113
+cf2005    ,    8767, W Michigan          , ARG, ARGH                ,   20050801,  114
+cf2005    ,    8325, Utah St             , ARG, ARGH                ,   20050801,  115
+cf2005    ,    7024, San Jose St         , ARG, ARGH                ,   20050801,  116
+cf2005    ,    1380, UCF                 , ARG, ARGH                ,   20050801,  117
+cf2005    ,    2652, Florida Intl        , ARG, ARGH                ,   20050801,  118
+cf2005    ,     979, Buffalo             , ARG, ARGH                ,   20050801,  119
+cf2005    ,    8251, USC                 , ARG, ARGH                ,   20050905,    1
+cf2005    ,    7840, Texas               , ARG, ARGH                ,   20050905,    2
+cf2005    ,    2881, Georgia             , ARG, ARGH                ,   20050905,    3
+cf2005    ,    5850, Ohio St             , ARG, ARGH                ,   20050905,    4
+cf2005    ,    4206, LSU                 , ARG, ARGH                ,   20050905,    5
+cf2005    ,    7801, Tennessee           , ARG, ARGH                ,   20050905,    6
+cf2005    ,    2666, Florida St          , ARG, ARGH                ,   20050905,    7
+cf2005    ,    4741, Michigan            , ARG, ARGH                ,   20050905,    8
+cf2005    ,     402, Auburn              , ARG, ARGH                ,   20050905,    9
+cf2005    ,    3540, Iowa                , ARG, ARGH                ,   20050905,   10
+cf2005    ,    4719, Miami FL            , ARG, ARGH                ,   20050905,   11
+cf2005    ,    8459, Virginia Tech       , ARG, ARGH                ,   20050905,   12
+cf2005    ,    6393, Purdue              , ARG, ARGH                ,   20050905,   13
+cf2005    ,    5886, Oklahoma            , ARG, ARGH                ,   20050905,   14
+cf2005    ,     771, Boise St            , ARG, ARGH                ,   20050905,   15
+cf2005    ,    2911, Georgia Tech        , ARG, ARGH                ,   20050905,   16
+cf2005    ,    1098, California          , ARG, ARGH                ,   20050905,   17
+cf2005    ,    8432, Virginia            , ARG, ARGH                ,   20050905,   18
+cf2005    ,    7848, Texas A&M           , ARG, ARGH                ,   20050905,   19
+cf2005    ,    2625, Florida             , ARG, ARGH                ,   20050905,   20
+cf2005    ,    8315, Utah                , ARG, ARGH                ,   20050905,   21
+cf2005    ,    1715, Colorado            , ARG, ARGH                ,   20050905,   22
+cf2005    ,     304, Arizona St          , ARG, ARGH                ,   20050905,   23
+cf2005    ,    4224, Louisville          , ARG, ARGH                ,   20050905,   24
+cf2005    ,    7918, Texas Tech          , ARG, ARGH                ,   20050905,   25
+cf2005    ,    1603, Clemson             , ARG, ARGH                ,   20050905,   26
+cf2005    ,    4858, Minnesota           , ARG, ARGH                ,   20050905,   27
+cf2005    ,    2776, Fresno St           , ARG, ARGH                ,   20050905,   28
+cf2005    ,    9031, Wisconsin           , ARG, ARGH                ,   20050905,   29
+cf2005    ,    5749, Notre Dame          , ARG, ARGH                ,   20050905,   30
+cf2005    ,    8141, UCLA                , ARG, ARGH                ,   20050905,   31
+cf2005    ,     783, Boston College      , ARG, ARGH                ,   20050905,   32
+cf2005    ,    5970, Oregon St           , ARG, ARGH                ,   20050905,   33
+cf2005    ,     316, Arkansas            , ARG, ARGH                ,   20050905,   34
+cf2005    ,    8588, Washington St       , ARG, ARGH                ,   20050905,   35
+cf2005    ,    5912, Oklahoma St         , ARG, ARGH                ,   20050905,   36
+cf2005    ,    5511, NC State            , ARG, ARGH                ,   20050905,   37
+cf2005    ,    4474, Maryland            , ARG, ARGH                ,   20050905,   38
+cf2005    ,    5961, Oregon              , ARG, ARGH                ,   20050905,   39
+cf2005    ,    4757, Michigan St         , ARG, ARGH                ,   20050905,   40
+cf2005    ,      74, Alabama             , ARG, ARGH                ,   20050905,   41
+cf2005    ,    3717, Kansas              , ARG, ARGH                ,   20050905,   42
+cf2005    ,    5371, New Mexico          , ARG, ARGH                ,   20050905,   43
+cf2005    ,    6236, Pittsburgh          , ARG, ARGH                ,   20050905,   44
+cf2005    ,     821, Bowling Green       , ARG, ARGH                ,   20050905,   45
+cf2005    ,    6114, Penn St             , ARG, ARGH                ,   20050905,   46
+cf2005    ,    3731, Kansas St           , ARG, ARGH                ,   20050905,   47
+cf2005    ,    5492, North Carolina      , ARG, ARGH                ,   20050905,   48
+cf2005    ,    5704, Northwestern        , ARG, ARGH                ,   20050905,   49
+cf2005    ,    9162, Wyoming             , ARG, ARGH                ,   20050905,   50
+cf2005    ,    7582, Stanford            , ARG, ARGH                ,   20050905,   51
+cf2005    ,    7365, Southern Miss       , ARG, ARGH                ,   20050905,   52
+cf2005    ,    4948, Missouri            , ARG, ARGH                ,   20050905,   53
+cf2005    ,    4725, Miami OH            , ARG, ARGH                ,   20050905,   54
+cf2005    ,    8716, West Virginia       , ARG, ARGH                ,   20050905,   55
+cf2005    ,    1753, Colorado St         , ARG, ARGH                ,   20050905,   56
+cf2005    ,    3554, Iowa St             , ARG, ARGH                ,   20050905,   57
+cf2005    ,    4920, Mississippi         , ARG, ARGH                ,   20050905,   58
+cf2005    ,    7978, Toledo              , ARG, ARGH                ,   20050905,   59
+cf2005    ,    5279, Nebraska            , ARG, ARGH                ,   20050905,   60
+cf2005    ,      87, UAB                 , ARG, ARGH                ,   20050905,   61
+cf2005    ,    7878, TCU                 , ARG, ARGH                ,   20050905,   62
+cf2005    ,    1872, Connecticut         , ARG, ARGH                ,   20050905,   63
+cf2005    ,    8508, Wake Forest         , ARG, ARGH                ,   20050905,   64
+cf2005    ,    7729, Syracuse            , ARG, ARGH                ,   20050905,   65
+cf2005    ,    7933, UTEP                , ARG, ARGH                ,   20050905,   66
+cf2005    ,      55, Air Force           , ARG, ARGH                ,   20050905,   67
+cf2005    ,    7242, South Carolina      , ARG, ARGH                ,   20050905,   68
+cf2005    ,     294, Arizona             , ARG, ARGH                ,   20050905,   69
+cf2005    ,     891, BYU                 , ARG, ARGH                ,   20050905,   70
+cf2005    ,    5634, N Illinois          , ARG, ARGH                ,   20050905,   71
+cf2005    ,    4218, Louisiana Tech      , ARG, ARGH                ,   20050905,   72
+cf2005    ,    8068, Troy                , ARG, ARGH                ,   20050905,   73
+cf2005    ,    7278, South Florida       , ARG, ARGH                ,   20050905,   74
+cf2005    ,    6696, Rutgers             , ARG, ARGH                ,   20050905,   75
+cf2005    ,    7002, San Diego St        , ARG, ARGH                ,   20050905,   76
+cf2005    ,    4636, Memphis             , ARG, ARGH                ,   20050905,   77
+cf2005    ,    4936, Mississippi St      , ARG, ARGH                ,   20050905,   78
+cf2005    ,    3347, Houston             , ARG, ARGH                ,   20050905,   79
+cf2005    ,    8092, Tulane              , ARG, ARGH                ,   20050905,   80
+cf2005    ,    8551, Washington          , ARG, ARGH                ,   20050905,   81
+cf2005    ,    3197, Hawaii              , ARG, ARGH                ,   20050905,   82
+cf2005    ,    1529, Cincinnati          , ARG, ARGH                ,   20050905,   83
+cf2005    ,    8367, Vanderbilt          , ARG, ARGH                ,   20050905,   84
+cf2005    ,    4785, MTSU                , ARG, ARGH                ,   20050905,   85
+cf2005    ,    5253, Navy                , ARG, ARGH                ,   20050905,   86
+cf2005    ,     557, Baylor              , ARG, ARGH                ,   20050905,   87
+cf2005    ,    2265, Duke                , ARG, ARGH                ,   20050905,   88
+cf2005    ,    3425, Illinois            , ARG, ARGH                ,   20050905,   89
+cf2005    ,    4436, Marshall            , ARG, ARGH                ,   20050905,   90
+cf2005    ,    3484, Indiana             , ARG, ARGH                ,   20050905,   91
+cf2005    ,    5316, Nevada              , ARG, ARGH                ,   20050905,   92
+cf2005    ,    3781, Kentucky            , ARG, ARGH                ,   20050905,   93
+cf2005    ,    7358, SMU                 , ARG, ARGH                ,   20050905,   94
+cf2005    ,    5584, North Texas         , ARG, ARGH                ,   20050905,   95
+cf2005    ,    8099, Tulsa               , ARG, ARGH                ,   20050905,   96
+cf2005    ,      66, Akron               , ARG, ARGH                ,   20050905,   97
+cf2005    ,    5323, UNLV                , ARG, ARGH                ,   20050905,   98
+cf2005    ,    4194, ULL                 , ARG, ARGH                ,   20050905,   99
+cf2005    ,    3771, Kent                , ARG, ARGH                ,   20050905,  100
+cf2005    ,    4200, ULM                 , ARG, ARGH                ,   20050905,  101
+cf2005    ,    6535, Rice                , ARG, ARGH                ,   20050905,  102
+cf2005    ,    2638, FL Atlantic         , ARG, ARGH                ,   20050905,  103
+cf2005    ,    3415, Idaho               , ARG, ARGH                ,   20050905,  104
+cf2005    ,    5387, New Mexico St       , ARG, ARGH                ,   20050905,  105
+cf2005    ,     501, Ball St             , ARG, ARGH                ,   20050905,  106
+cf2005    ,    2292, East Carolina       , ARG, ARGH                ,   20050905,  107
+cf2005    ,     333, Arkansas St         , ARG, ARGH                ,   20050905,  108
+cf2005    ,    7788, Temple              , ARG, ARGH                ,   20050905,  109
+cf2005    ,    7024, San Jose St         , ARG, ARGH                ,   20050905,  110
+cf2005    ,    1404, C Michigan          , ARG, ARGH                ,   20050905,  111
+cf2005    ,    8767, W Michigan          , ARG, ARGH                ,   20050905,  112
+cf2005    ,    2353, E Michigan          , ARG, ARGH                ,   20050905,  113
+cf2005    ,    5825, Ohio                , ARG, ARGH                ,   20050905,  114
+cf2005    ,     356, Army                , ARG, ARGH                ,   20050905,  115
+cf2005    ,    8325, Utah St             , ARG, ARGH                ,   20050905,  116
+cf2005    ,    2652, Florida Intl        , ARG, ARGH                ,   20050905,  117
+cf2005    ,    1380, UCF                 , ARG, ARGH                ,   20050905,  118
+cf2005    ,     979, Buffalo             , ARG, ARGH                ,   20050905,  119
+cf2005    ,    8251, USC                 , ARG, ARGH                ,   20050910,    1
+cf2005    ,    7840, Texas               , ARG, ARGH                ,   20050910,    2
+cf2005    ,    2881, Georgia             , ARG, ARGH                ,   20050910,    3
+cf2005    ,    8459, Virginia Tech       , ARG, ARGH                ,   20050910,    4
+cf2005    ,    2666, Florida St          , ARG, ARGH                ,   20050910,    5
+cf2005    ,    4206, LSU                 , ARG, ARGH                ,   20050910,    6
+cf2005    ,    7801, Tennessee           , ARG, ARGH                ,   20050910,    7
+cf2005    ,     402, Auburn              , ARG, ARGH                ,   20050910,    8
+cf2005    ,    2911, Georgia Tech        , ARG, ARGH                ,   20050910,    9
+cf2005    ,    2625, Florida             , ARG, ARGH                ,   20050910,   10
+cf2005    ,    4719, Miami FL            , ARG, ARGH                ,   20050910,   11
+cf2005    ,    6393, Purdue              , ARG, ARGH                ,   20050910,   12
+cf2005    ,    1603, Clemson             , ARG, ARGH                ,   20050910,   13
+cf2005    ,    5749, Notre Dame          , ARG, ARGH                ,   20050910,   14
+cf2005    ,    5850, Ohio St             , ARG, ARGH                ,   20050910,   15
+cf2005    ,    1098, California          , ARG, ARGH                ,   20050910,   16
+cf2005    ,    4858, Minnesota           , ARG, ARGH                ,   20050910,   17
+cf2005    ,    4741, Michigan            , ARG, ARGH                ,   20050910,   18
+cf2005    ,    1715, Colorado            , ARG, ARGH                ,   20050910,   19
+cf2005    ,    3540, Iowa                , ARG, ARGH                ,   20050910,   20
+cf2005    ,    7848, Texas A&M           , ARG, ARGH                ,   20050910,   21
+cf2005    ,    8432, Virginia            , ARG, ARGH                ,   20050910,   22
+cf2005    ,    5886, Oklahoma            , ARG, ARGH                ,   20050910,   23
+cf2005    ,    9031, Wisconsin           , ARG, ARGH                ,   20050910,   24
+cf2005    ,    8315, Utah                , ARG, ARGH                ,   20050910,   25
+cf2005    ,    4224, Louisville          , ARG, ARGH                ,   20050910,   26
+cf2005    ,     304, Arizona St          , ARG, ARGH                ,   20050910,   27
+cf2005    ,    8141, UCLA                , ARG, ARGH                ,   20050910,   28
+cf2005    ,    7918, Texas Tech          , ARG, ARGH                ,   20050910,   29
+cf2005    ,     783, Boston College      , ARG, ARGH                ,   20050910,   30
+cf2005    ,    5970, Oregon St           , ARG, ARGH                ,   20050910,   31
+cf2005    ,    8588, Washington St       , ARG, ARGH                ,   20050910,   32
+cf2005    ,    5912, Oklahoma St         , ARG, ARGH                ,   20050910,   33
+cf2005    ,     771, Boise St            , ARG, ARGH                ,   20050910,   34
+cf2005    ,    2776, Fresno St           , ARG, ARGH                ,   20050910,   35
+cf2005    ,    4757, Michigan St         , ARG, ARGH                ,   20050910,   36
+cf2005    ,      74, Alabama             , ARG, ARGH                ,   20050910,   37
+cf2005    ,    5511, NC State            , ARG, ARGH                ,   20050910,   38
+cf2005    ,    5371, New Mexico          , ARG, ARGH                ,   20050910,   39
+cf2005    ,    3554, Iowa St             , ARG, ARGH                ,   20050910,   40
+cf2005    ,    5704, Northwestern        , ARG, ARGH                ,   20050910,   41
+cf2005    ,    4474, Maryland            , ARG, ARGH                ,   20050910,   42
+cf2005    ,    5961, Oregon              , ARG, ARGH                ,   20050910,   43
+cf2005    ,    6114, Penn St             , ARG, ARGH                ,   20050910,   44
+cf2005    ,      87, UAB                 , ARG, ARGH                ,   20050910,   45
+cf2005    ,    3717, Kansas              , ARG, ARGH                ,   20050910,   46
+cf2005    ,    9162, Wyoming             , ARG, ARGH                ,   20050910,   47
+cf2005    ,    3731, Kansas St           , ARG, ARGH                ,   20050910,   48
+cf2005    ,    8716, West Virginia       , ARG, ARGH                ,   20050910,   49
+cf2005    ,     821, Bowling Green       , ARG, ARGH                ,   20050910,   50
+cf2005    ,    5279, Nebraska            , ARG, ARGH                ,   20050910,   51
+cf2005    ,    7582, Stanford            , ARG, ARGH                ,   20050910,   52
+cf2005    ,    5492, North Carolina      , ARG, ARGH                ,   20050910,   53
+cf2005    ,     316, Arkansas            , ARG, ARGH                ,   20050910,   54
+cf2005    ,    7978, Toledo              , ARG, ARGH                ,   20050910,   55
+cf2005    ,    4920, Mississippi         , ARG, ARGH                ,   20050910,   56
+cf2005    ,      55, Air Force           , ARG, ARGH                ,   20050910,   57
+cf2005    ,    7365, Southern Miss       , ARG, ARGH                ,   20050910,   58
+cf2005    ,    7242, South Carolina      , ARG, ARGH                ,   20050910,   59
+cf2005    ,    4948, Missouri            , ARG, ARGH                ,   20050910,   60
+cf2005    ,    1872, Connecticut         , ARG, ARGH                ,   20050910,   61
+cf2005    ,    7729, Syracuse            , ARG, ARGH                ,   20050910,   62
+cf2005    ,    1753, Colorado St         , ARG, ARGH                ,   20050910,   63
+cf2005    ,    7933, UTEP                , ARG, ARGH                ,   20050910,   64
+cf2005    ,    6236, Pittsburgh          , ARG, ARGH                ,   20050910,   65
+cf2005    ,    8367, Vanderbilt          , ARG, ARGH                ,   20050910,   66
+cf2005    ,     891, BYU                 , ARG, ARGH                ,   20050910,   67
+cf2005    ,    7878, TCU                 , ARG, ARGH                ,   20050910,   68
+cf2005    ,     294, Arizona             , ARG, ARGH                ,   20050910,   69
+cf2005    ,    7278, South Florida       , ARG, ARGH                ,   20050910,   70
+cf2005    ,    4725, Miami OH            , ARG, ARGH                ,   20050910,   71
+cf2005    ,    5634, N Illinois          , ARG, ARGH                ,   20050910,   72
+cf2005    ,    4218, Louisiana Tech      , ARG, ARGH                ,   20050910,   73
+cf2005    ,     557, Baylor              , ARG, ARGH                ,   20050910,   74
+cf2005    ,    4936, Mississippi St      , ARG, ARGH                ,   20050910,   75
+cf2005    ,    6696, Rutgers             , ARG, ARGH                ,   20050910,   76
+cf2005    ,    4636, Memphis             , ARG, ARGH                ,   20050910,   77
+cf2005    ,    8092, Tulane              , ARG, ARGH                ,   20050910,   78
+cf2005    ,    8508, Wake Forest         , ARG, ARGH                ,   20050910,   79
+cf2005    ,    8068, Troy                , ARG, ARGH                ,   20050910,   80
+cf2005    ,    3347, Houston             , ARG, ARGH                ,   20050910,   81
+cf2005    ,    3425, Illinois            , ARG, ARGH                ,   20050910,   82
+cf2005    ,    1529, Cincinnati          , ARG, ARGH                ,   20050910,   83
+cf2005    ,    7358, SMU                 , ARG, ARGH                ,   20050910,   84
+cf2005    ,    3484, Indiana             , ARG, ARGH                ,   20050910,   85
+cf2005    ,    7002, San Diego St        , ARG, ARGH                ,   20050910,   86
+cf2005    ,    5584, North Texas         , ARG, ARGH                ,   20050910,   87
+cf2005    ,    3197, Hawaii              , ARG, ARGH                ,   20050910,   88
+cf2005    ,    5253, Navy                , ARG, ARGH                ,   20050910,   89
+cf2005    ,    5323, UNLV                , ARG, ARGH                ,   20050910,   90
+cf2005    ,    3781, Kentucky            , ARG, ARGH                ,   20050910,   91
+cf2005    ,    4436, Marshall            , ARG, ARGH                ,   20050910,   92
+cf2005    ,      66, Akron               , ARG, ARGH                ,   20050910,   93
+cf2005    ,    8551, Washington          , ARG, ARGH                ,   20050910,   94
+cf2005    ,    3771, Kent                , ARG, ARGH                ,   20050910,   95
+cf2005    ,    5316, Nevada              , ARG, ARGH                ,   20050910,   96
+cf2005    ,     333, Arkansas St         , ARG, ARGH                ,   20050910,   97
+cf2005    ,    8099, Tulsa               , ARG, ARGH                ,   20050910,   98
+cf2005    ,    2353, E Michigan          , ARG, ARGH                ,   20050910,   99
+cf2005    ,    4785, MTSU                , ARG, ARGH                ,   20050910,  100
+cf2005    ,    5825, Ohio                , ARG, ARGH                ,   20050910,  101
+cf2005    ,    1404, C Michigan          , ARG, ARGH                ,   20050910,  102
+cf2005    ,    2265, Duke                , ARG, ARGH                ,   20050910,  103
+cf2005    ,    6535, Rice                , ARG, ARGH                ,   20050910,  104
+cf2005    ,    3415, Idaho               , ARG, ARGH                ,   20050910,  105
+cf2005    ,    4194, ULL                 , ARG, ARGH                ,   20050910,  106
+cf2005    ,    2292, East Carolina       , ARG, ARGH                ,   20050910,  107
+cf2005    ,    7788, Temple              , ARG, ARGH                ,   20050910,  108
+cf2005    ,    2638, FL Atlantic         , ARG, ARGH                ,   20050910,  109
+cf2005    ,     501, Ball St             , ARG, ARGH                ,   20050910,  110
+cf2005    ,    5387, New Mexico St       , ARG, ARGH                ,   20050910,  111
+cf2005    ,     356, Army                , ARG, ARGH                ,   20050910,  112
+cf2005    ,    7024, San Jose St         , ARG, ARGH                ,   20050910,  113
+cf2005    ,    4200, ULM                 , ARG, ARGH                ,   20050910,  114
+cf2005    ,    8767, W Michigan          , ARG, ARGH                ,   20050910,  115
+cf2005    ,    8325, Utah St             , ARG, ARGH                ,   20050910,  116
+cf2005    ,    1380, UCF                 , ARG, ARGH                ,   20050910,  117
+cf2005    ,    2652, Florida Intl        , ARG, ARGH                ,   20050910,  118
+cf2005    ,     979, Buffalo             , ARG, ARGH                ,   20050910,  119
+cf2005    ,    8251, USC                 , ARG, ARGH                ,   20050917,    1
+cf2005    ,    7840, Texas               , ARG, ARGH                ,   20050917,    2
+cf2005    ,    2666, Florida St          , ARG, ARGH                ,   20050917,    3
+cf2005    ,    2625, Florida             , ARG, ARGH                ,   20050917,    4
+cf2005    ,    2881, Georgia             , ARG, ARGH                ,   20050917,    5
+cf2005    ,    8459, Virginia Tech       , ARG, ARGH                ,   20050917,    6
+cf2005    ,    2911, Georgia Tech        , ARG, ARGH                ,   20050917,    7
+cf2005    ,     402, Auburn              , ARG, ARGH                ,   20050917,    8
+cf2005    ,    4206, LSU                 , ARG, ARGH                ,   20050917,    9
+cf2005    ,    9031, Wisconsin           , ARG, ARGH                ,   20050917,   10
+cf2005    ,    4719, Miami FL            , ARG, ARGH                ,   20050917,   11
+cf2005    ,    8141, UCLA                , ARG, ARGH                ,   20050917,   12
+cf2005    ,    4858, Minnesota           , ARG, ARGH                ,   20050917,   13
+cf2005    ,    5850, Ohio St             , ARG, ARGH                ,   20050917,   14
+cf2005    ,    1098, California          , ARG, ARGH                ,   20050917,   15
+cf2005    ,    6393, Purdue              , ARG, ARGH                ,   20050917,   16
+cf2005    ,    4741, Michigan            , ARG, ARGH                ,   20050917,   17
+cf2005    ,    4757, Michigan St         , ARG, ARGH                ,   20050917,   18
+cf2005    ,    7848, Texas A&M           , ARG, ARGH                ,   20050917,   19
+cf2005    ,    7801, Tennessee           , ARG, ARGH                ,   20050917,   20
+cf2005    ,     304, Arizona St          , ARG, ARGH                ,   20050917,   21
+cf2005    ,    4224, Louisville          , ARG, ARGH                ,   20050917,   22
+cf2005    ,    1715, Colorado            , ARG, ARGH                ,   20050917,   23
+cf2005    ,    8432, Virginia            , ARG, ARGH                ,   20050917,   24
+cf2005    ,    1603, Clemson             , ARG, ARGH                ,   20050917,   25
+cf2005    ,    5749, Notre Dame          , ARG, ARGH                ,   20050917,   26
+cf2005    ,      74, Alabama             , ARG, ARGH                ,   20050917,   27
+cf2005    ,     783, Boston College      , ARG, ARGH                ,   20050917,   28
+cf2005    ,    8716, West Virginia       , ARG, ARGH                ,   20050917,   29
+cf2005    ,    3540, Iowa                , ARG, ARGH                ,   20050917,   30
+cf2005    ,    5912, Oklahoma St         , ARG, ARGH                ,   20050917,   31
+cf2005    ,    8588, Washington St       , ARG, ARGH                ,   20050917,   32
+cf2005    ,    6114, Penn St             , ARG, ARGH                ,   20050917,   33
+cf2005    ,    7918, Texas Tech          , ARG, ARGH                ,   20050917,   34
+cf2005    ,    9162, Wyoming             , ARG, ARGH                ,   20050917,   35
+cf2005    ,    3717, Kansas              , ARG, ARGH                ,   20050917,   36
+cf2005    ,    5961, Oregon              , ARG, ARGH                ,   20050917,   37
+cf2005    ,    8315, Utah                , ARG, ARGH                ,   20050917,   38
+cf2005    ,    5371, New Mexico          , ARG, ARGH                ,   20050917,   39
+cf2005    ,    5279, Nebraska            , ARG, ARGH                ,   20050917,   40
+cf2005    ,     771, Boise St            , ARG, ARGH                ,   20050917,   41
+cf2005    ,    5886, Oklahoma            , ARG, ARGH                ,   20050917,   42
+cf2005    ,    5511, NC State            , ARG, ARGH                ,   20050917,   43
+cf2005    ,    7978, Toledo              , ARG, ARGH                ,   20050917,   44
+cf2005    ,    3554, Iowa St             , ARG, ARGH                ,   20050917,   45
+cf2005    ,    2776, Fresno St           , ARG, ARGH                ,   20050917,   46
+cf2005    ,    5970, Oregon St           , ARG, ARGH                ,   20050917,   47
+cf2005    ,    1872, Connecticut         , ARG, ARGH                ,   20050917,   48
+cf2005    ,     821, Bowling Green       , ARG, ARGH                ,   20050917,   49
+cf2005    ,    8367, Vanderbilt          , ARG, ARGH                ,   20050917,   50
+cf2005    ,    3731, Kansas St           , ARG, ARGH                ,   20050917,   51
+cf2005    ,    4948, Missouri            , ARG, ARGH                ,   20050917,   52
+cf2005    ,    5704, Northwestern        , ARG, ARGH                ,   20050917,   53
+cf2005    ,      87, UAB                 , ARG, ARGH                ,   20050917,   54
+cf2005    ,    7878, TCU                 , ARG, ARGH                ,   20050917,   55
+cf2005    ,      55, Air Force           , ARG, ARGH                ,   20050917,   56
+cf2005    ,     557, Baylor              , ARG, ARGH                ,   20050917,   57
+cf2005    ,    5492, North Carolina      , ARG, ARGH                ,   20050917,   58
+cf2005    ,    7365, Southern Miss       , ARG, ARGH                ,   20050917,   59
+cf2005    ,    7933, UTEP                , ARG, ARGH                ,   20050917,   60
+cf2005    ,    4936, Mississippi St      , ARG, ARGH                ,   20050917,   61
+cf2005    ,    4474, Maryland            , ARG, ARGH                ,   20050917,   62
+cf2005    ,    4920, Mississippi         , ARG, ARGH                ,   20050917,   63
+cf2005    ,    7278, South Florida       , ARG, ARGH                ,   20050917,   64
+cf2005    ,    1753, Colorado St         , ARG, ARGH                ,   20050917,   65
+cf2005    ,     891, BYU                 , ARG, ARGH                ,   20050917,   66
+cf2005    ,     316, Arkansas            , ARG, ARGH                ,   20050917,   67
+cf2005    ,    7729, Syracuse            , ARG, ARGH                ,   20050917,   68
+cf2005    ,    6696, Rutgers             , ARG, ARGH                ,   20050917,   69
+cf2005    ,    5634, N Illinois          , ARG, ARGH                ,   20050917,   70
+cf2005    ,    4725, Miami OH            , ARG, ARGH                ,   20050917,   71
+cf2005    ,    3484, Indiana             , ARG, ARGH                ,   20050917,   72
+cf2005    ,    4636, Memphis             , ARG, ARGH                ,   20050917,   73
+cf2005    ,    7582, Stanford            , ARG, ARGH                ,   20050917,   74
+cf2005    ,     294, Arizona             , ARG, ARGH                ,   20050917,   75
+cf2005    ,    8099, Tulsa               , ARG, ARGH                ,   20050917,   76
+cf2005    ,    7242, South Carolina      , ARG, ARGH                ,   20050917,   77
+cf2005    ,    4218, Louisiana Tech      , ARG, ARGH                ,   20050917,   78
+cf2005    ,    3425, Illinois            , ARG, ARGH                ,   20050917,   79
+cf2005    ,    8508, Wake Forest         , ARG, ARGH                ,   20050917,   80
+cf2005    ,    6236, Pittsburgh          , ARG, ARGH                ,   20050917,   81
+cf2005    ,    1529, Cincinnati          , ARG, ARGH                ,   20050917,   82
+cf2005    ,    8092, Tulane              , ARG, ARGH                ,   20050917,   83
+cf2005    ,    3197, Hawaii              , ARG, ARGH                ,   20050917,   84
+cf2005    ,    3347, Houston             , ARG, ARGH                ,   20050917,   85
+cf2005    ,    7002, San Diego St        , ARG, ARGH                ,   20050917,   86
+cf2005    ,      66, Akron               , ARG, ARGH                ,   20050917,   87
+cf2005    ,    8551, Washington          , ARG, ARGH                ,   20050917,   88
+cf2005    ,    7358, SMU                 , ARG, ARGH                ,   20050917,   89
+cf2005    ,     333, Arkansas St         , ARG, ARGH                ,   20050917,   90
+cf2005    ,    4436, Marshall            , ARG, ARGH                ,   20050917,   91
+cf2005    ,    5316, Nevada              , ARG, ARGH                ,   20050917,   92
+cf2005    ,    5253, Navy                , ARG, ARGH                ,   20050917,   93
+cf2005    ,    6535, Rice                , ARG, ARGH                ,   20050917,   94
+cf2005    ,    5323, UNLV                , ARG, ARGH                ,   20050917,   95
+cf2005    ,    8068, Troy                , ARG, ARGH                ,   20050917,   96
+cf2005    ,    2265, Duke                , ARG, ARGH                ,   20050917,   97
+cf2005    ,    3781, Kentucky            , ARG, ARGH                ,   20050917,   98
+cf2005    ,    1404, C Michigan          , ARG, ARGH                ,   20050917,   99
+cf2005    ,    3771, Kent                , ARG, ARGH                ,   20050917,  100
+cf2005    ,    5584, North Texas         , ARG, ARGH                ,   20050917,  101
+cf2005    ,    5825, Ohio                , ARG, ARGH                ,   20050917,  102
+cf2005    ,    2292, East Carolina       , ARG, ARGH                ,   20050917,  103
+cf2005    ,    4194, ULL                 , ARG, ARGH                ,   20050917,  104
+cf2005    ,    2353, E Michigan          , ARG, ARGH                ,   20050917,  105
+cf2005    ,    8767, W Michigan          , ARG, ARGH                ,   20050917,  106
+cf2005    ,    2638, FL Atlantic         , ARG, ARGH                ,   20050917,  107
+cf2005    ,    7024, San Jose St         , ARG, ARGH                ,   20050917,  108
+cf2005    ,     501, Ball St             , ARG, ARGH                ,   20050917,  109
+cf2005    ,    7788, Temple              , ARG, ARGH                ,   20050917,  110
+cf2005    ,    5387, New Mexico St       , ARG, ARGH                ,   20050917,  111
+cf2005    ,    4200, ULM                 , ARG, ARGH                ,   20050917,  112
+cf2005    ,    8325, Utah St             , ARG, ARGH                ,   20050917,  113
+cf2005    ,    4785, MTSU                , ARG, ARGH                ,   20050917,  114
+cf2005    ,     356, Army                , ARG, ARGH                ,   20050917,  115
+cf2005    ,    3415, Idaho               , ARG, ARGH                ,   20050917,  116
+cf2005    ,    1380, UCF                 , ARG, ARGH                ,   20050917,  117
+cf2005    ,    2652, Florida Intl        , ARG, ARGH                ,   20050917,  118
+cf2005    ,     979, Buffalo             , ARG, ARGH                ,   20050917,  119
+cf2005    ,    8251, USC                 , ARG, ARGH                ,   20050927,    1
+cf2005    ,    8459, Virginia Tech       , ARG, ARGH                ,   20050927,    2
+cf2005    ,    7840, Texas               , ARG, ARGH                ,   20050927,    3
+cf2005    ,    2625, Florida             , ARG, ARGH                ,   20050927,    4
+cf2005    ,    2881, Georgia             , ARG, ARGH                ,   20050927,    5
+cf2005    ,    2666, Florida St          , ARG, ARGH                ,   20050927,    6
+cf2005    ,    4719, Miami FL            , ARG, ARGH                ,   20050927,    7
+cf2005    ,    9031, Wisconsin           , ARG, ARGH                ,   20050927,    8
+cf2005    ,    4858, Minnesota           , ARG, ARGH                ,   20050927,    9
+cf2005    ,    5850, Ohio St             , ARG, ARGH                ,   20050927,   10
+cf2005    ,    4757, Michigan St         , ARG, ARGH                ,   20050927,   11
+cf2005    ,    7801, Tennessee           , ARG, ARGH                ,   20050927,   12
+cf2005    ,    1098, California          , ARG, ARGH                ,   20050927,   13
+cf2005    ,    8141, UCLA                , ARG, ARGH                ,   20050927,   14
+cf2005    ,    4206, LSU                 , ARG, ARGH                ,   20050927,   15
+cf2005    ,     304, Arizona St          , ARG, ARGH                ,   20050927,   16
+cf2005    ,      74, Alabama             , ARG, ARGH                ,   20050927,   17
+cf2005    ,    6114, Penn St             , ARG, ARGH                ,   20050927,   18
+cf2005    ,     783, Boston College      , ARG, ARGH                ,   20050927,   19
+cf2005    ,     402, Auburn              , ARG, ARGH                ,   20050927,   20
+cf2005    ,    8432, Virginia            , ARG, ARGH                ,   20050927,   21
+cf2005    ,    5749, Notre Dame          , ARG, ARGH                ,   20050927,   22
+cf2005    ,    6393, Purdue              , ARG, ARGH                ,   20050927,   23
+cf2005    ,    2911, Georgia Tech        , ARG, ARGH                ,   20050927,   24
+cf2005    ,    4741, Michigan            , ARG, ARGH                ,   20050927,   25
+cf2005    ,    1715, Colorado            , ARG, ARGH                ,   20050927,   26
+cf2005    ,    9162, Wyoming             , ARG, ARGH                ,   20050927,   27
+cf2005    ,    8716, West Virginia       , ARG, ARGH                ,   20050927,   28
+cf2005    ,    5912, Oklahoma St         , ARG, ARGH                ,   20050927,   29
+cf2005    ,    7848, Texas A&M           , ARG, ARGH                ,   20050927,   30
+cf2005    ,    4224, Louisville          , ARG, ARGH                ,   20050927,   31
+cf2005    ,    1603, Clemson             , ARG, ARGH                ,   20050927,   32
+cf2005    ,    8588, Washington St       , ARG, ARGH                ,   20050927,   33
+cf2005    ,    7918, Texas Tech          , ARG, ARGH                ,   20050927,   34
+cf2005    ,     771, Boise St            , ARG, ARGH                ,   20050927,   35
+cf2005    ,    8315, Utah                , ARG, ARGH                ,   20050927,   36
+cf2005    ,    5886, Oklahoma            , ARG, ARGH                ,   20050927,   37
+cf2005    ,    5279, Nebraska            , ARG, ARGH                ,   20050927,   38
+cf2005    ,    7278, South Florida       , ARG, ARGH                ,   20050927,   39
+cf2005    ,    3717, Kansas              , ARG, ARGH                ,   20050927,   40
+cf2005    ,    3554, Iowa St             , ARG, ARGH                ,   20050927,   41
+cf2005    ,    3731, Kansas St           , ARG, ARGH                ,   20050927,   42
+cf2005    ,    3540, Iowa                , ARG, ARGH                ,   20050927,   43
+cf2005    ,    5961, Oregon              , ARG, ARGH                ,   20050927,   44
+cf2005    ,    8367, Vanderbilt          , ARG, ARGH                ,   20050927,   45
+cf2005    ,    7933, UTEP                , ARG, ARGH                ,   20050927,   46
+cf2005    ,    2776, Fresno St           , ARG, ARGH                ,   20050927,   47
+cf2005    ,    7978, Toledo              , ARG, ARGH                ,   20050927,   48
+cf2005    ,    7878, TCU                 , ARG, ARGH                ,   20050927,   49
+cf2005    ,    5492, North Carolina      , ARG, ARGH                ,   20050927,   50
+cf2005    ,    5371, New Mexico          , ARG, ARGH                ,   20050927,   51
+cf2005    ,    5511, NC State            , ARG, ARGH                ,   20050927,   52
+cf2005    ,    4948, Missouri            , ARG, ARGH                ,   20050927,   53
+cf2005    ,    1872, Connecticut         , ARG, ARGH                ,   20050927,   54
+cf2005    ,      87, UAB                 , ARG, ARGH                ,   20050927,   55
+cf2005    ,     821, Bowling Green       , ARG, ARGH                ,   20050927,   56
+cf2005    ,    4474, Maryland            , ARG, ARGH                ,   20050927,   57
+cf2005    ,    5704, Northwestern        , ARG, ARGH                ,   20050927,   58
+cf2005    ,    7365, Southern Miss       , ARG, ARGH                ,   20050927,   59
+cf2005    ,    5970, Oregon St           , ARG, ARGH                ,   20050927,   60
+cf2005    ,      55, Air Force           , ARG, ARGH                ,   20050927,   61
+cf2005    ,    1753, Colorado St         , ARG, ARGH                ,   20050927,   62
+cf2005    ,    7242, South Carolina      , ARG, ARGH                ,   20050927,   63
+cf2005    ,     557, Baylor              , ARG, ARGH                ,   20050927,   64
+cf2005    ,    8099, Tulsa               , ARG, ARGH                ,   20050927,   65
+cf2005    ,    4936, Mississippi St      , ARG, ARGH                ,   20050927,   66
+cf2005    ,    7729, Syracuse            , ARG, ARGH                ,   20050927,   67
+cf2005    ,    4725, Miami OH            , ARG, ARGH                ,   20050927,   68
+cf2005    ,    6696, Rutgers             , ARG, ARGH                ,   20050927,   69
+cf2005    ,    4920, Mississippi         , ARG, ARGH                ,   20050927,   70
+cf2005    ,    3484, Indiana             , ARG, ARGH                ,   20050927,   71
+cf2005    ,     316, Arkansas            , ARG, ARGH                ,   20050927,   72
+cf2005    ,    6236, Pittsburgh          , ARG, ARGH                ,   20050927,   73
+cf2005    ,    7582, Stanford            , ARG, ARGH                ,   20050927,   74
+cf2005    ,     891, BYU                 , ARG, ARGH                ,   20050927,   75
+cf2005    ,     294, Arizona             , ARG, ARGH                ,   20050927,   76
+cf2005    ,      66, Akron               , ARG, ARGH                ,   20050927,   77
+cf2005    ,    8092, Tulane              , ARG, ARGH                ,   20050927,   78
+cf2005    ,    5634, N Illinois          , ARG, ARGH                ,   20050927,   79
+cf2005    ,    4218, Louisiana Tech      , ARG, ARGH                ,   20050927,   80
+cf2005    ,    4636, Memphis             , ARG, ARGH                ,   20050927,   81
+cf2005    ,    1529, Cincinnati          , ARG, ARGH                ,   20050927,   82
+cf2005    ,     333, Arkansas St         , ARG, ARGH                ,   20050927,   83
+cf2005    ,    7002, San Diego St        , ARG, ARGH                ,   20050927,   84
+cf2005    ,    3347, Houston             , ARG, ARGH                ,   20050927,   85
+cf2005    ,    3197, Hawaii              , ARG, ARGH                ,   20050927,   86
+cf2005    ,    3425, Illinois            , ARG, ARGH                ,   20050927,   87
+cf2005    ,    8508, Wake Forest         , ARG, ARGH                ,   20050927,   88
+cf2005    ,    5825, Ohio                , ARG, ARGH                ,   20050927,   89
+cf2005    ,    2353, E Michigan          , ARG, ARGH                ,   20050927,   90
+cf2005    ,    5253, Navy                , ARG, ARGH                ,   20050927,   91
+cf2005    ,    6535, Rice                , ARG, ARGH                ,   20050927,   92
+cf2005    ,    8767, W Michigan          , ARG, ARGH                ,   20050927,   93
+cf2005    ,    8551, Washington          , ARG, ARGH                ,   20050927,   94
+cf2005    ,    3781, Kentucky            , ARG, ARGH                ,   20050927,   95
+cf2005    ,    2292, East Carolina       , ARG, ARGH                ,   20050927,   96
+cf2005    ,    2265, Duke                , ARG, ARGH                ,   20050927,   97
+cf2005    ,    4436, Marshall            , ARG, ARGH                ,   20050927,   98
+cf2005    ,    1380, UCF                 , ARG, ARGH                ,   20050927,   99
+cf2005    ,    5316, Nevada              , ARG, ARGH                ,   20050927,  100
+cf2005    ,    4194, ULL                 , ARG, ARGH                ,   20050927,  101
+cf2005    ,    3771, Kent                , ARG, ARGH                ,   20050927,  102
+cf2005    ,    8068, Troy                , ARG, ARGH                ,   20050927,  103
+cf2005    ,    1404, C Michigan          , ARG, ARGH                ,   20050927,  104
+cf2005    ,    8325, Utah St             , ARG, ARGH                ,   20050927,  105
+cf2005    ,    7358, SMU                 , ARG, ARGH                ,   20050927,  106
+cf2005    ,    4200, ULM                 , ARG, ARGH                ,   20050927,  107
+cf2005    ,    5323, UNLV                , ARG, ARGH                ,   20050927,  108
+cf2005    ,    5584, North Texas         , ARG, ARGH                ,   20050927,  109
+cf2005    ,    4785, MTSU                , ARG, ARGH                ,   20050927,  110
+cf2005    ,    7024, San Jose St         , ARG, ARGH                ,   20050927,  111
+cf2005    ,     501, Ball St             , ARG, ARGH                ,   20050927,  112
+cf2005    ,    5387, New Mexico St       , ARG, ARGH                ,   20050927,  113
+cf2005    ,    2638, FL Atlantic         , ARG, ARGH                ,   20050927,  114
+cf2005    ,     356, Army                , ARG, ARGH                ,   20050927,  115
+cf2005    ,    7788, Temple              , ARG, ARGH                ,   20050927,  116
+cf2005    ,    2652, Florida Intl        , ARG, ARGH                ,   20050927,  117
+cf2005    ,    3415, Idaho               , ARG, ARGH                ,   20050927,  118
+cf2005    ,     979, Buffalo             , ARG, ARGH                ,   20050927,  119
+cf2005    ,    8251, USC                 , ARG, ARGH                ,   20051001,    1
+cf2005    ,    8459, Virginia Tech       , ARG, ARGH                ,   20051001,    2
+cf2005    ,    7840, Texas               , ARG, ARGH                ,   20051001,    3
+cf2005    ,    2666, Florida St          , ARG, ARGH                ,   20051001,    4
+cf2005    ,    4719, Miami FL            , ARG, ARGH                ,   20051001,    5
+cf2005    ,    2881, Georgia             , ARG, ARGH                ,   20051001,    6
+cf2005    ,      74, Alabama             , ARG, ARGH                ,   20051001,    7
+cf2005    ,    9031, Wisconsin           , ARG, ARGH                ,   20051001,    8
+cf2005    ,    6114, Penn St             , ARG, ARGH                ,   20051001,    9
+cf2005    ,    2625, Florida             , ARG, ARGH                ,   20051001,   10
+cf2005    ,    5850, Ohio St             , ARG, ARGH                ,   20051001,   11
+cf2005    ,    1098, California          , ARG, ARGH                ,   20051001,   12
+cf2005    ,    5749, Notre Dame          , ARG, ARGH                ,   20051001,   13
+cf2005    ,    7801, Tennessee           , ARG, ARGH                ,   20051001,   14
+cf2005    ,    4206, LSU                 , ARG, ARGH                ,   20051001,   15
+cf2005    ,    8141, UCLA                , ARG, ARGH                ,   20051001,   16
+cf2005    ,     402, Auburn              , ARG, ARGH                ,   20051001,   17
+cf2005    ,    1715, Colorado            , ARG, ARGH                ,   20051001,   18
+cf2005    ,    4741, Michigan            , ARG, ARGH                ,   20051001,   19
+cf2005    ,     783, Boston College      , ARG, ARGH                ,   20051001,   20
+cf2005    ,    4757, Michigan St         , ARG, ARGH                ,   20051001,   21
+cf2005    ,    4858, Minnesota           , ARG, ARGH                ,   20051001,   22
+cf2005    ,    2911, Georgia Tech        , ARG, ARGH                ,   20051001,   23
+cf2005    ,     304, Arizona St          , ARG, ARGH                ,   20051001,   24
+cf2005    ,    7918, Texas Tech          , ARG, ARGH                ,   20051001,   25
+cf2005    ,    5279, Nebraska            , ARG, ARGH                ,   20051001,   26
+cf2005    ,    9162, Wyoming             , ARG, ARGH                ,   20051001,   27
+cf2005    ,    4224, Louisville          , ARG, ARGH                ,   20051001,   28
+cf2005    ,    5961, Oregon              , ARG, ARGH                ,   20051001,   29
+cf2005    ,    7278, South Florida       , ARG, ARGH                ,   20051001,   30
+cf2005    ,    8716, West Virginia       , ARG, ARGH                ,   20051001,   31
+cf2005    ,    5886, Oklahoma            , ARG, ARGH                ,   20051001,   32
+cf2005    ,    5492, North Carolina      , ARG, ARGH                ,   20051001,   33
+cf2005    ,     771, Boise St            , ARG, ARGH                ,   20051001,   34
+cf2005    ,    7848, Texas A&M           , ARG, ARGH                ,   20051001,   35
+cf2005    ,    8432, Virginia            , ARG, ARGH                ,   20051001,   36
+cf2005    ,    2776, Fresno St           , ARG, ARGH                ,   20051001,   37
+cf2005    ,    3540, Iowa                , ARG, ARGH                ,   20051001,   38
+cf2005    ,    6393, Purdue              , ARG, ARGH                ,   20051001,   39
+cf2005    ,    7878, TCU                 , ARG, ARGH                ,   20051001,   40
+cf2005    ,    1872, Connecticut         , ARG, ARGH                ,   20051001,   41
+cf2005    ,    1603, Clemson             , ARG, ARGH                ,   20051001,   42
+cf2005    ,    7365, Southern Miss       , ARG, ARGH                ,   20051001,   43
+cf2005    ,    4474, Maryland            , ARG, ARGH                ,   20051001,   44
+cf2005    ,    3554, Iowa St             , ARG, ARGH                ,   20051001,   45
+cf2005    ,    8588, Washington St       , ARG, ARGH                ,   20051001,   46
+cf2005    ,      87, UAB                 , ARG, ARGH                ,   20051001,   47
+cf2005    ,    5511, NC State            , ARG, ARGH                ,   20051001,   48
+cf2005    ,     821, Bowling Green       , ARG, ARGH                ,   20051001,   49
+cf2005    ,    3731, Kansas St           , ARG, ARGH                ,   20051001,   50
+cf2005    ,    1753, Colorado St         , ARG, ARGH                ,   20051001,   51
+cf2005    ,    8315, Utah                , ARG, ARGH                ,   20051001,   52
+cf2005    ,    3717, Kansas              , ARG, ARGH                ,   20051001,   53
+cf2005    ,    7978, Toledo              , ARG, ARGH                ,   20051001,   54
+cf2005    ,    5970, Oregon St           , ARG, ARGH                ,   20051001,   55
+cf2005    ,    5704, Northwestern        , ARG, ARGH                ,   20051001,   56
+cf2005    ,    8367, Vanderbilt          , ARG, ARGH                ,   20051001,   57
+cf2005    ,    7933, UTEP                , ARG, ARGH                ,   20051001,   58
+cf2005    ,    4725, Miami OH            , ARG, ARGH                ,   20051001,   59
+cf2005    ,    5912, Oklahoma St         , ARG, ARGH                ,   20051001,   60
+cf2005    ,    3484, Indiana             , ARG, ARGH                ,   20051001,   61
+cf2005    ,    4948, Missouri            , ARG, ARGH                ,   20051001,   62
+cf2005    ,     557, Baylor              , ARG, ARGH                ,   20051001,   63
+cf2005    ,    5371, New Mexico          , ARG, ARGH                ,   20051001,   64
+cf2005    ,    7242, South Carolina      , ARG, ARGH                ,   20051001,   65
+cf2005    ,     316, Arkansas            , ARG, ARGH                ,   20051001,   66
+cf2005    ,    6696, Rutgers             , ARG, ARGH                ,   20051001,   67
+cf2005    ,      55, Air Force           , ARG, ARGH                ,   20051001,   68
+cf2005    ,    4636, Memphis             , ARG, ARGH                ,   20051001,   69
+cf2005    ,    3347, Houston             , ARG, ARGH                ,   20051001,   70
+cf2005    ,    4920, Mississippi         , ARG, ARGH                ,   20051001,   71
+cf2005    ,    7002, San Diego St        , ARG, ARGH                ,   20051001,   72
+cf2005    ,    8099, Tulsa               , ARG, ARGH                ,   20051001,   73
+cf2005    ,    8508, Wake Forest         , ARG, ARGH                ,   20051001,   74
+cf2005    ,    7729, Syracuse            , ARG, ARGH                ,   20051001,   75
+cf2005    ,    4936, Mississippi St      , ARG, ARGH                ,   20051001,   76
+cf2005    ,    8092, Tulane              , ARG, ARGH                ,   20051001,   77
+cf2005    ,    5634, N Illinois          , ARG, ARGH                ,   20051001,   78
+cf2005    ,    6236, Pittsburgh          , ARG, ARGH                ,   20051001,   79
+cf2005    ,    1404, C Michigan          , ARG, ARGH                ,   20051001,   80
+cf2005    ,    4218, Louisiana Tech      , ARG, ARGH                ,   20051001,   81
+cf2005    ,    2353, E Michigan          , ARG, ARGH                ,   20051001,   82
+cf2005    ,    3197, Hawaii              , ARG, ARGH                ,   20051001,   83
+cf2005    ,      66, Akron               , ARG, ARGH                ,   20051001,   84
+cf2005    ,    1529, Cincinnati          , ARG, ARGH                ,   20051001,   85
+cf2005    ,     891, BYU                 , ARG, ARGH                ,   20051001,   86
+cf2005    ,    7582, Stanford            , ARG, ARGH                ,   20051001,   87
+cf2005    ,     294, Arizona             , ARG, ARGH                ,   20051001,   88
+cf2005    ,    5253, Navy                , ARG, ARGH                ,   20051001,   89
+cf2005    ,    1380, UCF                 , ARG, ARGH                ,   20051001,   90
+cf2005    ,    3425, Illinois            , ARG, ARGH                ,   20051001,   91
+cf2005    ,    5825, Ohio                , ARG, ARGH                ,   20051001,   92
+cf2005    ,     333, Arkansas St         , ARG, ARGH                ,   20051001,   93
+cf2005    ,    8551, Washington          , ARG, ARGH                ,   20051001,   94
+cf2005    ,    4436, Marshall            , ARG, ARGH                ,   20051001,   95
+cf2005    ,    5316, Nevada              , ARG, ARGH                ,   20051001,   96
+cf2005    ,    8767, W Michigan          , ARG, ARGH                ,   20051001,   97
+cf2005    ,    3781, Kentucky            , ARG, ARGH                ,   20051001,   98
+cf2005    ,    4785, MTSU                , ARG, ARGH                ,   20051001,   99
+cf2005    ,    6535, Rice                , ARG, ARGH                ,   20051001,  100
+cf2005    ,    4200, ULM                 , ARG, ARGH                ,   20051001,  101
+cf2005    ,    8068, Troy                , ARG, ARGH                ,   20051001,  102
+cf2005    ,    2292, East Carolina       , ARG, ARGH                ,   20051001,  103
+cf2005    ,    3771, Kent                , ARG, ARGH                ,   20051001,  104
+cf2005    ,    5584, North Texas         , ARG, ARGH                ,   20051001,  105
+cf2005    ,    4194, ULL                 , ARG, ARGH                ,   20051001,  106
+cf2005    ,    2265, Duke                , ARG, ARGH                ,   20051001,  107
+cf2005    ,    5323, UNLV                , ARG, ARGH                ,   20051001,  108
+cf2005    ,    7358, SMU                 , ARG, ARGH                ,   20051001,  109
+cf2005    ,    8325, Utah St             , ARG, ARGH                ,   20051001,  110
+cf2005    ,     501, Ball St             , ARG, ARGH                ,   20051001,  111
+cf2005    ,    7024, San Jose St         , ARG, ARGH                ,   20051001,  112
+cf2005    ,    2652, Florida Intl        , ARG, ARGH                ,   20051001,  113
+cf2005    ,    3415, Idaho               , ARG, ARGH                ,   20051001,  114
+cf2005    ,    5387, New Mexico St       , ARG, ARGH                ,   20051001,  115
+cf2005    ,     356, Army                , ARG, ARGH                ,   20051001,  116
+cf2005    ,    2638, FL Atlantic         , ARG, ARGH                ,   20051001,  117
+cf2005    ,    7788, Temple              , ARG, ARGH                ,   20051001,  118
+cf2005    ,     979, Buffalo             , ARG, ARGH                ,   20051001,  119
