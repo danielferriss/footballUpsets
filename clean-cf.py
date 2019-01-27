@@ -6,6 +6,6 @@ for year in years:
 	new_ranks = pd.DataFrame()
 	curr = pd.read_csv('./Data/' + year + '/cf' + year + '.csv')
 	for index, row in curr.iterrows():
-		if row[3] != "ARG":
-			new_ranks.append(row)
+		if row[3].strip() == 'ARG':
+			new_ranks = new_ranks.append(row)
 	new_ranks.to_csv('ARGranks' + year + '.csv')
